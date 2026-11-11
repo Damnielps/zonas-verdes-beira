@@ -1,0 +1,57 @@
+{
+  "title": "Zonas verdes da Beira (1985–2026): agricultura urbana, baixadas e expansão construída",
+  "upload_type": "software",
+  "description": "<p>Artigo científico, site interativo e dados abertos sobre a evolução das terras de baixada, mangais e áreas de agricultura urbana e periurbana da Cidade da Beira, Moçambique, entre 1985 e 2026. O projeto combina a história dos planos urbanísticos da Beira (do anteprojeto de 1943 ao Masterplan 2035) e dos conflitos de uso do solo com um painel de 15 épocas de imagens Landsat, classificado por Random Forest e avaliado por amostra cega estratificada; a medida central é a fração construída dentro de perímetros independentes da classificação agrícola (baixadas por relevo, mangal de referência, áreas agrícolas do OpenStreetMap), estimada de três formas. Projeto irmão de Zonas verdes de Maputo (DOI 10.5281/zenodo.24141821), com o mesmo método.</p><p>Entregas: artigo (PDF; DOCX no repositório), site estático (<code>site/</code>), dados agregados (<code>site/dados/</code>) e o código do pipeline (<code>scripts/</code>).</p><p>Fontes de dados: Digital Earth Africa GeoMAD (CC BY 4.0), Landsat Collection 2 (USGS), Copernicus DEM GLO-30, ESA WorldCover, Impact Observatory/Esri LULC, GHSL, Global Mangrove Watch v3, HDX COD-AB e OpenStreetMap.</p><p>Código sob licença MIT. Imagens de planos históricos e dados de terceiros <strong>não</strong> são cobertos pela licença MIT e mantêm os direitos dos respetivos titulares (ver <code>CREDITOS.md</code>). Os dados brutos não estão incluídos e são reproduzíveis pelo pipeline.</p>",
+  "creators": [
+    {
+      "name": "Pessini Sobreira, Daniel",
+      "orcid": "0000-0002-6632-3991"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "por",
+  "keywords": [
+    "agricultura urbana",
+    "Beira",
+    "zonas húmidas",
+    "mangal",
+    "uso do solo",
+    "sensoriamento remoto",
+    "planejamento urbano",
+    "adaptação climática",
+    "Moçambique",
+    "urban agriculture",
+    "wetlands",
+    "land use change",
+    "remote sensing",
+    "Mozambique"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://damnielps.github.io/zonas-verdes-beira/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.24141821",
+      "relation": "references",
+      "resource_type": "software",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.6894273",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://www.digitalearthafrica.org",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "url"
+    }
+  ],
+  "notes": "O arquivo depositado contém o código do pipeline, o site, os dados agregados e a documentação; os dados brutos (dados/raw/) não estão incluídos. Material de terceiros: ver CREDITOS.md."
+}

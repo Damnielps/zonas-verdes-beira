@@ -1,0 +1,29 @@
+Chaves citadas em artigo.md com status NAO_VERIFICADO ou sem ficha (deve ficar vazio):
+
+Informativo: chaves citadas com ficha PARCIAL (lidas em parte; conferir o trecho citado):
+abdullah_2024	PARCIAL
+battersby_2011	PARCIAL
+bryld_2003	PARCIAL
+cmb_2019	PARCIAL (só as 15 primeiras páginas do Vol. 1: prefácio, índice, sumário executivo; capítulos VII.A2 e VII.H e anexos nã
+crush_2011a	PARCIAL
+davies_2021	PARCIAL
+deltares_2013	PARCIAL (só o sumário executivo, pp. 7-10 de 100+, e o índice; relatório completo e mapas dos apêndices não obtidos)
+egziabher_1994	PARCIAL
+frayne_2014	PARCIAL
+iclei_2026_altomanga	PARCIAL
+iclei_2026_mungassa	PARCIAL
+iclei_2026_ndunda	PARCIAL
+lwasa_2015	PARCIAL
+maidjelele_2023	PARCIAL
+mbiba_1994	PARCIAL
+mougeot_2000	PARCIAL
+pdna_2019	PARCIAL (versão executiva/conferência lida por extração de texto; relatório completo do GFDRR bloqueado por verificação 
+poulsen_2015	PARCIAL
+prain_2010	PARCIAL
+qadir_2010	PARCIAL
+rakodi_1988	PARCIAL
+sidaway_1993	PARCIAL (abstract, introdução, seções sobre planeamento urbano colonial e Zonas Verdes lidas; resto percorrido)
+warren_2015	PARCIAL (texto integral lido, mas apenas na versão manuscrita submetida, fev. 2015, LSHTM Research Online; sem paginação
+wb_icr_2021	PARCIAL (texto integral lido por extração; relatório de avaliação, não o plano)
+witteveenbos_2018	PARCIAL (página institucional curta; relatório técnico não obtido)
+zezza_2010	PARCIAL

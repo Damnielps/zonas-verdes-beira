@@ -1,0 +1,4951 @@
+{
+ "areas_municipio": {
+  "1985": {
+   "1": 2349,
+   "2": 1429,
+   "3": 1784,
+   "45": 51971,
+   "6": 1444,
+   "7": 675
+  },
+  "1990": {
+   "1": 2642,
+   "2": 914,
+   "3": 1326,
+   "45": 53072,
+   "6": 1109,
+   "7": 811
+  },
+  "1995": {
+   "1": 2839,
+   "2": 1735,
+   "3": 2083,
+   "45": 51629,
+   "6": 1345,
+   "7": 1086
+  },
+  "1997": {
+   "1": 3318,
+   "2": 2269,
+   "3": 3140,
+   "45": 50276,
+   "6": 966,
+   "7": 732
+  },
+  "2000": {
+   "1": 3583,
+   "2": 599,
+   "3": 3731,
+   "45": 51132,
+   "6": 875,
+   "7": 797
+  },
+  "2005": {
+   "1": 5346,
+   "2": 1214,
+   "3": 1725,
+   "45": 50444,
+   "6": 867,
+   "7": 1120
+  },
+  "2007": {
+   "1": 5521,
+   "2": 1127,
+   "3": 1802,
+   "45": 50907,
+   "6": 802,
+   "7": 544
+  },
+  "2010": {
+   "1": 5856,
+   "2": 1260,
+   "3": 3358,
+   "45": 48734,
+   "6": 733,
+   "7": 776
+  },
+  "2015": {
+   "1": 6798,
+   "2": 1440,
+   "3": 3068,
+   "45": 48146,
+   "6": 575,
+   "7": 690
+  },
+  "2017": {
+   "1": 7143,
+   "2": 1130,
+   "3": 4184,
+   "45": 47097,
+   "6": 671,
+   "7": 492
+  },
+  "2019": {
+   "1": 7705,
+   "2": 1543,
+   "3": 2219,
+   "45": 48112,
+   "6": 604,
+   "7": 534
+  },
+  "2020": {
+   "1": 8019,
+   "2": 2425,
+   "3": 4341,
+   "45": 44629,
+   "6": 708,
+   "7": 594
+  },
+  "2025": {
+   "1": 8619,
+   "2": 1685,
+   "3": 4535,
+   "45": 44483,
+   "6": 822,
+   "7": 573
+  },
+  "2026": {
+   "1": 8702,
+   "2": 1567,
+   "3": 4601,
+   "45": 44427,
+   "6": 873,
+   "7": 547
+  }
+ },
+ "areas_municipio_pct": {
+  "1985": {
+   "1": 3.9,
+   "2": 2.4,
+   "3": 3.0,
+   "45": 87.1,
+   "6": 2.4,
+   "7": 1.1
+  },
+  "1990": {
+   "1": 4.4,
+   "2": 1.5,
+   "3": 2.2,
+   "45": 88.6,
+   "6": 1.9,
+   "7": 1.4
+  },
+  "1995": {
+   "1": 4.7,
+   "2": 2.9,
+   "3": 3.4,
+   "45": 85.0,
+   "6": 2.2,
+   "7": 1.8
+  },
+  "1997": {
+   "1": 5.5,
+   "2": 3.7,
+   "3": 5.2,
+   "45": 82.8,
+   "6": 1.6,
+   "7": 1.2
+  },
+  "2000": {
+   "1": 5.9,
+   "2": 1.0,
+   "3": 6.1,
+   "45": 84.2,
+   "6": 1.4,
+   "7": 1.3
+  },
+  "2005": {
+   "1": 8.8,
+   "2": 2.0,
+   "3": 2.8,
+   "45": 83.1,
+   "6": 1.4,
+   "7": 1.8
+  },
+  "2007": {
+   "1": 9.1,
+   "2": 1.9,
+   "3": 3.0,
+   "45": 83.9,
+   "6": 1.3,
+   "7": 0.9
+  },
+  "2010": {
+   "1": 9.6,
+   "2": 2.1,
+   "3": 5.5,
+   "45": 80.3,
+   "6": 1.2,
+   "7": 1.3
+  },
+  "2015": {
+   "1": 11.2,
+   "2": 2.4,
+   "3": 5.1,
+   "45": 79.3,
+   "6": 0.9,
+   "7": 1.1
+  },
+  "2017": {
+   "1": 11.8,
+   "2": 1.9,
+   "3": 6.9,
+   "45": 77.6,
+   "6": 1.1,
+   "7": 0.8
+  },
+  "2019": {
+   "1": 12.7,
+   "2": 2.5,
+   "3": 3.7,
+   "45": 79.2,
+   "6": 1.0,
+   "7": 0.9
+  },
+  "2020": {
+   "1": 13.2,
+   "2": 4.0,
+   "3": 7.2,
+   "45": 73.5,
+   "6": 1.2,
+   "7": 1.0
+  },
+  "2025": {
+   "1": 14.2,
+   "2": 2.8,
+   "3": 7.5,
+   "45": 73.3,
+   "6": 1.4,
+   "7": 0.9
+  },
+  "2026": {
+   "1": 14.3,
+   "2": 2.6,
+   "3": 7.6,
+   "45": 73.2,
+   "6": 1.4,
+   "7": 0.9
+  }
+ },
+ "sem_dado_municipio_ha": {
+  "1985": 1066,
+  "1990": 844,
+  "1995": 0,
+  "1997": 16,
+  "2000": 0,
+  "2005": 2,
+  "2007": 15,
+  "2010": 1,
+  "2015": 0,
+  "2017": 0,
+  "2019": 0,
+  "2020": 0,
+  "2025": 0,
+  "2026": 0
+ },
+ "areas_1979_indicativa": {
+  "nota": "1979 (MSS, 60 m) tem legenda reduzida: classe 3 = toda a vegetação fora da baixada, classe 45 ausente. Fica fora das séries quantitativas.",
+  "ha": {
+   "1": 8071,
+   "2": 6346,
+   "3": 43820,
+   "45": 0,
+   "6": 1401,
+   "7": 1079
+  }
+ },
+ "area_municipio_ha": 60716,
+ "areas_posto": {
+  "Urbano 1": {
+   "1985": {
+    "1": 1107,
+    "2": 191,
+    "3": 0,
+    "6": 4,
+    "7": 40,
+    "45": 1002
+   },
+   "1990": {
+    "1": 1276,
+    "2": 107,
+    "3": 0,
+    "6": 4,
+    "7": 38,
+    "45": 918
+   },
+   "1995": {
+    "1": 1327,
+    "2": 171,
+    "3": 0,
+    "6": 4,
+    "7": 105,
+    "45": 736
+   },
+   "1997": {
+    "1": 1541,
+    "2": 224,
+    "3": 14,
+    "6": 4,
+    "7": 41,
+    "45": 520
+   },
+   "2000": {
+    "1": 1584,
+    "2": 45,
+    "3": 0,
+    "6": 5,
+    "7": 13,
+    "45": 697
+   },
+   "2005": {
+    "1": 1703,
+    "2": 36,
+    "3": 1,
+    "6": 4,
+    "7": 18,
+    "45": 581
+   },
+   "2007": {
+    "1": 1755,
+    "2": 46,
+    "3": 0,
+    "6": 4,
+    "7": 18,
+    "45": 520
+   },
+   "2010": {
+    "1": 1835,
+    "2": 53,
+    "3": 0,
+    "6": 4,
+    "7": 18,
+    "45": 434
+   },
+   "2015": {
+    "1": 1965,
+    "2": 34,
+    "3": 0,
+    "6": 11,
+    "7": 34,
+    "45": 300
+   },
+   "2017": {
+    "1": 1989,
+    "2": 5,
+    "3": 0,
+    "6": 7,
+    "7": 25,
+    "45": 319
+   },
+   "2019": {
+    "1": 2027,
+    "2": 10,
+    "3": 0,
+    "6": 7,
+    "7": 17,
+    "45": 283
+   },
+   "2020": {
+    "1": 2035,
+    "2": 193,
+    "3": 1,
+    "6": 9,
+    "7": 17,
+    "45": 88
+   },
+   "2025": {
+    "1": 2046,
+    "2": 7,
+    "3": 0,
+    "6": 27,
+    "7": 24,
+    "45": 239
+   },
+   "2026": {
+    "1": 2050,
+    "2": 47,
+    "3": 10,
+    "6": 48,
+    "7": 42,
+    "45": 148
+   }
+  },
+  "Urbano 2": {
+   "1985": {
+    "1": 469,
+    "2": 320,
+    "3": 0,
+    "6": 0,
+    "7": 46,
+    "45": 2015
+   },
+   "1990": {
+    "1": 515,
+    "2": 111,
+    "3": 1,
+    "6": 0,
+    "7": 76,
+    "45": 2147
+   },
+   "1995": {
+    "1": 571,
+    "2": 259,
+    "3": 7,
+    "6": 3,
+    "7": 83,
+    "45": 1926
+   },
+   "1997": {
+    "1": 618,
+    "2": 488,
+    "3": 48,
+    "6": 0,
+    "7": 16,
+    "45": 1680
+   },
+   "2000": {
+    "1": 638,
+    "2": 91,
+    "3": 8,
+    "6": 0,
+    "7": 3,
+    "45": 2110
+   },
+   "2005": {
+    "1": 896,
+    "2": 246,
+    "3": 13,
+    "6": 0,
+    "7": 24,
+    "45": 1672
+   },
+   "2007": {
+    "1": 953,
+    "2": 205,
+    "3": 35,
+    "6": 0,
+    "7": 13,
+    "45": 1632
+   },
+   "2010": {
+    "1": 1091,
+    "2": 181,
+    "3": 15,
+    "6": 0,
+    "7": 22,
+    "45": 1541
+   },
+   "2015": {
+    "1": 1376,
+    "2": 224,
+    "3": 4,
+    "6": 0,
+    "7": 37,
+    "45": 1210
+   },
+   "2017": {
+    "1": 1473,
+    "2": 158,
+    "3": 11,
+    "6": 13,
+    "7": 29,
+    "45": 1166
+   },
+   "2019": {
+    "1": 1658,
+    "2": 228,
+    "3": 0,
+    "6": 12,
+    "7": 40,
+    "45": 912
+   },
+   "2020": {
+    "1": 1707,
+    "2": 315,
+    "3": 11,
+    "6": 13,
+    "7": 40,
+    "45": 764
+   },
+   "2025": {
+    "1": 1800,
+    "2": 70,
+    "3": 39,
+    "6": 10,
+    "7": 48,
+    "45": 883
+   },
+   "2026": {
+    "1": 1807,
+    "2": 78,
+    "3": 60,
+    "6": 8,
+    "7": 39,
+    "45": 857
+   }
+  },
+  "Urbano 3": {
+   "1985": {
+    "1": 424,
+    "2": 446,
+    "3": 183,
+    "6": 900,
+    "7": 19,
+    "45": 10118
+   },
+   "1990": {
+    "1": 445,
+    "2": 451,
+    "3": 146,
+    "6": 601,
+    "7": 14,
+    "45": 10432
+   },
+   "1995": {
+    "1": 490,
+    "2": 990,
+    "3": 275,
+    "6": 844,
+    "7": 12,
+    "45": 9479
+   },
+   "1997": {
+    "1": 609,
+    "2": 935,
+    "3": 294,
+    "6": 504,
+    "7": 5,
+    "45": 9742
+   },
+   "2000": {
+    "1": 731,
+    "2": 158,
+    "3": 426,
+    "6": 480,
+    "7": 1,
+    "45": 10293
+   },
+   "2005": {
+    "1": 1658,
+    "2": 547,
+    "3": 244,
+    "6": 264,
+    "7": 106,
+    "45": 9270
+   },
+   "2007": {
+    "1": 1681,
+    "2": 567,
+    "3": 101,
+    "6": 281,
+    "7": 3,
+    "45": 9455
+   },
+   "2010": {
+    "1": 1724,
+    "2": 681,
+    "3": 233,
+    "6": 204,
+    "7": 24,
+    "45": 9221
+   },
+   "2015": {
+    "1": 1894,
+    "2": 782,
+    "3": 347,
+    "6": 214,
+    "7": 1,
+    "45": 8852
+   },
+   "2017": {
+    "1": 1958,
+    "2": 713,
+    "3": 505,
+    "6": 219,
+    "7": 1,
+    "45": 8694
+   },
+   "2019": {
+    "1": 2095,
+    "2": 844,
+    "3": 86,
+    "6": 224,
+    "7": 3,
+    "45": 8837
+   },
+   "2020": {
+    "1": 2191,
+    "2": 1148,
+    "3": 416,
+    "6": 227,
+    "7": 4,
+    "45": 8103
+   },
+   "2025": {
+    "1": 2414,
+    "2": 1124,
+    "3": 1101,
+    "6": 241,
+    "7": 10,
+    "45": 7199
+   },
+   "2026": {
+    "1": 2429,
+    "2": 992,
+    "3": 876,
+    "6": 245,
+    "7": 13,
+    "45": 7534
+   }
+  },
+  "Urbano 4": {
+   "1985": {
+    "1": 274,
+    "2": 214,
+    "3": 149,
+    "6": 2,
+    "7": 56,
+    "45": 4530
+   },
+   "1990": {
+    "1": 317,
+    "2": 82,
+    "3": 166,
+    "6": 3,
+    "7": 152,
+    "45": 4505
+   },
+   "1995": {
+    "1": 343,
+    "2": 200,
+    "3": 220,
+    "6": 11,
+    "7": 178,
+    "45": 4273
+   },
+   "1997": {
+    "1": 403,
+    "2": 384,
+    "3": 293,
+    "6": 3,
+    "7": 68,
+    "45": 4074
+   },
+   "2000": {
+    "1": 431,
+    "2": 146,
+    "3": 447,
+    "6": 12,
+    "7": 33,
+    "45": 4155
+   },
+   "2005": {
+    "1": 740,
+    "2": 243,
+    "3": 320,
+    "6": 4,
+    "7": 96,
+    "45": 3822
+   },
+   "2007": {
+    "1": 752,
+    "2": 195,
+    "3": 210,
+    "6": 7,
+    "7": 36,
+    "45": 4024
+   },
+   "2010": {
+    "1": 774,
+    "2": 195,
+    "3": 366,
+    "6": 4,
+    "7": 79,
+    "45": 3806
+   },
+   "2015": {
+    "1": 967,
+    "2": 216,
+    "3": 270,
+    "6": 21,
+    "7": 31,
+    "45": 3719
+   },
+   "2017": {
+    "1": 1072,
+    "2": 139,
+    "3": 506,
+    "6": 33,
+    "7": 39,
+    "45": 3435
+   },
+   "2019": {
+    "1": 1174,
+    "2": 267,
+    "3": 236,
+    "6": 28,
+    "7": 36,
+    "45": 3483
+   },
+   "2020": {
+    "1": 1302,
+    "2": 379,
+    "3": 558,
+    "6": 28,
+    "7": 51,
+    "45": 2907
+   },
+   "2025": {
+    "1": 1526,
+    "2": 158,
+    "3": 671,
+    "6": 42,
+    "7": 45,
+    "45": 2784
+   },
+   "2026": {
+    "1": 1536,
+    "2": 168,
+    "3": 702,
+    "6": 88,
+    "7": 64,
+    "45": 2668
+   }
+  },
+  "Urbano 5": {
+   "1985": {
+    "1": 76,
+    "2": 258,
+    "3": 1452,
+    "6": 538,
+    "7": 514,
+    "45": 34307
+   },
+   "1990": {
+    "1": 89,
+    "2": 164,
+    "3": 1012,
+    "6": 501,
+    "7": 532,
+    "45": 35069
+   },
+   "1995": {
+    "1": 107,
+    "2": 115,
+    "3": 1581,
+    "6": 483,
+    "7": 708,
+    "45": 35215
+   },
+   "1997": {
+    "1": 146,
+    "2": 238,
+    "3": 2492,
+    "6": 455,
+    "7": 601,
+    "45": 34260
+   },
+   "2000": {
+    "1": 199,
+    "2": 159,
+    "3": 2849,
+    "6": 378,
+    "7": 746,
+    "45": 33877
+   },
+   "2005": {
+    "1": 350,
+    "2": 141,
+    "3": 1147,
+    "6": 595,
+    "7": 876,
+    "45": 35099
+   },
+   "2007": {
+    "1": 379,
+    "2": 113,
+    "3": 1456,
+    "6": 510,
+    "7": 474,
+    "45": 35276
+   },
+   "2010": {
+    "1": 432,
+    "2": 149,
+    "3": 2744,
+    "6": 520,
+    "7": 632,
+    "45": 33732
+   },
+   "2015": {
+    "1": 597,
+    "2": 184,
+    "3": 2448,
+    "6": 328,
+    "7": 587,
+    "45": 34064
+   },
+   "2017": {
+    "1": 650,
+    "2": 115,
+    "3": 3162,
+    "6": 400,
+    "7": 398,
+    "45": 33484
+   },
+   "2019": {
+    "1": 751,
+    "2": 193,
+    "3": 1896,
+    "6": 333,
+    "7": 438,
+    "45": 34598
+   },
+   "2020": {
+    "1": 784,
+    "2": 389,
+    "3": 3356,
+    "6": 431,
+    "7": 482,
+    "45": 32767
+   },
+   "2025": {
+    "1": 834,
+    "2": 326,
+    "3": 2724,
+    "6": 502,
+    "7": 446,
+    "45": 33377
+   },
+   "2026": {
+    "1": 880,
+    "2": 282,
+    "3": 2953,
+    "6": 484,
+    "7": 389,
+    "45": 33221
+   }
+  }
+ },
+ "conversao": {
+  "nota": "Área agrícola (classes 2+3) e agricultura de baixada mapeada (classe 2, indicativa) que passam a construído entre épocas; a classe 3 é indicativa. O intervalo 1979–1985 não é comparável (legenda reduzida de 1979).",
+  "intervalos": [
+   {
+    "t0": 1979,
+    "t1": 1985,
+    "anos": 6,
+    "agri_para_construido_ha": 136,
+    "agri_ha_ano": 22.6,
+    "agri_pct_inicial": 0.3,
+    "zv_para_construido_ha": 25,
+    "zv_ha_ano": 4.2,
+    "zv_pct_inicial": 0.4,
+    "area_agri_inicial_ha": 50166,
+    "area_zv_inicial_ha": 6346,
+    "comparavel": false
+   },
+   {
+    "t0": 1985,
+    "t1": 1990,
+    "anos": 5,
+    "agri_para_construido_ha": 7,
+    "agri_ha_ano": 1.4,
+    "agri_pct_inicial": 0.2,
+    "zv_para_construido_ha": 4,
+    "zv_ha_ano": 0.8,
+    "zv_pct_inicial": 0.3,
+    "area_agri_inicial_ha": 3213,
+    "area_zv_inicial_ha": 1429,
+    "comparavel": true
+   },
+   {
+    "t0": 1990,
+    "t1": 1995,
+    "anos": 5,
+    "agri_para_construido_ha": 8,
+    "agri_ha_ano": 1.7,
+    "agri_pct_inicial": 0.4,
+    "zv_para_construido_ha": 0,
+    "zv_ha_ano": 0.1,
+    "zv_pct_inicial": 0.1,
+    "area_agri_inicial_ha": 2240,
+    "area_zv_inicial_ha": 914,
+    "comparavel": true
+   },
+   {
+    "t0": 1995,
+    "t1": 1997,
+    "anos": 2,
+    "agri_para_construido_ha": 5,
+    "agri_ha_ano": 2.6,
+    "agri_pct_inicial": 0.1,
+    "zv_para_construido_ha": 3,
+    "zv_ha_ano": 1.6,
+    "zv_pct_inicial": 0.2,
+    "area_agri_inicial_ha": 3818,
+    "area_zv_inicial_ha": 1735,
+    "comparavel": true
+   },
+   {
+    "t0": 1997,
+    "t1": 2000,
+    "anos": 3,
+    "agri_para_construido_ha": 40,
+    "agri_ha_ano": 13.3,
+    "agri_pct_inicial": 0.7,
+    "zv_para_construido_ha": 33,
+    "zv_ha_ano": 11.0,
+    "zv_pct_inicial": 1.5,
+    "area_agri_inicial_ha": 5409,
+    "area_zv_inicial_ha": 2269,
+    "comparavel": true
+   },
+   {
+    "t0": 2000,
+    "t1": 2005,
+    "anos": 5,
+    "agri_para_construido_ha": 79,
+    "agri_ha_ano": 15.9,
+    "agri_pct_inicial": 1.8,
+    "zv_para_construido_ha": 1,
+    "zv_ha_ano": 0.1,
+    "zv_pct_inicial": 0.1,
+    "area_agri_inicial_ha": 4331,
+    "area_zv_inicial_ha": 599,
+    "comparavel": true
+   },
+   {
+    "t0": 2005,
+    "t1": 2007,
+    "anos": 2,
+    "agri_para_construido_ha": 3,
+    "agri_ha_ano": 1.6,
+    "agri_pct_inicial": 0.1,
+    "zv_para_construido_ha": 2,
+    "zv_ha_ano": 0.8,
+    "zv_pct_inicial": 0.1,
+    "area_agri_inicial_ha": 2938,
+    "area_zv_inicial_ha": 1214,
+    "comparavel": true
+   },
+   {
+    "t0": 2007,
+    "t1": 2010,
+    "anos": 3,
+    "agri_para_construido_ha": 23,
+    "agri_ha_ano": 7.5,
+    "agri_pct_inicial": 0.8,
+    "zv_para_construido_ha": 21,
+    "zv_ha_ano": 7.0,
+    "zv_pct_inicial": 1.9,
+    "area_agri_inicial_ha": 2929,
+    "area_zv_inicial_ha": 1127,
+    "comparavel": true
+   },
+   {
+    "t0": 2010,
+    "t1": 2015,
+    "anos": 5,
+    "agri_para_construido_ha": 73,
+    "agri_ha_ano": 14.6,
+    "agri_pct_inicial": 1.6,
+    "zv_para_construido_ha": 32,
+    "zv_ha_ano": 6.3,
+    "zv_pct_inicial": 2.5,
+    "area_agri_inicial_ha": 4618,
+    "area_zv_inicial_ha": 1260,
+    "comparavel": true
+   },
+   {
+    "t0": 2015,
+    "t1": 2017,
+    "anos": 2,
+    "agri_para_construido_ha": 17,
+    "agri_ha_ano": 8.5,
+    "agri_pct_inicial": 0.4,
+    "zv_para_construido_ha": 10,
+    "zv_ha_ano": 5.0,
+    "zv_pct_inicial": 0.7,
+    "area_agri_inicial_ha": 4508,
+    "area_zv_inicial_ha": 1440,
+    "comparavel": true
+   },
+   {
+    "t0": 2017,
+    "t1": 2019,
+    "anos": 2,
+    "agri_para_construido_ha": 115,
+    "agri_ha_ano": 57.4,
+    "agri_pct_inicial": 2.2,
+    "zv_para_construido_ha": 59,
+    "zv_ha_ano": 29.7,
+    "zv_pct_inicial": 5.3,
+    "area_agri_inicial_ha": 5314,
+    "area_zv_inicial_ha": 1130,
+    "comparavel": true
+   },
+   {
+    "t0": 2019,
+    "t1": 2020,
+    "anos": 1,
+    "agri_para_construido_ha": 9,
+    "agri_ha_ano": 9.1,
+    "agri_pct_inicial": 0.2,
+    "zv_para_construido_ha": 0,
+    "zv_ha_ano": 0.5,
+    "zv_pct_inicial": 0.0,
+    "area_agri_inicial_ha": 3762,
+    "area_zv_inicial_ha": 1543,
+    "comparavel": true
+   },
+   {
+    "t0": 2020,
+    "t1": 2025,
+    "anos": 5,
+    "agri_para_construido_ha": 139,
+    "agri_ha_ano": 27.9,
+    "agri_pct_inicial": 2.1,
+    "zv_para_construido_ha": 60,
+    "zv_ha_ano": 12.1,
+    "zv_pct_inicial": 2.5,
+    "area_agri_inicial_ha": 6767,
+    "area_zv_inicial_ha": 2425,
+    "comparavel": true
+   },
+   {
+    "t0": 2025,
+    "t1": 2026,
+    "anos": 1,
+    "agri_para_construido_ha": 0,
+    "agri_ha_ano": 0.0,
+    "agri_pct_inicial": 0.0,
+    "zv_para_construido_ha": 0,
+    "zv_ha_ano": 0.0,
+    "zv_pct_inicial": 0.0,
+    "area_agri_inicial_ha": 6220,
+    "area_zv_inicial_ha": 1685,
+    "comparavel": true
+   }
+  ],
+  "acumulada": [
+   {
+    "t0": 1985,
+    "t1": 2025,
+    "anos": 40,
+    "agri_para_construido_ha": 389,
+    "agri_ha_ano": 9.7,
+    "agri_pct_inicial": 12.1,
+    "zv_para_construido_ha": 248,
+    "zv_ha_ano": 6.2,
+    "zv_pct_inicial": 17.3,
+    "area_agri_inicial_ha": 3213,
+    "area_zv_inicial_ha": 1429
+   },
+   {
+    "t0": 1985,
+    "t1": 2026,
+    "anos": 41,
+    "agri_para_construido_ha": 396,
+    "agri_ha_ano": 9.7,
+    "agri_pct_inicial": 12.3,
+    "zv_para_construido_ha": 252,
+    "zv_ha_ano": 6.1,
+    "zv_pct_inicial": 17.6,
+    "area_agri_inicial_ha": 3213,
+    "area_zv_inicial_ha": 1429
+   },
+   {
+    "t0": 1990,
+    "t1": 2025,
+    "anos": 35,
+    "agri_para_construido_ha": 264,
+    "agri_ha_ano": 7.5,
+    "agri_pct_inicial": 11.8,
+    "zv_para_construido_ha": 116,
+    "zv_ha_ano": 3.3,
+    "zv_pct_inicial": 12.7,
+    "area_agri_inicial_ha": 2240,
+    "area_zv_inicial_ha": 914
+   }
+  ]
+ },
+ "perda_bairro_top10": {
+  "nota": "Medida principal: área de classe 2 em 1990 que passou a construído até 2025 (transição 2→1; a época 1985 usa cena de 1984 e fica fora da base). A variação líquida inclui também a passagem 2→vegetação, que não é interpretável (a classe 2 não se separa com segurança da vegetação natural), e é só indicativa.",
+  "bairros": [
+   {
+    "bairro": "Chota",
+    "pcode": "MZ07010201",
+    "zv_1990_ha": 75,
+    "zv_2025_ha": 34,
+    "variacao_liquida_ha": -41,
+    "perda_bruta_ha": 70,
+    "convertida_construido_ha": 47,
+    "ganho_bruto_ha": 29,
+    "area_bairro_ha": 814
+   },
+   {
+    "bairro": "Macuti",
+    "pcode": "MZ07010105",
+    "zv_1990_ha": 82,
+    "zv_2025_ha": 5,
+    "variacao_liquida_ha": -77,
+    "perda_bruta_ha": 79,
+    "convertida_construido_ha": 26,
+    "ganho_bruto_ha": 2,
+    "area_bairro_ha": 662
+   },
+   {
+    "bairro": "Macurungo",
+    "pcode": "MZ07010104",
+    "zv_1990_ha": 21,
+    "zv_2025_ha": 0,
+    "variacao_liquida_ha": -21,
+    "perda_bruta_ha": 21,
+    "convertida_construido_ha": 21,
+    "ganho_bruto_ha": 0,
+    "area_bairro_ha": 373
+   },
+   {
+    "bairro": "Vaz",
+    "pcode": "MZ07010205",
+    "zv_1990_ha": 25,
+    "zv_2025_ha": 21,
+    "variacao_liquida_ha": -4,
+    "perda_bruta_ha": 20,
+    "convertida_construido_ha": 6,
+    "ganho_bruto_ha": 16,
+    "area_bairro_ha": 668
+   },
+   {
+    "bairro": "Maraza",
+    "pcode": "MZ07010203",
+    "zv_1990_ha": 8,
+    "zv_2025_ha": 14,
+    "variacao_liquida_ha": 6,
+    "perda_bruta_ha": 4,
+    "convertida_construido_ha": 3,
+    "ganho_bruto_ha": 11,
+    "area_bairro_ha": 271
+   },
+   {
+    "bairro": "Manga Mascarenhas",
+    "pcode": "MZ07010401",
+    "zv_1990_ha": 39,
+    "zv_2025_ha": 54,
+    "variacao_liquida_ha": 16,
+    "perda_bruta_ha": 36,
+    "convertida_construido_ha": 3,
+    "ganho_bruto_ha": 52,
+    "area_bairro_ha": 1574
+   },
+   {
+    "bairro": "Inhamizua",
+    "pcode": "MZ07010304",
+    "zv_1990_ha": 380,
+    "zv_2025_ha": 812,
+    "variacao_liquida_ha": 433,
+    "perda_bruta_ha": 70,
+    "convertida_construido_ha": 3,
+    "ganho_bruto_ha": 503,
+    "area_bairro_ha": 6500
+   },
+   {
+    "bairro": "Mananga",
+    "pcode": "MZ07010202",
+    "zv_1990_ha": 3,
+    "zv_2025_ha": 0,
+    "variacao_liquida_ha": -3,
+    "perda_bruta_ha": 3,
+    "convertida_construido_ha": 2,
+    "ganho_bruto_ha": 0,
+    "area_bairro_ha": 166
+   },
+   {
+    "bairro": "Matacuane",
+    "pcode": "MZ07010106",
+    "zv_1990_ha": 2,
+    "zv_2025_ha": 0,
+    "variacao_liquida_ha": -2,
+    "perda_bruta_ha": 2,
+    "convertida_construido_ha": 2,
+    "ganho_bruto_ha": 0,
+    "area_bairro_ha": 322
+   },
+   {
+    "bairro": "Alto da Manga",
+    "pcode": "MZ07010301",
+    "zv_1990_ha": 8,
+    "zv_2025_ha": 5,
+    "variacao_liquida_ha": -3,
+    "perda_bruta_ha": 7,
+    "convertida_construido_ha": 2,
+    "ganho_bruto_ha": 4,
+    "area_bairro_ha": 466
+   }
+  ],
+  "n_bairros": 26
+ },
+ "epocas": [
+  {
+   "ano": 1979,
+   "fonte": "Planetary Computer landsat-c2-l1 LM02_L1TP_179074_19790829_02_T2 (Tier 2)",
+   "datas": "1979-08-29",
+   "count_mediana": "1.0",
+   "substituicao": null,
+   "quantitativa": false,
+   "rotulo": "1979 (imagem MSS; indicativa, fora das séries)",
+   "caveat": "Imagem Landsat 2 MSS de 29 de agosto de 1979 (60 m, falsa-cor NIR, vermelho, verde): indicativa, fora das séries quantitativas. Legenda reduzida (classe 3 = toda a vegetação fora da baixada, classe 45 ausente).",
+   "marca_cena_substituta": false
+  },
+  {
+   "ano": 1985,
+   "fonte": "Planetary Computer landsat-c2-l2 LT05_L2SP_167074_19840601_02_T1",
+   "datas": "1984-06-01",
+   "count_mediana": "1.0",
+   "substituicao": "GeoMAD 1985 inexistente (sem observações no bbox; a coleção gm_ls5_ls7_annual vazia em 1985); substituído por TM de 1984-06-01 (nuvem/sombra 1,1% no bbox; única cena L2 de estação seca de 1984-85; alternativa 1986-05-06 0% descartada por distar mais de 1985)",
+   "quantitativa": true,
+   "rotulo": "1985 (cena de jun. 1984)",
+   "caveat": "Cena Landsat 5 TM de 1 de junho de 1984, no lugar da composição anual. Motivo: GeoMAD 1985 inexistente (sem observações no bbox; a coleção gm_ls5_ls7_annual vazia em 1985).",
+   "marca_cena_substituta": true
+  },
+  {
+   "ano": 1990,
+   "fonte": "Digital Earth Africa gm_ls5_ls7_annual v1.0.0 tiles x215y051+x216y051 (mosaico)",
+   "datas": "1990-01-01/1990-12-31",
+   "count_mediana": "3.0",
+   "substituicao": null,
+   "quantitativa": true,
+   "rotulo": "1990",
+   "caveat": "Composição anual geomediana do Digital Earth Africa (GeoMAD).",
+   "marca_cena_substituta": false
+  },
+  {
+   "ano": 1995,
+   "fonte": "Digital Earth Africa gm_ls5_ls7_annual v1.0.0 tiles x215y051+x216y051 (mosaico)",
+   "datas": "1995-01-01/1995-12-31",
+   "count_mediana": "7.0",
+   "substituicao": null,
+   "quantitativa": true,
+   "rotulo": "1995",
+   "caveat": "Composição anual geomediana do Digital Earth Africa (GeoMAD).",
+   "marca_cena_substituta": false
+  },
+  {
+   "ano": 1997,
+   "fonte": "Digital Earth Africa gm_ls5_ls7_annual v1.0.0 tiles x215y051+x216y051 (mosaico)",
+   "datas": "1997-01-01/1997-12-31",
+   "count_mediana": "5.0",
+   "substituicao": null,
+   "quantitativa": true,
+   "rotulo": "1997",
+   "caveat": "Composição anual geomediana do Digital Earth Africa (GeoMAD).",
+   "marca_cena_substituta": false
+  },
+  {
+   "ano": 2000,
+   "fonte": "Digital Earth Africa gm_ls5_ls7_annual v1.0.0 tiles x215y051+x216y051 (mosaico)",
+   "datas": "2000-01-01/2000-12-31",
+   "count_mediana": "7.0",
+   "substituicao": null,
+   "quantitativa": true,
+   "rotulo": "2000",
+   "caveat": "Composição anual geomediana do Digital Earth Africa (GeoMAD).",
+   "marca_cena_substituta": false
+  },
+  {
+   "ano": 2005,
+   "fonte": "Planetary Computer landsat-c2-l2 LT05_L2SP_167074_20051001_02_T1",
+   "datas": "2005-10-01",
+   "count_mediana": "1.0",
+   "substituicao": "GeoMAD 2005 rejeitado (faixas SLC-off do Landsat 7 visíveis sobre o mar/estuário); substituído por TM de 2005-10-01 (nuvem/sombra 0% no bbox)",
+   "quantitativa": true,
+   "rotulo": "2005 (cena de out. 2005)",
+   "caveat": "Cena Landsat 5 TM de 1 de outubro de 2005, no lugar da composição anual. Motivo: GeoMAD 2005 rejeitado (faixas SLC-off do Landsat 7 visíveis sobre o mar/estuário).",
+   "marca_cena_substituta": true
+  },
+  {
+   "ano": 2007,
+   "fonte": "Planetary Computer landsat-c2-l2 LT05_L2SP_167074_20070820_02_T1",
+   "datas": "2007-08-20",
+   "count_mediana": "1.0",
+   "substituicao": "GeoMAD 2007 rejeitado (faixas SLC-off do Landsat 7 visíveis sobre o mar/estuário); substituído por TM de 2007-08-20 (nuvem/sombra 0% no bbox)",
+   "quantitativa": true,
+   "rotulo": "2007 (cena de ago. 2007)",
+   "caveat": "Cena Landsat 5 TM de 20 de agosto de 2007, no lugar da composição anual. Motivo: GeoMAD 2007 rejeitado (faixas SLC-off do Landsat 7 visíveis sobre o mar/estuário).",
+   "marca_cena_substituta": true
+  },
+  {
+   "ano": 2010,
+   "fonte": "Digital Earth Africa gm_ls5_ls7_annual v1.0.0 tiles x215y051+x216y051 (mosaico)",
+   "datas": "2010-01-01/2010-12-31",
+   "count_mediana": "7.0",
+   "substituicao": null,
+   "quantitativa": true,
+   "rotulo": "2010",
+   "caveat": "Composição anual geomediana do Digital Earth Africa (GeoMAD).",
+   "marca_cena_substituta": false
+  },
+  {
+   "ano": 2015,
+   "fonte": "Digital Earth Africa gm_ls8_annual v1.0.0 tiles x215y051+x216y051 (mosaico)",
+   "datas": "2015-01-01/2015-12-31",
+   "count_mediana": "11.0",
+   "substituicao": null,
+   "quantitativa": true,
+   "rotulo": "2015",
+   "caveat": "Composição anual geomediana do Digital Earth Africa (GeoMAD).",
+   "marca_cena_substituta": false
+  },
+  {
+   "ano": 2017,
+   "fonte": "Digital Earth Africa gm_ls8_annual v1.0.0 tiles x215y051+x216y051 (mosaico)",
+   "datas": "2017-01-01/2017-12-31",
+   "count_mediana": "10.0",
+   "substituicao": null,
+   "quantitativa": true,
+   "rotulo": "2017",
+   "caveat": "Composição anual geomediana do Digital Earth Africa (GeoMAD).",
+   "marca_cena_substituta": false
+  },
+  {
+   "ano": 2019,
+   "fonte": "Digital Earth Africa gm_ls8_annual v1.0.0 tiles x215y051+x216y051 (mosaico)",
+   "datas": "2019-01-01/2019-12-31",
+   "count_mediana": "14.0",
+   "substituicao": null,
+   "quantitativa": true,
+   "rotulo": "2019",
+   "caveat": "Composição anual geomediana do Digital Earth Africa (GeoMAD).",
+   "marca_cena_substituta": false
+  },
+  {
+   "ano": 2020,
+   "fonte": "Digital Earth Africa gm_ls8_annual v1.0.0 tiles x215y051+x216y051 (mosaico)",
+   "datas": "2020-01-01/2020-12-31",
+   "count_mediana": "9.0",
+   "substituicao": null,
+   "quantitativa": true,
+   "rotulo": "2020",
+   "caveat": "Composição anual geomediana do Digital Earth Africa (GeoMAD).",
+   "marca_cena_substituta": false
+  },
+  {
+   "ano": 2025,
+   "fonte": "Digital Earth Africa gm_ls8_ls9_annual v1.0.0 tiles x215y051+x216y051 (mosaico)",
+   "datas": "2025-01-01/2025-12-31",
+   "count_mediana": "15.0",
+   "substituicao": null,
+   "quantitativa": true,
+   "rotulo": "2025",
+   "caveat": "Composição anual geomediana do Digital Earth Africa (GeoMAD).",
+   "marca_cena_substituta": false
+  },
+  {
+   "ano": 2026,
+   "fonte": "Planetary Computer landsat-c2-l2, mediana de 12 cenas (05-09/2026), p167 r074, nuvem<30%, QA_PIXEL",
+   "datas": "2026-05-04/2026-09-17",
+   "count_mediana": "11.0",
+   "substituicao": null,
+   "quantitativa": true,
+   "rotulo": "2026 (cenas mai.–set.)",
+   "caveat": "Mediana de 12 cenas Landsat de 4 de maio a 17 de setembro de 2026 (ainda sem composição anual).",
+   "marca_cena_substituta": true
+  }
+ ],
+ "classes": [
+  {
+   "cod": 1,
+   "nome": "Construído",
+   "cor_hex": "#9C5B41"
+  },
+  {
+   "cod": 2,
+   "nome": "Agricultura de baixada e hortícola (indicativa)",
+   "cor_hex": "#3D5A4C"
+  },
+  {
+   "cod": 3,
+   "nome": "Cultivo e mosaico de terra firme (indicativo)",
+   "cor_hex": "#A98A3F"
+  },
+  {
+   "cod": 45,
+   "nome": "Vegetação natural e zonas húmidas (inclui mangal)",
+   "cor_hex": "#B4B2A9"
+  },
+  {
+   "cod": 6,
+   "nome": "Água",
+   "cor_hex": "#24404F"
+  },
+  {
+   "cod": 7,
+   "nome": "Solo exposto e areia",
+   "cor_hex": "#6E3B45"
+  }
+ ],
+ "ressalvas": [
+  "1979 (Landsat MSS, 60 m) é indicativa e fica fora das séries quantitativas: legenda reduzida.",
+  "Épocas de cena única ou de mediana de cenas (1985, 2005, 2007, 2026) não são composições anuais; ver a legenda de cada época.",
+  "As classes 2 (agricultura de baixada; exatidão do usuário 0,02 na validação) e 3 (cultivo e mosaico de terra firme) são indicativas: a 3 é a de maior confusão com herbácea e construído disperso.",
+  "Hortas pequenas são subpíxel a 30 m; as áreas são estimativas do mapa, não áreas ajustadas por amostra probabilística."
+ ],
+ "envelopes_comparacao": {
+  "nota": "Três estimativas da parcela construída: classificação bruta (Random Forest por época), classificação pós-processada (janela de três épocas, monotonia do construído, suavização 2↔5) e GHSL GHS-BUILT-S R2023A (fração de superfície edificada, produto de terceiros). As três não são independentes: a bruta e a pós-processada vêm do mesmo modelo, e o GHSL orientou os rótulos de treino (construído só onde GHSL ≥ 20%; outras classes só onde < 5%). O GHSL R2023A interpola entre épocas observadas (1975, 1990, 2000, 2014 e 2018; European Commission, GHSL Data Package 2023, p. 6); 2020 e 2025 são extrapolados. O GHSL mede superfície de edifícios, não a mancha urbana, e por isso tende a ser o mais baixo. A faixa é o mínimo e o máximo das três; as três são estimativas, nenhuma é a verdade. GHSL só existe em anos múltiplos de 5 (épocas intermediárias usam o ano GHSL mais próximo, ver ghsl_epoca).",
+  "marcos": [
+   {
+    "ano": 2019,
+    "rotulo": "Ciclone Idai"
+   }
+  ],
+  "perimetros": {
+   "baixada_dem<=10m_tpi<0": {
+    "rotulo": "Baixadas (≤ 10 m, sensibilidade)",
+    "serie": {
+     "1985": {
+      "area_ha": 21172,
+      "pct_bruto": 4.15,
+      "pct_final": 3.32,
+      "pct_ghsl": 1.1,
+      "ha_bruto": 879.7,
+      "ha_final": 702.3,
+      "ha_ghsl": 231.9,
+      "ghsl_epoca": 1985,
+      "pct_min": 1.1,
+      "pct_max": 4.15,
+      "ha_min": 231.9,
+      "ha_max": 879.7
+     },
+     "1990": {
+      "area_ha": 21220,
+      "pct_bruto": 8.88,
+      "pct_final": 3.81,
+      "pct_ghsl": 1.27,
+      "ha_bruto": 1884.4,
+      "ha_final": 809.4,
+      "ha_ghsl": 270.5,
+      "ghsl_epoca": 1990,
+      "pct_min": 1.27,
+      "pct_max": 8.88,
+      "ha_min": 270.5,
+      "ha_max": 1884.4
+     },
+     "1995": {
+      "area_ha": 21468,
+      "pct_bruto": 3.54,
+      "pct_final": 4.15,
+      "pct_ghsl": 1.5,
+      "ha_bruto": 760.7,
+      "ha_final": 890.2,
+      "ha_ghsl": 321.9,
+      "ghsl_epoca": 1995,
+      "pct_min": 1.5,
+      "pct_max": 4.15,
+      "ha_min": 321.9,
+      "ha_max": 890.2
+     },
+     "1997": {
+      "area_ha": 21468,
+      "pct_bruto": 6.31,
+      "pct_final": 5.05,
+      "pct_ghsl": 1.5,
+      "ha_bruto": 1353.9,
+      "ha_final": 1083.8,
+      "ha_ghsl": 321.9,
+      "ghsl_epoca": 1995,
+      "pct_min": 1.5,
+      "pct_max": 6.31,
+      "ha_min": 321.9,
+      "ha_max": 1353.9
+     },
+     "2000": {
+      "area_ha": 21468,
+      "pct_bruto": 5.7,
+      "pct_final": 5.38,
+      "pct_ghsl": 1.82,
+      "ha_bruto": 1223.2,
+      "ha_final": 1155.1,
+      "ha_ghsl": 391.1,
+      "ghsl_epoca": 2000,
+      "pct_min": 1.82,
+      "pct_max": 5.7,
+      "ha_min": 391.1,
+      "ha_max": 1223.2
+     },
+     "2005": {
+      "area_ha": 21467,
+      "pct_bruto": 9.37,
+      "pct_final": 7.09,
+      "pct_ghsl": 2.23,
+      "ha_bruto": 2010.7,
+      "ha_final": 1522.6,
+      "ha_ghsl": 478.5,
+      "ghsl_epoca": 2005,
+      "pct_min": 2.23,
+      "pct_max": 9.37,
+      "ha_min": 478.5,
+      "ha_max": 2010.7
+     },
+     "2007": {
+      "area_ha": 21460,
+      "pct_bruto": 8.12,
+      "pct_final": 7.57,
+      "pct_ghsl": 2.22,
+      "ha_bruto": 1742.8,
+      "ha_final": 1625.3,
+      "ha_ghsl": 476.6,
+      "ghsl_epoca": 2005,
+      "pct_min": 2.22,
+      "pct_max": 8.12,
+      "ha_min": 476.6,
+      "ha_max": 1742.8
+     },
+     "2010": {
+      "area_ha": 21468,
+      "pct_bruto": 7.63,
+      "pct_final": 8.43,
+      "pct_ghsl": 2.81,
+      "ha_bruto": 1637.3,
+      "ha_final": 1808.8,
+      "ha_ghsl": 603.4,
+      "ghsl_epoca": 2010,
+      "pct_min": 2.81,
+      "pct_max": 8.43,
+      "ha_min": 603.4,
+      "ha_max": 1808.8
+     },
+     "2015": {
+      "area_ha": 21468,
+      "pct_bruto": 10.61,
+      "pct_final": 10.35,
+      "pct_ghsl": 3.47,
+      "ha_bruto": 2278.3,
+      "ha_final": 2222.0,
+      "ha_ghsl": 743.9,
+      "ghsl_epoca": 2015,
+      "pct_min": 3.47,
+      "pct_max": 10.61,
+      "ha_min": 743.9,
+      "ha_max": 2278.3
+     },
+     "2017": {
+      "area_ha": 21468,
+      "pct_bruto": 10.86,
+      "pct_final": 11.11,
+      "pct_ghsl": 3.47,
+      "ha_bruto": 2331.5,
+      "ha_final": 2385.4,
+      "ha_ghsl": 743.9,
+      "ghsl_epoca": 2015,
+      "pct_min": 3.47,
+      "pct_max": 11.11,
+      "ha_min": 743.9,
+      "ha_max": 2385.4
+     },
+     "2019": {
+      "area_ha": 21468,
+      "pct_bruto": 11.07,
+      "pct_final": 12.29,
+      "pct_ghsl": 3.91,
+      "ha_bruto": 2376.2,
+      "ha_final": 2638.4,
+      "ha_ghsl": 840.3,
+      "ghsl_epoca": 2020,
+      "pct_min": 3.91,
+      "pct_max": 12.29,
+      "ha_min": 840.3,
+      "ha_max": 2638.4
+     },
+     "2020": {
+      "area_ha": 21468,
+      "pct_bruto": 11.73,
+      "pct_final": 12.8,
+      "pct_ghsl": 3.91,
+      "ha_bruto": 2518.4,
+      "ha_final": 2748.1,
+      "ha_ghsl": 840.3,
+      "ghsl_epoca": 2020,
+      "pct_min": 3.91,
+      "pct_max": 12.8,
+      "ha_min": 840.3,
+      "ha_max": 2748.1
+     },
+     "2025": {
+      "area_ha": 21468,
+      "pct_bruto": 11.77,
+      "pct_final": 13.84,
+      "pct_ghsl": 4.18,
+      "ha_bruto": 2526.0,
+      "ha_final": 2970.5,
+      "ha_ghsl": 897.0,
+      "ghsl_epoca": 2025,
+      "pct_min": 4.18,
+      "pct_max": 13.84,
+      "ha_min": 897.0,
+      "ha_max": 2970.5
+     },
+     "2026": {
+      "area_ha": 21468,
+      "pct_bruto": 13.33,
+      "pct_final": 14.03,
+      "pct_ghsl": 4.18,
+      "ha_bruto": 2860.6,
+      "ha_final": 3011.3,
+      "ha_ghsl": 897.0,
+      "ghsl_epoca": 2025,
+      "pct_min": 4.18,
+      "pct_max": 14.03,
+      "ha_min": 897.0,
+      "ha_max": 3011.3
+     }
+    }
+   },
+   "baixada_dem<=6m_tpi<0": {
+    "rotulo": "Baixadas (≤ 6 m, sensibilidade)",
+    "serie": {
+     "1985": {
+      "area_ha": 15293,
+      "pct_bruto": 4.65,
+      "pct_final": 3.82,
+      "pct_ghsl": 1.35,
+      "ha_bruto": 710.6,
+      "ha_final": 584.7,
+      "ha_ghsl": 206.4,
+      "ghsl_epoca": 1985,
+      "pct_min": 1.35,
+      "pct_max": 4.65,
+      "ha_min": 206.4,
+      "ha_max": 710.6
+     },
+     "1990": {
+      "area_ha": 15471,
+      "pct_bruto": 9.57,
+      "pct_final": 4.44,
+      "pct_ghsl": 1.53,
+      "ha_bruto": 1480.4,
+      "ha_final": 687.0,
+      "ha_ghsl": 237.3,
+      "ghsl_epoca": 1990,
+      "pct_min": 1.53,
+      "pct_max": 9.57,
+      "ha_min": 237.3,
+      "ha_max": 1480.4
+     },
+     "1995": {
+      "area_ha": 15545,
+      "pct_bruto": 4.21,
+      "pct_final": 4.85,
+      "pct_ghsl": 1.8,
+      "ha_bruto": 653.9,
+      "ha_final": 754.1,
+      "ha_ghsl": 279.4,
+      "ghsl_epoca": 1995,
+      "pct_min": 1.8,
+      "pct_max": 4.85,
+      "ha_min": 279.4,
+      "ha_max": 754.1
+     },
+     "1997": {
+      "area_ha": 15545,
+      "pct_bruto": 7.7,
+      "pct_final": 6.02,
+      "pct_ghsl": 1.8,
+      "ha_bruto": 1197.4,
+      "ha_final": 935.6,
+      "ha_ghsl": 279.4,
+      "ghsl_epoca": 1995,
+      "pct_min": 1.8,
+      "pct_max": 7.7,
+      "ha_min": 279.4,
+      "ha_max": 1197.4
+     },
+     "2000": {
+      "area_ha": 15545,
+      "pct_bruto": 6.98,
+      "pct_final": 6.37,
+      "pct_ghsl": 2.17,
+      "ha_bruto": 1085.6,
+      "ha_final": 990.8,
+      "ha_ghsl": 337.8,
+      "ghsl_epoca": 2000,
+      "pct_min": 2.17,
+      "pct_max": 6.98,
+      "ha_min": 337.8,
+      "ha_max": 1085.6
+     },
+     "2005": {
+      "area_ha": 15544,
+      "pct_bruto": 10.0,
+      "pct_final": 8.11,
+      "pct_ghsl": 2.65,
+      "ha_bruto": 1554.4,
+      "ha_final": 1261.3,
+      "ha_ghsl": 411.8,
+      "ghsl_epoca": 2005,
+      "pct_min": 2.65,
+      "pct_max": 10.0,
+      "ha_min": 411.8,
+      "ha_max": 1554.4
+     },
+     "2007": {
+      "area_ha": 15537,
+      "pct_bruto": 9.59,
+      "pct_final": 8.75,
+      "pct_ghsl": 2.64,
+      "ha_bruto": 1489.9,
+      "ha_final": 1359.3,
+      "ha_ghsl": 409.9,
+      "ghsl_epoca": 2005,
+      "pct_min": 2.64,
+      "pct_max": 9.59,
+      "ha_min": 409.9,
+      "ha_max": 1489.9
+     },
+     "2010": {
+      "area_ha": 15545,
+      "pct_bruto": 9.3,
+      "pct_final": 9.89,
+      "pct_ghsl": 3.32,
+      "ha_bruto": 1445.0,
+      "ha_final": 1537.4,
+      "ha_ghsl": 516.5,
+      "ghsl_epoca": 2010,
+      "pct_min": 3.32,
+      "pct_max": 9.89,
+      "ha_min": 516.5,
+      "ha_max": 1537.4
+     },
+     "2015": {
+      "area_ha": 15545,
+      "pct_bruto": 13.07,
+      "pct_final": 12.33,
+      "pct_ghsl": 4.03,
+      "ha_bruto": 2031.8,
+      "ha_final": 1915.9,
+      "ha_ghsl": 626.8,
+      "ghsl_epoca": 2015,
+      "pct_min": 4.03,
+      "pct_max": 13.07,
+      "ha_min": 626.8,
+      "ha_max": 2031.8
+     },
+     "2017": {
+      "area_ha": 15545,
+      "pct_bruto": 12.69,
+      "pct_final": 13.27,
+      "pct_ghsl": 4.03,
+      "ha_bruto": 1972.8,
+      "ha_final": 2062.3,
+      "ha_ghsl": 626.8,
+      "ghsl_epoca": 2015,
+      "pct_min": 4.03,
+      "pct_max": 13.27,
+      "ha_min": 626.8,
+      "ha_max": 2062.3
+     },
+     "2019": {
+      "area_ha": 15545,
+      "pct_bruto": 13.63,
+      "pct_final": 14.78,
+      "pct_ghsl": 4.36,
+      "ha_bruto": 2119.2,
+      "ha_final": 2298.2,
+      "ha_ghsl": 677.2,
+      "ghsl_epoca": 2020,
+      "pct_min": 4.36,
+      "pct_max": 14.78,
+      "ha_min": 677.2,
+      "ha_max": 2298.2
+     },
+     "2020": {
+      "area_ha": 15545,
+      "pct_bruto": 14.2,
+      "pct_final": 15.23,
+      "pct_ghsl": 4.36,
+      "ha_bruto": 2206.9,
+      "ha_final": 2368.0,
+      "ha_ghsl": 677.2,
+      "ghsl_epoca": 2020,
+      "pct_min": 4.36,
+      "pct_max": 15.23,
+      "ha_min": 677.2,
+      "ha_max": 2368.0
+     },
+     "2025": {
+      "area_ha": 15545,
+      "pct_bruto": 13.84,
+      "pct_final": 16.2,
+      "pct_ghsl": 4.62,
+      "ha_bruto": 2151.4,
+      "ha_final": 2517.7,
+      "ha_ghsl": 718.8,
+      "ghsl_epoca": 2025,
+      "pct_min": 4.62,
+      "pct_max": 16.2,
+      "ha_min": 718.8,
+      "ha_max": 2517.7
+     },
+     "2026": {
+      "area_ha": 15545,
+      "pct_bruto": 15.78,
+      "pct_final": 16.44,
+      "pct_ghsl": 4.62,
+      "ha_bruto": 2453.6,
+      "ha_final": 2556.1,
+      "ha_ghsl": 718.8,
+      "ghsl_epoca": 2025,
+      "pct_min": 4.62,
+      "pct_max": 16.44,
+      "ha_min": 718.8,
+      "ha_max": 2556.1
+     }
+    }
+   },
+   "baixada_dem<=8m_tpi<0": {
+    "rotulo": "Baixadas (altitude ≤ 8 m, TPI < 0)",
+    "serie": {
+     "1985": {
+      "area_ha": 18509,
+      "pct_bruto": 4.17,
+      "pct_final": 3.4,
+      "pct_ghsl": 1.21,
+      "ha_bruto": 771.9,
+      "ha_final": 629.7,
+      "ha_ghsl": 223.4,
+      "ghsl_epoca": 1985,
+      "pct_min": 1.21,
+      "pct_max": 4.17,
+      "ha_min": 223.4,
+      "ha_max": 771.9
+     },
+     "1990": {
+      "area_ha": 18638,
+      "pct_bruto": 9.32,
+      "pct_final": 3.94,
+      "pct_ghsl": 1.38,
+      "ha_bruto": 1737.3,
+      "ha_final": 733.8,
+      "ha_ghsl": 257.5,
+      "ghsl_epoca": 1990,
+      "pct_min": 1.38,
+      "pct_max": 9.32,
+      "ha_min": 257.5,
+      "ha_max": 1737.3
+     },
+     "1995": {
+      "area_ha": 18797,
+      "pct_bruto": 3.76,
+      "pct_final": 4.28,
+      "pct_ghsl": 1.62,
+      "ha_bruto": 706.7,
+      "ha_final": 804.2,
+      "ha_ghsl": 303.9,
+      "ghsl_epoca": 1995,
+      "pct_min": 1.62,
+      "pct_max": 4.28,
+      "ha_min": 303.9,
+      "ha_max": 804.2
+     },
+     "1997": {
+      "area_ha": 18797,
+      "pct_bruto": 6.77,
+      "pct_final": 5.27,
+      "pct_ghsl": 1.62,
+      "ha_bruto": 1271.8,
+      "ha_final": 990.2,
+      "ha_ghsl": 303.9,
+      "ghsl_epoca": 1995,
+      "pct_min": 1.62,
+      "pct_max": 6.77,
+      "ha_min": 303.9,
+      "ha_max": 1271.8
+     },
+     "2000": {
+      "area_ha": 18797,
+      "pct_bruto": 6.13,
+      "pct_final": 5.59,
+      "pct_ghsl": 1.95,
+      "ha_bruto": 1152.4,
+      "ha_final": 1050.8,
+      "ha_ghsl": 367.2,
+      "ghsl_epoca": 2000,
+      "pct_min": 1.95,
+      "pct_max": 6.13,
+      "ha_min": 367.2,
+      "ha_max": 1152.4
+     },
+     "2005": {
+      "area_ha": 18796,
+      "pct_bruto": 9.47,
+      "pct_final": 7.28,
+      "pct_ghsl": 2.38,
+      "ha_bruto": 1780.6,
+      "ha_final": 1368.4,
+      "ha_ghsl": 447.3,
+      "ghsl_epoca": 2005,
+      "pct_min": 2.38,
+      "pct_max": 9.47,
+      "ha_min": 447.3,
+      "ha_max": 1780.6
+     },
+     "2007": {
+      "area_ha": 18790,
+      "pct_bruto": 8.58,
+      "pct_final": 7.82,
+      "pct_ghsl": 2.37,
+      "ha_bruto": 1612.8,
+      "ha_final": 1470.2,
+      "ha_ghsl": 445.4,
+      "ghsl_epoca": 2005,
+      "pct_min": 2.37,
+      "pct_max": 8.58,
+      "ha_min": 445.4,
+      "ha_max": 1612.8
+     },
+     "2010": {
+      "area_ha": 18797,
+      "pct_bruto": 8.2,
+      "pct_final": 8.78,
+      "pct_ghsl": 2.99,
+      "ha_bruto": 1542.2,
+      "ha_final": 1651.0,
+      "ha_ghsl": 562.2,
+      "ghsl_epoca": 2010,
+      "pct_min": 2.99,
+      "pct_max": 8.78,
+      "ha_min": 562.2,
+      "ha_max": 1651.0
+     },
+     "2015": {
+      "area_ha": 18797,
+      "pct_bruto": 11.44,
+      "pct_final": 10.87,
+      "pct_ghsl": 3.66,
+      "ha_bruto": 2149.5,
+      "ha_final": 2043.1,
+      "ha_ghsl": 688.1,
+      "ghsl_epoca": 2015,
+      "pct_min": 3.66,
+      "pct_max": 11.44,
+      "ha_min": 688.1,
+      "ha_max": 2149.5
+     },
+     "2017": {
+      "area_ha": 18797,
+      "pct_bruto": 11.36,
+      "pct_final": 11.68,
+      "pct_ghsl": 3.66,
+      "ha_bruto": 2135.2,
+      "ha_final": 2196.3,
+      "ha_ghsl": 688.1,
+      "ghsl_epoca": 2015,
+      "pct_min": 3.66,
+      "pct_max": 11.68,
+      "ha_min": 688.1,
+      "ha_max": 2196.3
+     },
+     "2019": {
+      "area_ha": 18797,
+      "pct_bruto": 11.9,
+      "pct_final": 13.0,
+      "pct_ghsl": 4.06,
+      "ha_bruto": 2237.2,
+      "ha_final": 2442.9,
+      "ha_ghsl": 762.3,
+      "ghsl_epoca": 2020,
+      "pct_min": 4.06,
+      "pct_max": 13.0,
+      "ha_min": 762.3,
+      "ha_max": 2442.9
+     },
+     "2020": {
+      "area_ha": 18797,
+      "pct_bruto": 12.48,
+      "pct_final": 13.45,
+      "pct_ghsl": 4.06,
+      "ha_bruto": 2345.6,
+      "ha_final": 2528.3,
+      "ha_ghsl": 762.3,
+      "ghsl_epoca": 2020,
+      "pct_min": 4.06,
+      "pct_max": 13.45,
+      "ha_min": 762.3,
+      "ha_max": 2528.3
+     },
+     "2025": {
+      "area_ha": 18797,
+      "pct_bruto": 12.3,
+      "pct_final": 14.39,
+      "pct_ghsl": 4.33,
+      "ha_bruto": 2312.4,
+      "ha_final": 2704.1,
+      "ha_ghsl": 813.8,
+      "ghsl_epoca": 2025,
+      "pct_min": 4.33,
+      "pct_max": 14.39,
+      "ha_min": 813.8,
+      "ha_max": 2704.1
+     },
+     "2026": {
+      "area_ha": 18797,
+      "pct_bruto": 13.99,
+      "pct_final": 14.6,
+      "pct_ghsl": 4.33,
+      "ha_bruto": 2630.4,
+      "ha_final": 2743.6,
+      "ha_ghsl": 813.8,
+      "ghsl_epoca": 2025,
+      "pct_min": 4.33,
+      "pct_max": 14.6,
+      "ha_min": 813.8,
+      "ha_max": 2743.6
+     }
+    }
+   },
+   "mangal_ref_wc2020_gmw1996": {
+    "rotulo": "Mangal de referência (WorldCover 2020 ∪ GMW 1996)",
+    "serie": {
+     "1985": {
+      "area_ha": 4601,
+      "pct_bruto": 1.44,
+      "pct_final": 0.85,
+      "pct_ghsl": 0.02,
+      "ha_bruto": 66.2,
+      "ha_final": 39.2,
+      "ha_ghsl": 0.7,
+      "ghsl_epoca": 1985,
+      "pct_min": 0.02,
+      "pct_max": 1.44,
+      "ha_min": 0.7,
+      "ha_max": 66.2
+     },
+     "1990": {
+      "area_ha": 4678,
+      "pct_bruto": 9.67,
+      "pct_final": 0.87,
+      "pct_ghsl": 0.02,
+      "ha_bruto": 452.2,
+      "ha_final": 40.8,
+      "ha_ghsl": 0.9,
+      "ghsl_epoca": 1990,
+      "pct_min": 0.02,
+      "pct_max": 9.67,
+      "ha_min": 0.9,
+      "ha_max": 452.2
+     },
+     "1995": {
+      "area_ha": 4678,
+      "pct_bruto": 0.59,
+      "pct_final": 1.01,
+      "pct_ghsl": 0.02,
+      "ha_bruto": 27.8,
+      "ha_final": 47.3,
+      "ha_ghsl": 1.1,
+      "ghsl_epoca": 1995,
+      "pct_min": 0.02,
+      "pct_max": 1.01,
+      "ha_min": 1.1,
+      "ha_max": 47.3
+     },
+     "1997": {
+      "area_ha": 4678,
+      "pct_bruto": 2.36,
+      "pct_final": 1.25,
+      "pct_ghsl": 0.02,
+      "ha_bruto": 110.2,
+      "ha_final": 58.7,
+      "ha_ghsl": 1.1,
+      "ghsl_epoca": 1995,
+      "pct_min": 0.02,
+      "pct_max": 2.36,
+      "ha_min": 1.1,
+      "ha_max": 110.2
+     },
+     "2000": {
+      "area_ha": 4678,
+      "pct_bruto": 1.62,
+      "pct_final": 1.5,
+      "pct_ghsl": 0.03,
+      "ha_bruto": 75.6,
+      "ha_final": 70.3,
+      "ha_ghsl": 1.3,
+      "ghsl_epoca": 2000,
+      "pct_min": 0.03,
+      "pct_max": 1.62,
+      "ha_min": 1.3,
+      "ha_max": 75.6
+     },
+     "2005": {
+      "area_ha": 4677,
+      "pct_bruto": 5.79,
+      "pct_final": 2.09,
+      "pct_ghsl": 0.03,
+      "ha_bruto": 270.8,
+      "ha_final": 97.8,
+      "ha_ghsl": 1.4,
+      "ghsl_epoca": 2005,
+      "pct_min": 0.03,
+      "pct_max": 5.79,
+      "ha_min": 1.4,
+      "ha_max": 270.8
+     },
+     "2007": {
+      "area_ha": 4677,
+      "pct_bruto": 3.92,
+      "pct_final": 2.37,
+      "pct_ghsl": 0.03,
+      "ha_bruto": 183.2,
+      "ha_final": 111.0,
+      "ha_ghsl": 1.4,
+      "ghsl_epoca": 2005,
+      "pct_min": 0.03,
+      "pct_max": 3.92,
+      "ha_min": 1.4,
+      "ha_max": 183.2
+     },
+     "2010": {
+      "area_ha": 4678,
+      "pct_bruto": 1.59,
+      "pct_final": 2.53,
+      "pct_ghsl": 0.03,
+      "ha_bruto": 74.2,
+      "ha_final": 118.4,
+      "ha_ghsl": 1.5,
+      "ghsl_epoca": 2010,
+      "pct_min": 0.03,
+      "pct_max": 2.53,
+      "ha_min": 1.5,
+      "ha_max": 118.4
+     },
+     "2015": {
+      "area_ha": 4678,
+      "pct_bruto": 2.67,
+      "pct_final": 3.06,
+      "pct_ghsl": 0.04,
+      "ha_bruto": 125.1,
+      "ha_final": 143.3,
+      "ha_ghsl": 1.7,
+      "ghsl_epoca": 2015,
+      "pct_min": 0.04,
+      "pct_max": 3.06,
+      "ha_min": 1.7,
+      "ha_max": 143.3
+     },
+     "2017": {
+      "area_ha": 4678,
+      "pct_bruto": 2.69,
+      "pct_final": 3.57,
+      "pct_ghsl": 0.04,
+      "ha_bruto": 125.7,
+      "ha_final": 167.0,
+      "ha_ghsl": 1.7,
+      "ghsl_epoca": 2015,
+      "pct_min": 0.04,
+      "pct_max": 3.57,
+      "ha_min": 1.7,
+      "ha_max": 167.0
+     },
+     "2019": {
+      "area_ha": 4678,
+      "pct_bruto": 2.43,
+      "pct_final": 3.99,
+      "pct_ghsl": 0.04,
+      "ha_bruto": 113.6,
+      "ha_final": 186.6,
+      "ha_ghsl": 2.1,
+      "ghsl_epoca": 2020,
+      "pct_min": 0.04,
+      "pct_max": 3.99,
+      "ha_min": 2.1,
+      "ha_max": 186.6
+     },
+     "2020": {
+      "area_ha": 4678,
+      "pct_bruto": 2.4,
+      "pct_final": 4.09,
+      "pct_ghsl": 0.04,
+      "ha_bruto": 112.2,
+      "ha_final": 191.5,
+      "ha_ghsl": 2.1,
+      "ghsl_epoca": 2020,
+      "pct_min": 0.04,
+      "pct_max": 4.09,
+      "ha_min": 2.1,
+      "ha_max": 191.5
+     },
+     "2025": {
+      "area_ha": 4678,
+      "pct_bruto": 0.99,
+      "pct_final": 4.31,
+      "pct_ghsl": 0.07,
+      "ha_bruto": 46.4,
+      "ha_final": 201.6,
+      "ha_ghsl": 3.3,
+      "ghsl_epoca": 2025,
+      "pct_min": 0.07,
+      "pct_max": 4.31,
+      "ha_min": 3.3,
+      "ha_max": 201.6
+     },
+     "2026": {
+      "area_ha": 4678,
+      "pct_bruto": 3.66,
+      "pct_final": 4.57,
+      "pct_ghsl": 0.07,
+      "ha_bruto": 171.1,
+      "ha_final": 213.9,
+      "ha_ghsl": 3.3,
+      "ghsl_epoca": 2025,
+      "pct_min": 0.07,
+      "pct_max": 4.57,
+      "ha_min": 3.3,
+      "ha_max": 213.9
+     }
+    }
+   },
+   "municipio_total": {
+    "rotulo": "Município (sem água permanente)",
+    "serie": {
+     "1985": {
+      "area_ha": 59166,
+      "pct_bruto": 5.18,
+      "pct_final": 3.97,
+      "pct_ghsl": 1.22,
+      "ha_bruto": 3066.3,
+      "ha_final": 2349.2,
+      "ha_ghsl": 722.1,
+      "ghsl_epoca": 1985,
+      "pct_min": 1.22,
+      "pct_max": 5.18,
+      "ha_min": 722.1,
+      "ha_max": 3066.3
+     },
+     "1990": {
+      "area_ha": 59389,
+      "pct_bruto": 8.76,
+      "pct_final": 4.45,
+      "pct_ghsl": 1.46,
+      "ha_bruto": 5203.4,
+      "ha_final": 2641.6,
+      "ha_ghsl": 868.1,
+      "ghsl_epoca": 1990,
+      "pct_min": 1.46,
+      "pct_max": 8.76,
+      "ha_min": 868.1,
+      "ha_max": 5203.4
+     },
+     "1995": {
+      "area_ha": 60232,
+      "pct_bruto": 3.91,
+      "pct_final": 4.71,
+      "pct_ghsl": 1.72,
+      "ha_bruto": 2353.7,
+      "ha_final": 2839.4,
+      "ha_ghsl": 1035.2,
+      "ghsl_epoca": 1995,
+      "pct_min": 1.72,
+      "pct_max": 4.71,
+      "ha_min": 1035.2,
+      "ha_max": 2839.4
+     },
+     "1997": {
+      "area_ha": 60216,
+      "pct_bruto": 6.36,
+      "pct_final": 5.51,
+      "pct_ghsl": 1.72,
+      "ha_bruto": 3831.9,
+      "ha_final": 3317.8,
+      "ha_ghsl": 1035.2,
+      "ghsl_epoca": 1995,
+      "pct_min": 1.72,
+      "pct_max": 6.36,
+      "ha_min": 1035.2,
+      "ha_max": 3831.9
+     },
+     "2000": {
+      "area_ha": 60232,
+      "pct_bruto": 5.57,
+      "pct_final": 5.95,
+      "pct_ghsl": 2.08,
+      "ha_bruto": 3352.3,
+      "ha_final": 3583.1,
+      "ha_ghsl": 1251.3,
+      "ghsl_epoca": 2000,
+      "pct_min": 2.08,
+      "pct_max": 5.95,
+      "ha_min": 1251.3,
+      "ha_max": 3583.1
+     },
+     "2005": {
+      "area_ha": 60230,
+      "pct_bruto": 12.4,
+      "pct_final": 8.88,
+      "pct_ghsl": 2.51,
+      "ha_bruto": 7469.8,
+      "ha_final": 5346.3,
+      "ha_ghsl": 1514.2,
+      "ghsl_epoca": 2005,
+      "pct_min": 2.51,
+      "pct_max": 12.4,
+      "ha_min": 1514.2,
+      "ha_max": 7469.8
+     },
+     "2007": {
+      "area_ha": 60218,
+      "pct_bruto": 9.38,
+      "pct_final": 9.17,
+      "pct_ghsl": 2.51,
+      "ha_bruto": 5651.4,
+      "ha_final": 5520.7,
+      "ha_ghsl": 1510.1,
+      "ghsl_epoca": 2005,
+      "pct_min": 2.51,
+      "pct_max": 9.38,
+      "ha_min": 1510.1,
+      "ha_max": 5651.4
+     },
+     "2010": {
+      "area_ha": 60231,
+      "pct_bruto": 6.91,
+      "pct_final": 9.72,
+      "pct_ghsl": 3.1,
+      "ha_bruto": 4164.7,
+      "ha_final": 5855.6,
+      "ha_ghsl": 1866.0,
+      "ghsl_epoca": 2010,
+      "pct_min": 3.1,
+      "pct_max": 9.72,
+      "ha_min": 1866.0,
+      "ha_max": 5855.6
+     },
+     "2015": {
+      "area_ha": 60232,
+      "pct_bruto": 10.51,
+      "pct_final": 11.29,
+      "pct_ghsl": 3.75,
+      "ha_bruto": 6331.6,
+      "ha_final": 6798.2,
+      "ha_ghsl": 2255.8,
+      "ghsl_epoca": 2015,
+      "pct_min": 3.75,
+      "pct_max": 11.29,
+      "ha_min": 2255.8,
+      "ha_max": 6798.2
+     },
+     "2017": {
+      "area_ha": 60232,
+      "pct_bruto": 10.53,
+      "pct_final": 11.86,
+      "pct_ghsl": 3.75,
+      "ha_bruto": 6339.7,
+      "ha_final": 7143.5,
+      "ha_ghsl": 2255.8,
+      "ghsl_epoca": 2015,
+      "pct_min": 3.75,
+      "pct_max": 11.86,
+      "ha_min": 2255.8,
+      "ha_max": 7143.5
+     },
+     "2019": {
+      "area_ha": 60232,
+      "pct_bruto": 10.89,
+      "pct_final": 12.79,
+      "pct_ghsl": 4.17,
+      "ha_bruto": 6560.6,
+      "ha_final": 7704.8,
+      "ha_ghsl": 2514.5,
+      "ghsl_epoca": 2020,
+      "pct_min": 4.17,
+      "pct_max": 12.79,
+      "ha_min": 2514.5,
+      "ha_max": 7704.8
+     },
+     "2020": {
+      "area_ha": 60232,
+      "pct_bruto": 11.79,
+      "pct_final": 13.31,
+      "pct_ghsl": 4.17,
+      "ha_bruto": 7102.2,
+      "ha_final": 8018.8,
+      "ha_ghsl": 2514.5,
+      "ghsl_epoca": 2020,
+      "pct_min": 4.17,
+      "pct_max": 13.31,
+      "ha_min": 2514.5,
+      "ha_max": 8018.8
+     },
+     "2025": {
+      "area_ha": 60232,
+      "pct_bruto": 11.78,
+      "pct_final": 14.31,
+      "pct_ghsl": 4.35,
+      "ha_bruto": 7096.9,
+      "ha_final": 8619.1,
+      "ha_ghsl": 2618.6,
+      "ghsl_epoca": 2025,
+      "pct_min": 4.35,
+      "pct_max": 14.31,
+      "ha_min": 2618.6,
+      "ha_max": 8619.1
+     },
+     "2026": {
+      "area_ha": 60232,
+      "pct_bruto": 12.97,
+      "pct_final": 14.45,
+      "pct_ghsl": 4.35,
+      "ha_bruto": 7815.1,
+      "ha_final": 8701.6,
+      "ha_ghsl": 2618.6,
+      "ghsl_epoca": 2025,
+      "pct_min": 4.35,
+      "pct_max": 14.45,
+      "ha_min": 2618.6,
+      "ha_max": 8701.6
+     }
+    }
+   },
+   "osm_agricola": {
+    "rotulo": "Feições agrícolas do OpenStreetMap",
+    "serie": {
+     "1985": {
+      "area_ha": 896,
+      "pct_bruto": 0.05,
+      "pct_final": 0.05,
+      "pct_ghsl": 0.04,
+      "ha_bruto": 0.4,
+      "ha_final": 0.4,
+      "ha_ghsl": 0.3,
+      "ghsl_epoca": 1985,
+      "pct_min": 0.04,
+      "pct_max": 0.05,
+      "ha_min": 0.3,
+      "ha_max": 0.4
+     },
+     "1990": {
+      "area_ha": 896,
+      "pct_bruto": 0.1,
+      "pct_final": 0.05,
+      "pct_ghsl": 0.04,
+      "ha_bruto": 0.9,
+      "ha_final": 0.4,
+      "ha_ghsl": 0.4,
+      "ghsl_epoca": 1990,
+      "pct_min": 0.04,
+      "pct_max": 0.1,
+      "ha_min": 0.4,
+      "ha_max": 0.9
+     },
+     "1995": {
+      "area_ha": 896,
+      "pct_bruto": 0.22,
+      "pct_final": 0.05,
+      "pct_ghsl": 0.05,
+      "ha_bruto": 2.0,
+      "ha_final": 0.4,
+      "ha_ghsl": 0.4,
+      "ghsl_epoca": 1995,
+      "pct_min": 0.05,
+      "pct_max": 0.22,
+      "ha_min": 0.4,
+      "ha_max": 2.0
+     },
+     "1997": {
+      "area_ha": 896,
+      "pct_bruto": 0.08,
+      "pct_final": 0.07,
+      "pct_ghsl": 0.05,
+      "ha_bruto": 0.7,
+      "ha_final": 0.6,
+      "ha_ghsl": 0.4,
+      "ghsl_epoca": 1995,
+      "pct_min": 0.05,
+      "pct_max": 0.08,
+      "ha_min": 0.4,
+      "ha_max": 0.7
+     },
+     "2000": {
+      "area_ha": 896,
+      "pct_bruto": 0.11,
+      "pct_final": 0.1,
+      "pct_ghsl": 0.05,
+      "ha_bruto": 1.0,
+      "ha_final": 0.9,
+      "ha_ghsl": 0.5,
+      "ghsl_epoca": 2000,
+      "pct_min": 0.05,
+      "pct_max": 0.11,
+      "ha_min": 0.5,
+      "ha_max": 1.0
+     },
+     "2005": {
+      "area_ha": 896,
+      "pct_bruto": 1.07,
+      "pct_final": 0.19,
+      "pct_ghsl": 0.1,
+      "ha_bruto": 9.5,
+      "ha_final": 1.7,
+      "ha_ghsl": 0.9,
+      "ghsl_epoca": 2005,
+      "pct_min": 0.1,
+      "pct_max": 1.07,
+      "ha_min": 0.9,
+      "ha_max": 9.5
+     },
+     "2007": {
+      "area_ha": 896,
+      "pct_bruto": 0.8,
+      "pct_final": 0.19,
+      "pct_ghsl": 0.1,
+      "ha_bruto": 7.2,
+      "ha_final": 1.7,
+      "ha_ghsl": 0.9,
+      "ghsl_epoca": 2005,
+      "pct_min": 0.1,
+      "pct_max": 0.8,
+      "ha_min": 0.9,
+      "ha_max": 7.2
+     },
+     "2010": {
+      "area_ha": 896,
+      "pct_bruto": 0.18,
+      "pct_final": 0.19,
+      "pct_ghsl": 0.18,
+      "ha_bruto": 1.6,
+      "ha_final": 1.7,
+      "ha_ghsl": 1.6,
+      "ghsl_epoca": 2010,
+      "pct_min": 0.18,
+      "pct_max": 0.19,
+      "ha_min": 1.6,
+      "ha_max": 1.7
+     },
+     "2015": {
+      "area_ha": 896,
+      "pct_bruto": 0.05,
+      "pct_final": 0.2,
+      "pct_ghsl": 0.32,
+      "ha_bruto": 0.4,
+      "ha_final": 1.8,
+      "ha_ghsl": 2.8,
+      "ghsl_epoca": 2015,
+      "pct_min": 0.05,
+      "pct_max": 0.32,
+      "ha_min": 0.4,
+      "ha_max": 2.8
+     },
+     "2017": {
+      "area_ha": 896,
+      "pct_bruto": 0.55,
+      "pct_final": 0.2,
+      "pct_ghsl": 0.32,
+      "ha_bruto": 5.0,
+      "ha_final": 1.8,
+      "ha_ghsl": 2.8,
+      "ghsl_epoca": 2015,
+      "pct_min": 0.2,
+      "pct_max": 0.55,
+      "ha_min": 1.8,
+      "ha_max": 5.0
+     },
+     "2019": {
+      "area_ha": 896,
+      "pct_bruto": 0.06,
+      "pct_final": 0.2,
+      "pct_ghsl": 0.73,
+      "ha_bruto": 0.5,
+      "ha_final": 1.8,
+      "ha_ghsl": 6.6,
+      "ghsl_epoca": 2020,
+      "pct_min": 0.06,
+      "pct_max": 0.73,
+      "ha_min": 0.5,
+      "ha_max": 6.6
+     },
+     "2020": {
+      "area_ha": 896,
+      "pct_bruto": 0.14,
+      "pct_final": 0.23,
+      "pct_ghsl": 0.73,
+      "ha_bruto": 1.3,
+      "ha_final": 2.1,
+      "ha_ghsl": 6.6,
+      "ghsl_epoca": 2020,
+      "pct_min": 0.14,
+      "pct_max": 0.73,
+      "ha_min": 1.3,
+      "ha_max": 6.6
+     },
+     "2025": {
+      "area_ha": 896,
+      "pct_bruto": 0.48,
+      "pct_final": 0.25,
+      "pct_ghsl": 0.89,
+      "ha_bruto": 4.3,
+      "ha_final": 2.2,
+      "ha_ghsl": 8.0,
+      "ghsl_epoca": 2025,
+      "pct_min": 0.25,
+      "pct_max": 0.89,
+      "ha_min": 2.2,
+      "ha_max": 8.0
+     },
+     "2026": {
+      "area_ha": 896,
+      "pct_bruto": 0.2,
+      "pct_final": 0.25,
+      "pct_ghsl": 0.89,
+      "ha_bruto": 1.8,
+      "ha_final": 2.2,
+      "ha_ghsl": 8.0,
+      "ghsl_epoca": 2025,
+      "pct_min": 0.2,
+      "pct_max": 0.89,
+      "ha_min": 1.8,
+      "ha_max": 8.0
+     }
+    }
+   }
+  }
+ },
+ "kpi": {
+  "ano_inicial": 1985,
+  "ano_final": 2025,
+  "construido_ha_1985": {
+   "ghsl": 722,
+   "bruto": 3066,
+   "final": 2349
+  },
+  "construido_ha_2025": {
+   "ghsl": 2619,
+   "bruto": 7097,
+   "final": 8619
+  },
+  "construido_crescimento_pct": {
+   "ghsl": 256.2,
+   "bruto": 127.4,
+   "final": 260.4
+  },
+  "construido_crescimento_min_pct": 127.4,
+  "construido_crescimento_max_pct": 260.4,
+  "faixas": {
+   "municipio": {
+    "1985": [
+     1.22,
+     5.18
+    ],
+    "2025": [
+     4.35,
+     14.31
+    ]
+   },
+   "baixada_8m": {
+    "1985": [
+     1.21,
+     4.17
+    ],
+    "2025": [
+     4.33,
+     14.39
+    ]
+   },
+   "baixada_6m": {
+    "1985": [
+     1.35,
+     4.65
+    ],
+    "2025": [
+     4.62,
+     16.2
+    ]
+   },
+   "baixada_10m": {
+    "1985": [
+     1.1,
+     4.15
+    ],
+    "2025": [
+     4.18,
+     13.84
+    ]
+   },
+   "mangal_ref": {
+    "1985": [
+     0.02,
+     1.44
+    ],
+    "2025": [
+     0.07,
+     4.31
+    ]
+   },
+   "osm_agricola": {
+    "1985": [
+     0.04,
+     0.05
+    ],
+    "2025": [
+     0.25,
+     0.89
+    ]
+   }
+  },
+  "verificado_contra_valores_json": [
+   "kpi_mun_1985_min",
+   "kpi_mun_1985_max",
+   "kpi_mun_2025_min",
+   "kpi_mun_2025_max",
+   "kpi_baix8_1985_min",
+   "kpi_baix8_1985_max",
+   "kpi_baix8_2025_min",
+   "kpi_baix8_2025_max",
+   "kpi_mangal_2025_min",
+   "kpi_mangal_2025_max",
+   "kpi_cresc_ghsl",
+   "kpi_cresc_bruto",
+   "kpi_cresc_final"
+  ],
+  "pct_agricola_convertido_1985_2026": 12.3,
+  "pct_zonas_verdes_convertido_1985_2026": 17.6,
+  "agricola_convertido_ha": 396,
+  "zonas_verdes_convertidas_ha": 252,
+  "conflitos_documentados": 9,
+  "conflitos_georreferenciados": 4,
+  "nota": "Indicadores de topo: médias de período (1985–1997 e 2017–2025), lidas de artigo/valores.json; sem valores de 2026. Cada indicador é uma faixa entre três estimativas (GHSL, bruta, pós-processada) que não são independentes: bruta e pós-processada vêm do mesmo modelo e o GHSL orientou os rótulos de treino."
+ },
+ "valores": {
+  "cid_ini_min": "1,5",
+  "cid_ini_max": "6,1",
+  "cid_fim_min": "4,1",
+  "cid_fim_max": "13,1",
+  "b8_ini_min": "1,5",
+  "b8_ini_max": "6,0",
+  "b8_fim_min": "4,0",
+  "b8_fim_max": "13,1",
+  "cid_fator_min": "1,9",
+  "cid_fator_max": "2,8",
+  "b8_fator_min": "2,0",
+  "b8_fator_max": "3,1",
+  "mg_ini_ghsl": "0,0",
+  "mg_ini_bruto": "3,5",
+  "mg_fim_ghsl": "0,0",
+  "mg_fim_bruto": "2,1"
+ },
+ "planos": [
+  {
+   "id": "machado_1893",
+   "ano": 1893,
+   "titulo": "Primeira planta da povoação da Beira (malha regular, ruas e bairros)",
+   "autor": "Joaquim José Machado (engenheiro)",
+   "entidade": "Companhia de Moçambique",
+   "escala": "povoação",
+   "aprovado": "?",
+   "trata_agricultura": "sem tratamento nas fontes lidas",
+   "trata_verde_mangal": "núcleo genético contornando áreas pantanosas; sem plano de zonas verdes",
+   "citacao_curta": "contornando as áreas pantanosas",
+   "pagina": "HPIP, seção Enquadramento (sem paginação)",
+   "fonte_chave": "hpip_beira",
+   "georreferenciavel": "n (a planta original não foi vista; só a de 1899)"
+  },
+  {
+   "id": "serrao_1898",
+   "ano": 1898,
+   "titulo": "Estudo urbanístico de porto e ferrovia",
+   "autor": "Costa Serrão (engenheiro)",
+   "entidade": "Companhia de Moçambique",
+   "escala": "cidade (porto e ferrovia)",
+   "aprovado": "n",
+   "trata_agricultura": "sem tratamento nas fontes lidas",
+   "trata_verde_mangal": "sem tratamento",
+   "citacao_curta": "nunca postos em execução (dois estudos, incl. 1898), por falta de meios",
+   "pagina": "HPIP, seção Enquadramento",
+   "fonte_chave": "hpip_beira",
+   "georreferenciavel": "n (não localizado)"
+  },
+  {
+   "id": "loteamento_1898",
+   "ano": 1898,
+   "titulo": "Projecto de Loteamento da Beira (1898), detalhe",
+   "autor": "n.i.",
+   "entidade": "Arquivo Histórico de Moçambique (foto 2011, segundo Fernandes et al.)",
+   "escala": "povoação",
+   "aprovado": "?",
+   "trata_agricultura": "sem tratamento nas fontes lidas",
+   "trata_verde_mangal": "sem tratamento",
+   "citacao_curta": "(figura 4; legenda 'Projecto de Loteamento da Beira (1898)')",
+   "pagina": "Fernandes et al., p. 157, fig. 4",
+   "fonte_chave": "fernandes_2016",
+   "georreferenciavel": "n (detalhe de baixa resolução; relação com serrao_1898 não verificada)"
+  },
+  {
+   "id": "companhia_1899",
+   "ano": 1899,
+   "titulo": "Planta da Beira em 1899 (planta de urbanização da Companhia de Moçambique)",
+   "autor": "Companhia de Moçambique (continua a planta de Machado)",
+   "entidade": "Companhia de Moçambique",
+   "escala": "cidade (escala ilegível na figura)",
+   "aprovado": "?",
+   "trata_agricultura": "sem tratamento nas fontes lidas",
+   "trata_verde_mangal": "sem tratamento; margem direita do rio para porto e ferrovia, esquerda para residencial",
+   "citacao_curta": "a única que os arquivos nos oferecem",
+   "pagina": "HPIP, seção Enquadramento; Fernandes et al., p. 158, fig. 5",
+   "fonte_chave": "hpip_beira;fernandes_2016",
+   "georreferenciavel": "sim, com baixa precisão (rios, língua de areia, Chiveve como pontos de controle); figura de 957 px"
+  },
+  {
+   "id": "maia_1925",
+   "ano": 1925,
+   "titulo": "Planta da Beira de 1925 (doca e cais em construção)",
+   "autor": "Carlos Roma Machado Faria e Maia",
+   "entidade": "n.i.",
+   "escala": "cidade",
+   "aprovado": "?",
+   "trata_agricultura": "sem tratamento nas fontes lidas",
+   "trata_verde_mangal": "sem tratamento",
+   "citacao_curta": "(planta referida no HPIP; imagem não obtida)",
+   "pagina": "HPIP, seção Enquadramento",
+   "fonte_chave": "hpip_beira",
+   "georreferenciavel": "n (imagem não obtida)"
+  },
+  {
+   "id": "rebelo_1929",
+   "ano": 1929,
+   "titulo": "Projecto de Urbanização e Alargamento da Cidade da Beira (e urbanização da praia do Macuti)",
+   "autor": "Carlos Rebelo de Andrade (arq.), a partir da planta da Comissão de Ampliação (1927)",
+   "entidade": "Companhia de Moçambique / Comissão de Ampliação",
+   "escala": "cidade e arredores",
+   "aprovado": "n",
+   "trata_agricultura": "sem tratamento nas fontes lidas",
+   "trata_verde_mangal": "sem tratamento",
+   "citacao_curta": "nunca postos em execução (estudos 1898 e 1921-32), por falta de meios",
+   "pagina": "HPIP, seção Enquadramento",
+   "fonte_chave": "hpip_beira",
+   "georreferenciavel": "n (imagem não obtida)"
+  },
+  {
+   "id": "harrison_1931",
+   "ano": 1931,
+   "titulo": "Esquema de drenagem de 1.400 ha ao norte e leste da cidade (salubridade)",
+   "autor": "eng. Harrison (Instituto Ross, Londres)",
+   "entidade": "Município/Companhia (não especificado)",
+   "escala": "1.400 ha",
+   "aprovado": "n",
+   "trata_agricultura": "sem tratamento (drenagem de terrenos)",
+   "trata_verde_mangal": "drenagem de áreas húmidas; 'tinha o inconveniente de impedir a urbanização dos terrenos beneficiados'",
+   "citacao_curta": "impedir a urbanização dos terrenos beneficiados",
+   "pagina": "HPIP, seção Enquadramento",
+   "fonte_chave": "hpip_beira",
+   "georreferenciavel": "n (esquema não visto)"
+  },
+  {
+   "id": "alegre_porto_1943",
+   "ano": 1943,
+   "titulo": "Ante-Projecto de Urbanização da Cidade da Beira",
+   "autor": "Joaquim de Oliveira Ribeiro Alegre (eng.) e José Luís Porto (arq.)",
+   "entidade": "Sociedade Portuguesa de Fomento, para a Câmara Municipal da Beira",
+   "escala": "cidade (expansão)",
+   "aprovado": "s (Ministro das Colónias, 12/09/1947, segundo HPIP)",
+   "trata_agricultura": "sem menção a agricultura nas fontes lidas; zonamento étnico e funcional",
+   "trata_verde_mangal": "Chiveve em lago e campo de golfe como espaço livre; contrato incluía drenagem dos pântanos; sem menção a mangal",
+   "citacao_curta": "um grande espaço livre, necessário para arejamento e desafogo da cidade",
+   "pagina": "HPIP, seção Enquadramento; Fernandes et al., p. 159, fig. 7",
+   "fonte_chave": "hpip_beira;fernandes_2016;delagoabay_2018",
+   "georreferenciavel": "parcial: perspetiva aérea (Vista Geral, 2048 px) e planta (957 px); possível com baixa precisão, sem escala"
+  },
+  {
+   "id": "garizo_1964",
+   "ano": 1964,
+   "titulo": "Esboceto de Centro Cívico e Comercial no local do lago do Chiveve",
+   "autor": "João Afonso Garizo do Carmo (arq.)",
+   "entidade": "n.i.",
+   "escala": "urbana (centro)",
+   "aprovado": "n",
+   "trata_agricultura": "sem tratamento",
+   "trata_verde_mangal": "reverte o lago/espaço livre do plano de 1943",
+   "citacao_curta": "(preconizado Centro Cívico e Comercial no lugar do lago)",
+   "pagina": "HPIP, seção Enquadramento",
+   "fonte_chave": "hpip_beira",
+   "georreferenciavel": "n (esboceto não visto)"
+  },
+  {
+   "id": "camelo_1961",
+   "ano": 1961,
+   "titulo": "Plano Regulador da Beira (esboço)",
+   "autor": "Carlos Veiga Pinto Camelo (arq.)",
+   "entidade": "Câmara Municipal da Beira, para a Direção Provincial das Obras Públicas",
+   "escala": "cidade",
+   "aprovado": "n (julgado incompleto)",
+   "trata_agricultura": "sem tratamento nas fontes lidas",
+   "trata_verde_mangal": "sem tratamento",
+   "citacao_curta": "julgado incompleto, sobretudo quanto a densidades de ocupação",
+   "pagina": "HPIP, seção Enquadramento (cita AHM, Inspecção dos Serviços Administrativos, cx. 45, 1973)",
+   "fonte_chave": "hpip_beira",
+   "georreferenciavel": "n (não visto)"
+  },
+  {
+   "id": "almeida_1966",
+   "ano": 1966,
+   "titulo": "Plano Regulador da Beira / Plano Regulador de Manica e Sofala, zonificação do bloco Beira-Manga-Dondo",
+   "autor": "missão de Leopoldo de Castro Neves de Almeida (com Morais Veloso e V. Martinho)",
+   "entidade": "Direção de Urbanismo e Habitação, Ministério do Ultramar",
+   "escala": "regional e urbana",
+   "aprovado": "n (sem aprovação ministerial em 1969)",
+   "trata_agricultura": "sem tratamento nas fontes lidas",
+   "trata_verde_mangal": "inclui estudo de integração de áreas reservadas a bairros populares (Morais Veloso)",
+   "citacao_curta": "submetido ao Município em outubro de 1966; sem aprovação ministerial três anos depois",
+   "pagina": "HPIP, seção Enquadramento",
+   "fonte_chave": "hpip_beira",
+   "georreferenciavel": "n (não visto)"
+  },
+  {
+   "id": "sidaway_pos75",
+   "ano": 1975,
+   "titulo": "Planeamento urbano pós-independência (INPF 1983; Zonas Verdes em cidades)",
+   "autor": "INPF / Gabinete das Zonas Verdes (Maputo, 1980)",
+   "entidade": "Estado moçambicano",
+   "escala": "nacional",
+   "aprovado": "?",
+   "trata_agricultura": "Zonas Verdes agrícolas demarcadas 'around Mozambican cities'; Beira não detalhada",
+   "trata_verde_mangal": "mapeamento de terra fértil nas Zonas Verdes (Maputo)",
+   "citacao_curta": "demarcation of Zonas Verdes (Green Zones) for agricultural production around Mozambican cities",
+   "pagina": "Sidaway 1993, PDF p. 3",
+   "fonte_chave": "sidaway_1993",
+   "georreferenciavel": "n (lacuna: plano pós-1975 da Beira não encontrado)"
+  },
+  {
+   "id": "masterplan_2013",
+   "ano": 2013,
+   "titulo": "Masterplan Beira 2035",
+   "autor": "Deltares; Witteveen+Bos; Wissing; NIRAS; VandenBroek",
+   "entidade": "Conselho Municipal da Beira (coop. holandesa)",
+   "escala": "cidade, horizonte 2035",
+   "aprovado": "s (Município, 2014)",
+   "trata_agricultura": "sumário sem menção a agricultura",
+   "trata_verde_mangal": "áreas designadas para retenção e drenagem; parar concessões em áreas de retenção",
+   "citacao_curta": "Stop the current uncontrolled issuing of land use concessions",
+   "pagina": "Sumário, p. 9; aprovação: cmb_2019 p. 15",
+   "fonte_chave": "deltares_2013;cmb_2019;pdna_2019",
+   "georreferenciavel": "possível: mapa 1 (estratégia espacial) nos apêndices; não obtido"
+  },
+  {
+   "id": "drenagem_ppcr",
+   "ano": 2013,
+   "titulo": "Plano diretor de drenagem da Beira (1.ª de 3 fases: 9,3 km de canais e bacia de retenção de Maraza)",
+   "autor": "TPF Planege (empresa portuguesa)",
+   "entidade": "Município/AIAS; Banco Mundial (3CP, PPCR)",
+   "escala": "cidade",
+   "aprovado": "?",
+   "trata_agricultura": "bacia de retenção sobre baixada de arroz, desloca 490 agricultores",
+   "trata_verde_mangal": "bacia de retenção de cerca de 25 ha",
+   "citacao_curta": "an area historically used for rice cultivation",
+   "pagina": "Shannon et al. 2018, p. 13",
+   "fonte_chave": "shannon_2018;wb_icr_2021",
+   "georreferenciavel": "n (plano não visto; ano da elaboração não verificado)"
+  },
+  {
+   "id": "chiveve_proj",
+   "ano": 2012,
+   "titulo": "Reabilitação do rio Chiveve e infraestrutura verde (parque de 17 ha, mangal)",
+   "autor": "CES/Inros Lackner (projeto); KfW; Banco Mundial",
+   "entidade": "Município/AIAS",
+   "escala": "local (parque 17 ha; área de projeto citada como 20 ha)",
+   "aprovado": "s (projeto executado)",
+   "trata_agricultura": "sem agricultura",
+   "trata_verde_mangal": "mangal 5,40 ha (2004), 6 ha (2012), 2,8 ha após fase 1; replantio",
+   "citacao_curta": "the Mangrove area has been reduced by the project",
+   "pagina": "CES 2020, PDF p. 30-31; WB ICR p. 3, 9-10",
+   "fonte_chave": "ces_2020;wb_icr_2021",
+   "georreferenciavel": "n (projeto; ver mapas do relatório CES)"
+  },
+  {
+   "id": "greeninfra_2018",
+   "ano": 2018,
+   "titulo": "GreenInfra4Beira: infraestrutura verde para Chota (700 ha)",
+   "autor": "Witteveen+Bos; Deltares; Alterra; Wissing",
+   "entidade": "cooperação holandesa / Município",
+   "escala": "bairro (cerca de 700 ha)",
+   "aprovado": "?",
+   "trata_agricultura": "área 'originally low-lying agricultural land'",
+   "trata_verde_mangal": "infraestrutura verde e retenção natural",
+   "citacao_curta": "This area originally consisted of low-lying agricultural land",
+   "pagina": "página da notícia (sem paginação)",
+   "fonte_chave": "witteveenbos_2018",
+   "georreferenciavel": "n (mapas não obtidos)"
+  },
+  {
+   "id": "recovery_2019",
+   "ano": 2019,
+   "titulo": "Beira Municipal Recovery and Resilience Plan (Vol. 1)",
+   "autor": "Município da Beira com Governo dos Países Baixos, UN-Habitat, Arcadis",
+   "entidade": "Conselho Municipal da Beira",
+   "escala": "cidade",
+   "aprovado": "?",
+   "trata_agricultura": "não nas pp. 1-15; capítulos H (infraestrutura verde) e A2 não lidos",
+   "trata_verde_mangal": "não nas pp. 1-15",
+   "citacao_curta": "approved by Beira Municipality in 2014",
+   "pagina": "pp. 12-15",
+   "fonte_chave": "cmb_2019;pdna_2019",
+   "georreferenciavel": "n (mapas não vistos)"
+  },
+  {
+   "id": "peu_2022",
+   "ano": 2022,
+   "titulo": "Plano de Estrutura Urbana da Cidade da Beira (PEU) e seu diagnóstico",
+   "autor": "autoria não identificada (entregue pelo governo provincial)",
+   "entidade": "Governo provincial de Sofala / Município; a ser aprovado pela Assembleia Municipal",
+   "escala": "cidade",
+   "aprovado": "? (aprovação não confirmada)",
+   "trata_agricultura": "não verificado (diagnóstico não aberto)",
+   "trata_verde_mangal": "não verificado",
+   "citacao_curta": "deverá ser aprovado pela Assembleia Municipal",
+   "pagina": "nota RM, 09/08/2022",
+   "fonte_chave": "rm_2022",
+   "georreferenciavel": "? (plano não obtido; lei exige PEU com zonas de proteção ambiental, ver mocambique_2008)"
+  }
+ ],
+ "conflitos": [
+  {
+   "id": "C01",
+   "ano": 2013,
+   "local": "Mungassa (Manga Loforte)",
+   "bairro": "Mungassa",
+   "tipo": "Zona Económica Especial / reassentamento",
+   "descricao": "Zona Económica Especial Manga-Mungassa (aprovada 2012): 217 ha alocados e 1.000 ha reservados à expansão; deslocadas/reassentadas cerca de 110 famílias e número indeterminado de pequenos agricultores; sem avaliação de impacto formal segundo entrevistados; primeiro reassentamento em 2013 para Ndunda.",
+   "lon": 34.8923,
+   "lat": -19.7498,
+   "precisao_coord": "centroide do bairro (perfil ICLEI 2026, iclei_2026_mungassa p.1)",
+   "fonte_chave": "shannon_2018",
+   "pagina": "8-9",
+   "georreferenciado": true
+  },
+  {
+   "id": "C02",
+   "ano": 2014,
+   "local": "Maraza",
+   "bairro": "Maraza",
+   "tipo": "Drenagem / bacia de retenção (arroz de baixada)",
+   "descricao": "Bacia de retenção circular de ~25 ha na planície de Maraza, \"historically used for rice cultivation\": 490 pequenos agricultores (~610 parcelas); terra de substituição prevista em Mungassa e Inhamízua, mas a maioria recebeu dinheiro (5.000 MT, ~US$ 65). Aviso formal às 21 famílias em 2014 e mudança em 2016; data exata do desalojamento agrícola não indicada.",
+   "lon": null,
+   "lat": null,
+   "precisao_coord": "sem coordenada na fonte",
+   "fonte_chave": "shannon_2018",
+   "pagina": "13-14",
+   "georreferenciado": false
+  },
+  {
+   "id": "C03",
+   "ano": 2014,
+   "local": "Mangal (foz do Chiveve, centro)",
+   "bairro": "Mangal / Chiveve",
+   "tipo": "Reabilitação de rio / despejo",
+   "descricao": "34 famílias (e um mercado informal) desalojadas para a lagoa do Chiveve; despejo no fim de 2014 (o texto também aponta final de 2011 para a necessidade de reassentamento); terra ocupada por corte de mangal por parte das famílias; sem reabilitação de meios de vida.",
+   "lon": null,
+   "lat": null,
+   "precisao_coord": "sem coordenada na fonte",
+   "fonte_chave": "shannon_2018",
+   "pagina": "11-12",
+   "georreferenciado": false
+  },
+  {
+   "id": "C04",
+   "ano": 2016,
+   "local": "Munhava Matope",
+   "bairro": "Munhava Matope",
+   "tipo": "Machambas confiscadas / uso comercial",
+   "descricao": "Mulheres camponesas protestaram (22/11/2016) por machambas confiscadas para um parque de automóveis (DUAT a grupo privado); dizem não ter sido indemnizadas; vereador afirma que os levantados foram ressarcidos e outros surgiram depois. Versão não verificada de forma independente.",
+   "lon": null,
+   "lat": null,
+   "precisao_coord": "sem coordenada na fonte",
+   "fonte_chave": "noticias_2016",
+   "pagina": "1",
+   "georreferenciado": false
+  },
+  {
+   "id": "C05",
+   "ano": 2019,
+   "local": "Beira (Praia Nova) -> Mutua, Savane, Mandruzi (Dondo)",
+   "bairro": "Praia Nova",
+   "tipo": "Reassentamento climático",
+   "descricao": "Após o Idai, 66 sítios de reassentamento (22 na Sofala), nenhum dentro dos limites municipais da Beira; Mutua a ~60 km do centro, 618 famílias, 2.403 pessoas; moradores de Praia Nova preferem sair desde que permaneçam na Beira; cultivo de mandioca em pequenas parcelas nos sítios.",
+   "lon": null,
+   "lat": null,
+   "precisao_coord": "sem coordenada na fonte",
+   "fonte_chave": "jacobs_2020",
+   "pagina": "18-21",
+   "georreferenciado": false
+  },
+  {
+   "id": "C06",
+   "ano": 2026,
+   "local": "Ndunda",
+   "bairro": "Ndunda",
+   "tipo": "Expansão informal sobre terra agrícola e húmida",
+   "descricao": "Expansão espontânea para leste sobre terra agrícola e zonas húmidas (solos férteis de má drenagem); 21.772 hab (2017), 7,8 km2; sem DUAT. Ano = ano do perfil, não do evento.",
+   "lon": 34.8875,
+   "lat": -19.7677,
+   "precisao_coord": "centroide do bairro (perfil ICLEI 2026, iclei_2026_ndunda p.1)",
+   "fonte_chave": "iclei_2026_ndunda",
+   "pagina": "1",
+   "georreferenciado": true
+  },
+  {
+   "id": "C07",
+   "ano": 2026,
+   "local": "Mungassa",
+   "bairro": "Mungassa",
+   "tipo": "Loteamento parcial",
+   "descricao": "Loteamento planeado de 41.000 lotes só parcialmente implementado; ocupação espontânea desordenada sobre planície húmida com arrozais sazonais. Ano = ano do perfil.",
+   "lon": 34.8923,
+   "lat": -19.7498,
+   "precisao_coord": "centroide do bairro (perfil ICLEI 2026, iclei_2026_mungassa p.1)",
+   "fonte_chave": "iclei_2026_mungassa",
+   "pagina": "1",
+   "georreferenciado": true
+  },
+  {
+   "id": "C08",
+   "ano": 2026,
+   "local": "Alto da Manga (Inhamízua)",
+   "bairro": "Alto da Manga",
+   "tipo": "Expansão informal sobre pântano",
+   "descricao": "Expansão rápida do assentamento sobre zona de pântano (lacuna apontada pelo perfil); 22.438 hab, 5,3 km2; pequena agricultura como meio de vida. Ano = ano do perfil.",
+   "lon": 34.8712,
+   "lat": -19.8012,
+   "precisao_coord": "centroide do bairro (perfil ICLEI 2026, iclei_2026_altomanga p.1-2)",
+   "fonte_chave": "iclei_2026_altomanga",
+   "pagina": "1-2",
+   "georreferenciado": true
+  },
+  {
+   "id": "C09",
+   "ano": 2015,
+   "local": "Baixa do Chiveve",
+   "bairro": "Baixa do Chiveve",
+   "tipo": "Ocupação de pastagem/zona húmida",
+   "descricao": "Pastagem com manchas de mangal passou de 139 ha (2004) para 132 ha (2009) e 107 ha (2015); assentamentos ordenados 229 -> 253 ha e não ordenados 60 -> 68 ha (rótulos a conferir). Período 2004-2015.",
+   "lon": null,
+   "lat": null,
+   "precisao_coord": "sem coordenada na fonte",
+   "fonte_chave": "uacane_2016",
+   "pagina": "207-208",
+   "georreferenciado": false
+  }
+ ],
+ "casos_costeiros": [
+  {
+   "cidade": "Lagos (Ikorodu, periurbano)",
+   "pais": "Nigéria",
+   "continente": "África",
+   "modelo_institucional": "Planejamento estatal (Lei de Planejamento Urbano e Regional de 1992) e Plano Regional de Lagos; 66% do território zoneado para agricultura, floresta e conservação em 1980-2000",
+   "instrumento_de_protecao_do_solo": "Zonas agrícolas estatutárias do Plano Regional 1980-2000 e revisão até 2016; falta de conhecimento e controlo fraco explicam 37% da expansão residencial nelas",
+   "ano_referencia": "1984-2016",
+   "produtores": null,
+   "area_ha": "10.047,6 (terra agrícola em 2016, LGA); 13.441,5 em 1984",
+   "participacao_abastecimento_hortalicas": null,
+   "agregados_praticantes_pct": null,
+   "principais_pressoes": "Expansão residencial (construído +127%), migração, controlo de desenvolvimento fraco",
+   "resultados": "Terra agrícola 13.441,5 para 10.047,6 ha (1984-2016) e 0,08 para 0,01 ha por habitante; % reportada de -32,65% não bate com as áreas (-25,2%)",
+   "licao_para_maputo": "Zoneamento agrícola estatutário sem fiscalização não impede a conversão; relevante para zonas verdes da Beira sem plano executado",
+   "fontes_chaves": "dekolo_2025"
+  },
+  {
+   "cidade": "Dakar (Niayes de Pikine, Hann-Maristes, Patte d'Oie)",
+   "pais": "Senegal",
+   "continente": "África",
+   "modelo_institucional": "Planos diretores de urbanismo 1946, 1961, 1967, 2001; nenhuma disposição para controlar crescimento demográfico nas Niayes em planos anteriores",
+   "instrumento_de_protecao_do_solo": "Não identificado nas partes lidas",
+   "ano_referencia": "1966-2014",
+   "produtores": null,
+   "area_ha": "Horticultura (maraîchage): 107,21 ha (1966), 115,19 (1978), 162,01 (2003), 93,70 (2014) na zona estudada",
+   "participacao_abastecimento_hortalicas": null,
+   "agregados_praticantes_pct": null,
+   "principais_pressoes": "Fragmentação por rede viária, aterro, urbanização, seca dos anos 1970",
+   "resultados": "Horticultura de 13,09% para 8,43% da zona entre 2003 e 2014; construído 37,27% em 2014",
+   "licao_para_maputo": "Baixada húmida costeira: horticultura recua com viária e aterro após período de expansão; analogia com baixadas e Chiveve",
+   "fontes_chaves": "diop_2018"
+  },
+  {
+   "cidade": "Dhaka",
+   "pais": "Bangladesh",
+   "continente": "Ásia",
+   "modelo_institucional": "Planejamento metropolitano (não detalhado nas partes lidas)",
+   "instrumento_de_protecao_do_solo": "Não identificado nas partes lidas",
+   "ano_referencia": "1990-2020",
+   "produtores": null,
+   "area_ha": null,
+   "participacao_abastecimento_hortalicas": null,
+   "agregados_praticantes_pct": null,
+   "principais_pressoes": "Aterro de zonas húmidas e conversão em construído; expansão de 4,24% a.a. (autores)",
+   "resultados": "Zonas húmidas 11,28% (1990) para 6,01% (2015) da área da cidade; ~69% de perda 1990-2020 no resumo; construído 8% para 38% (1990-2015)",
+   "licao_para_maputo": "Cidade deltaica sob aterro de baixada; mostra irreversibilidade (autores: difícil restaurar); sem série agrícola verificada",
+   "fontes_chaves": "abdullah_2024"
+  }
+ ],
+ "casos_comparados_maputo": [
+  {
+   "cidade": "Dar es Salaam",
+   "pais": "Tanzânia",
+   "continente": "África",
+   "modelo_institucional": "Sem reconhecimento formal forte; agricultura persiste informalmente, com posse por direito de uso (costumeiro)",
+   "instrumento_de_protecao_do_solo": "Nenhum identificado nas fontes lidas; autores recomendam posse incremental e planear/preservar terra agrícola",
+   "ano_referencia": "2021-2022",
+   "produtores": null,
+   "area_ha": null,
+   "participacao_abastecimento_hortalicas": "70% do amaranto (hortaliça folhosa) consumido, produzido na Região da cidade (30% rural); não vale para todas as hortaliças",
+   "agregados_praticantes_pct": null,
+   "principais_pressoes": "Expansão urbana sobre terra agrícola; obras (ex. porto seco, 2021); >70% da terra residencial informal",
+   "resultados": "Cadeia curta (11 km médios); quota baixou face a 90% citado de 1996 (Stevenson); ~7% das necessidades alimentares totais (Schmidt 2012, citado)",
+   "licao_para_maputo": "Sem proteção formal, a quota urbana cai com a conversão do solo; posse provisória incremental como compromisso",
+   "fontes_chaves": "wessels_2024; wessels_2024b"
+  },
+  {
+   "cidade": "Kampala",
+   "pais": "Uganda",
+   "continente": "África",
+   "modelo_institucional": "Ordenança municipal de 2006: permit para agricultura urbana (isenção possível para consumo doméstico) e licença para a comercial",
+   "instrumento_de_protecao_do_solo": "Não identificado nas partes lidas (§§ 1-6); § 11 'Agriculture prohibited in certain areas' só visto no sumário",
+   "ano_referencia": "2006 (ordenança); 2002 (percentagem)",
+   "produtores": null,
+   "area_ha": null,
+   "participacao_abastecimento_hortalicas": null,
+   "agregados_praticantes_pct": "49 (2002; agregados que cultivam dentro dos limites da cidade; fonte secundária sem citação primária)",
+   "principais_pressoes": "Não avaliadas nas fontes lidas",
+   "resultados": "Efeitos da ordenança não verificados",
+   "licao_para_maputo": "Reconhecimento jurídico por licenciamento não equivale a proteção do solo; precisa de zonamento complementar",
+   "fontes_chaves": "kcc_2006; stockholm_2012"
+  },
+  {
+   "cidade": "Nairobi",
+   "pais": "Quénia",
+   "continente": "África",
+   "modelo_institucional": "Lei do condado (2015) de promoção e regulação, com conselho consultivo; planeamento físico e uso de terra vaga previstos no sumário",
+   "instrumento_de_protecao_do_solo": "Inclusão da agricultura urbana no planeamento físico do condado e uso de terra vaga (conforme sumário; texto dos artigos ilegível no PDF digitalizado)",
+   "ano_referencia": "2015",
+   "produtores": null,
+   "area_ha": null,
+   "participacao_abastecimento_hortalicas": null,
+   "agregados_praticantes_pct": null,
+   "principais_pressoes": "Sítios agrícolas urbanos desapareceram (Foeken & Mwangi 2000, citado por Drechsel et al. 2008)",
+   "resultados": "Implementação não verificada",
+   "licao_para_maputo": "Prever na lei local o uso temporário de terra vaga e a ligação ao plano físico",
+   "fontes_chaves": "nairobi_2015; drechsel_2008"
+  },
+  {
+   "cidade": "Accra",
+   "pais": "Gana",
+   "continente": "África",
+   "modelo_institucional": "Reconhecimento fraco; agricultura de espaço aberto sob acordo informal; bye-laws da AMA (1995) exigem registo",
+   "instrumento_de_protecao_do_solo": "Nenhum; o plano METASIP 2014-17 previa zonear áreas urbanas/periurbanas para agricultura (atividade proposta)",
+   "ano_referencia": "2014-2024 (METASIP e perfil 2024)",
+   "produtores": null,
+   "area_ha": null,
+   "participacao_abastecimento_hortalicas": "~10% do repolho no mercado vem de agricultura de espaço aberto na cidade (METASIP, citado); parcelas 0,01-0,2 ha (urbano), 0,1-0,8 ha (periurbano)",
+   "agregados_praticantes_pct": null,
+   "principais_pressoes": "Promotores imobiliários e dragagem de drenos reduzem parcelas; poluição da água de rega",
+   "resultados": "0,9% do orçamento agrícola previsto para a agricultura urbana e periurbana (METASIP)",
+   "licao_para_maputo": "Mesmo com plano setorial, a posse informal e a fragmentação institucional (7 ministérios) limitam proteção",
+   "fontes_chaves": "amoah_2024"
+  },
+  {
+   "cidade": "Kumasi",
+   "pais": "Gana",
+   "continente": "África",
+   "modelo_institucional": "Idem Gana: Lei de Governo Local 462 (1993) permite agricultura urbana sem licença prévia; sem apoio forte",
+   "instrumento_de_protecao_do_solo": "Nenhum identificado",
+   "ano_referencia": "2007-2024 (Drechsel et al. 2007 citado; perfil 2024)",
+   "produtores": null,
+   "area_ha": null,
+   "participacao_abastecimento_hortalicas": "~90% da alface e da cebolinha consumidas produzidas em campos abertos na cidade; agricultura periurbana 36% do abastecimento no pico (agregado, todas as culturas)",
+   "agregados_praticantes_pct": null,
+   "principais_pressoes": "Urbanização; água poluída",
+   "resultados": "Nicho muito relevante em folhosas, mas não sustenta a procura geral",
+   "licao_para_maputo": "Folhosas perecíveis são nicho defensável de cintura urbana; vale proteger a proximidade ao mercado",
+   "fontes_chaves": "amoah_2024"
+  },
+  {
+   "cidade": "Lusaka",
+   "pais": "Zâmbia",
+   "continente": "África",
+   "modelo_institucional": "Planeamento sem uso misto: terra urbana só residencial e agricultura ilegal (Mubvami & Mushamba 2006, citado)",
+   "instrumento_de_protecao_do_solo": "Nenhum a favor da agricultura",
+   "ano_referencia": "c. 2003-2008",
+   "produtores": null,
+   "area_ha": null,
+   "participacao_abastecimento_hortalicas": null,
+   "agregados_praticantes_pct": null,
+   "principais_pressoes": "Planeamento que exclui o cultivo",
+   "resultados": "Fonte única de síntese (secundária); sem estudo primário aberto",
+   "licao_para_maputo": "Exemplo negativo: zonamento monofuncional criminaliza a agricultura urbana",
+   "fontes_chaves": "drechsel_2008"
+  },
+  {
+   "cidade": "Harare",
+   "pais": "Zimbábue",
+   "continente": "África",
+   "modelo_institucional": "Visão oficial hostil (ameaça ambiental); Declaração de Harare (2003) por 5 ministros pede visão partilhada",
+   "instrumento_de_protecao_do_solo": "Nenhum",
+   "ano_referencia": "c. 2000-2003",
+   "produtores": null,
+   "area_ha": null,
+   "participacao_abastecimento_hortalicas": null,
+   "agregados_praticantes_pct": null,
+   "principais_pressoes": "Suspeita e repressão (título de Mbiba 2000, citado)",
+   "resultados": "Fonte única de síntese; sem dados quantitativos",
+   "licao_para_maputo": "Mudar a visão oficial exige evidência (comparação com poluição urbana normal)",
+   "fontes_chaves": "drechsel_2008"
+  },
+  {
+   "cidade": "Cape Town",
+   "pais": "África do Sul",
+   "continente": "África",
+   "modelo_institucional": "Política de Agricultura Urbana (2007) reconhece o uso do solo; programa municipal de assistência (UAAP); ONGs",
+   "instrumento_de_protecao_do_solo": "Quadro de Desenvolvimento Espacial (CTSDF): limite urbano e reserva de terra agrícola de alto potencial fora dele (Philippi, Constantia etc.)",
+   "ano_referencia": "2011 (artigo; dados 2002-2007)",
+   "produtores": "~3 000 apoiados por ONGs + 300 pelo UAAP (c. 2011; não é total de produtores)",
+   "area_ha": null,
+   "participacao_abastecimento_hortalicas": "1% do abastecimento alimentar urbano (Frayne et al. 2009, citado)",
+   "agregados_praticantes_pct": null,
+   "principais_pressoes": "Baixa densidade residencial consome terra de alto potencial (9,1% do terreno desenvolvido vs 5,2% do disponível); +650 ha/ano de procura de terra após 2021; flexibilização do limite urbano apoiada na Philippi",
+   "resultados": "Proteção legal parcial e contestada; produção agrícola formal em zonas protegidas, produção informal pequena",
+   "licao_para_maputo": "Zonamento/limite urbano protege terra de alto potencial, mas precisa de salvaguardas contra flexibilizações sucessivas",
+   "fontes_chaves": "geyer_2011"
+  },
+  {
+   "cidade": "Havana",
+   "pais": "Cuba",
+   "continente": "América Latina e Caribe",
+   "modelo_institucional": "Estado: cessão de terra ociosa em usufruto (MINAGRI 1994; DL 259 de 2008; DL 300 de 2012), mercados diretos, apoio técnico",
+   "instrumento_de_protecao_do_solo": "Usufruto sem propriedade; espaços verdes interiores aproveitados (sem proteção do solo formal nas fontes lidas)",
+   "ano_referencia": "2012 (nacional); 2018 (amostra Havana)",
+   "produtores": "Cuba 2012: ~382 000 explorações ou lotes (definição GNAU; fonte secundária)",
+   "area_ha": "Cuba 2012: 50 000 ha (escala nacional, não só Havana); amostra de 43 sítios em Havana: 152 090 m2 produtivos (não é total)",
+   "participacao_abastecimento_hortalicas": "Cuba 2012: ~70% da procura de hortícolas e frutas frescas (Altieri & Funes-Monzote 2012, citado, dado nacional)",
+   "agregados_praticantes_pct": null,
+   "principais_pressoes": "Insegurança de uso (usufruto); falta de insumos; interstícios urbanos ocupados",
+   "resultados": "Aumento de produção esperado não ocorreu após DL 259; 16 000 bancas móveis em 2011 (3 200 em Havana)",
+   "licao_para_maputo": "Estado como cedente de terra e comprador com apoio técnico; atenção a quase ausência de dados de Havana isolada",
+   "fontes_chaves": "leitgeb_2015; gorna_2020"
+  },
+  {
+   "cidade": "Rosario",
+   "pais": "Argentina",
+   "continente": "América Latina e Caribe",
+   "modelo_institucional": "Programa de Agricultura Urbana (2002): município + ONG CEPAR; hortas, parques-horta, feiras; Ordenança 7341 (jun. 2002) cria programa de agricultura orgânica",
+   "instrumento_de_protecao_do_solo": "Cessão de terrenos fiscais ou privados (Ord. 4713/02 segundo CGLU; Ord. 7341, art. 3); terrenos não urbanizáveis de organismos titulares com segurança jurídica de posse",
+   "ano_referencia": "2002-2007 (CGLU); 2013/14 (Sánchez)",
+   "produtores": null,
+   "area_ha": null,
+   "participacao_abastecimento_hortalicas": null,
+   "agregados_praticantes_pct": null,
+   "principais_pressoes": "Dependência de doadores e subsídios; baixa organização dos hortelãos; contexto de soja",
+   "resultados": "Mais de 700 hortas comunitárias criadas (CGLU, 2007); seis feiras semanais; prémio ONU-Habitat 2004",
+   "licao_para_maputo": "Cessão formal de terra pública a famílias vulneráveis com feiras de venda direta é replicável em lotes vagos",
+   "fontes_chaves": "sanchez_2013; rosario_2002; uclg_2007"
+  },
+  {
+   "cidade": "São Paulo",
+   "pais": "Brasil",
+   "continente": "América Latina e Caribe",
+   "modelo_institucional": "PDE-2002 extinguiu a zona rural; PDE-2014 recriou-a; DAP, PNAE (30% orgânicos, Lei 16.140/2015) e PSA ligados à zona rural",
+   "instrumento_de_protecao_do_solo": "Zona rural no PDE-2014 (22,9% do município, 348,47 km2); Reserva da Biosfera do Cinturão Verde (UNESCO 1994)",
+   "ano_referencia": "2014 (PDE); 2013? (cadastro, slides)",
+   "produtores": "435 cadastrados (316 Sul + 40 Norte + 79 Leste; slides, ano incerto)",
+   "area_ha": "5091,67 (4759 + 183 + 149,67; área cultivada cadastrada; slides, ano incerto)",
+   "participacao_abastecimento_hortalicas": null,
+   "agregados_praticantes_pct": null,
+   "principais_pressoes": "Expansão urbana e grandes empreendimentos; falta de regularização fundiária (slides)",
+   "resultados": "Zoneamento rural permitiu emitir DAP e vender ao PNAE; Cinturão Verde fornece 72% da água potável do município",
+   "licao_para_maputo": "O estatuto jurídico rural do solo é pré-condição para acessar apoio público; a figura de zona rural/Reserva da Biosfera é transferível",
+   "fontes_chaves": "couri_2021; miketen_2013; ferreira_2023"
+  },
+  {
+   "cidade": "Belo Horizonte",
+   "pais": "Brasil",
+   "continente": "América Latina e Caribe",
+   "modelo_institucional": "Política Municipal de Apoio à Agricultura Urbana (Lei 10.255/2011, citada em monografia; lei não aberta); programa de segurança alimentar",
+   "instrumento_de_protecao_do_solo": "Não identificado",
+   "ano_referencia": "2021 (contagem PBH citada)",
+   "produtores": null,
+   "area_ha": null,
+   "participacao_abastecimento_hortalicas": null,
+   "agregados_praticantes_pct": null,
+   "principais_pressoes": "Não analisadas",
+   "resultados": "~234 unidades produtivas mapeadas (40 institucionais, 42 hortas comunitárias, 151 escolares; PBH 2021 via monografia)",
+   "licao_para_maputo": "Integração com saúde e escolas via segurança alimentar; fontes fracas",
+   "fontes_chaves": "trindade_sd"
+  },
+  {
+   "cidade": "Hanói",
+   "pais": "Vietname",
+   "continente": "Ásia",
+   "modelo_institucional": "Estado controla a terra (arrendamento de 20 anos); política de hortaliça segura e cinturão verde; Plano Diretor 2030 prevê conversão",
+   "instrumento_de_protecao_do_solo": "Cinturão verde planeado para hortaliça segura (Plano 2030); sem proteção geral",
+   "ano_referencia": "2004 (40%); 2013 (política)",
+   "produtores": null,
+   "area_ha": null,
+   "participacao_abastecimento_hortalicas": "40% das hortaliças consumidas em Hanói produzidas dentro dos limites da cidade (estudo de 2004, citado)",
+   "agregados_praticantes_pct": null,
+   "principais_pressoes": "Plano prevê declínio de quase 30% da terra agrícola antes de 2020 (Sautier et al. 2012, citado); em 3 comunas de Thanh Tri, terra agrícola -36,7% (2000-2009) e hortaliças -34,8%",
+   "resultados": "Agricultores perdem terra com pouco aviso e compensação insuficiente",
+   "licao_para_maputo": "Quando o plano diretor converte a terra, é preciso compensação, aviso e um cinturão reservado desde o início",
+   "fontes_chaves": "shields_2013; long_2011"
+  },
+  {
+   "cidade": "Lisboa",
+   "pais": "Portugal",
+   "continente": "Europa",
+   "modelo_institucional": "Projeto dos Parques Hortícolas da CML (2007): formalização de hortas em espaços verdes do PDM; fiscalização das 'hortas dispersas'",
+   "instrumento_de_protecao_do_solo": "Espaços verdes do PDM; conceito de Parque Periférico (300 ha) do PDM 1994 não concretizado",
+   "ano_referencia": "2007-2014",
+   "produtores": null,
+   "area_ha": "179 (hortas, 1947, área na cidade; pico em 1987; queda desde 1995)",
+   "participacao_abastecimento_hortalicas": null,
+   "agregados_praticantes_pct": null,
+   "principais_pressoes": "Urbanização 1994-2008 reduziu área de hortas; hortas ilegais",
+   "resultados": "Hortas passaram de espaços informais a parques regulados (dados após 2008 não analisados na tese)",
+   "licao_para_maputo": "Legalizar e dar infraestrutura às hortas informais em vez de apenas fiscalizar",
+   "fontes_chaves": "goncalves_2014"
+  }
+ ],
+ "exatidao": {
+  "oob": {
+   "1979": {
+    "acc": 0.98,
+    "n": 6827,
+    "f1_zonas_verdes": null,
+    "f1_construido": 0.9713,
+    "f1_sequeiro": 0.9825
+   },
+   "1985": {
+    "acc": 0.958,
+    "n": 7007,
+    "f1_zonas_verdes": 0.9075,
+    "f1_construido": 0.9859,
+    "f1_sequeiro": 0.914
+   },
+   "1990": {
+    "acc": 0.964,
+    "n": 6816,
+    "f1_zonas_verdes": 0.9261,
+    "f1_construido": 0.9829,
+    "f1_sequeiro": 0.9367
+   },
+   "1995": {
+    "acc": 0.965,
+    "n": 6629,
+    "f1_zonas_verdes": 0.9722,
+    "f1_construido": 0.9511,
+    "f1_sequeiro": 0.9539
+   },
+   "1997": {
+    "acc": 0.964,
+    "n": 8305,
+    "f1_zonas_verdes": 0.9376,
+    "f1_construido": 0.9794,
+    "f1_sequeiro": 0.963
+   },
+   "2000": {
+    "acc": 0.968,
+    "n": 8093,
+    "f1_zonas_verdes": 0.9061,
+    "f1_construido": 0.9794,
+    "f1_sequeiro": 0.9686
+   },
+   "2005": {
+    "acc": 0.965,
+    "n": 6440,
+    "f1_zonas_verdes": 0.899,
+    "f1_construido": 0.9661,
+    "f1_sequeiro": 0.8896
+   },
+   "2007": {
+    "acc": 0.966,
+    "n": 6989,
+    "f1_zonas_verdes": 0.8861,
+    "f1_construido": 0.9749,
+    "f1_sequeiro": 0.8929
+   },
+   "2010": {
+    "acc": 0.966,
+    "n": 8164,
+    "f1_zonas_verdes": 0.9273,
+    "f1_construido": 0.9788,
+    "f1_sequeiro": 0.9571
+   },
+   "2015": {
+    "acc": 0.979,
+    "n": 7552,
+    "f1_zonas_verdes": 0.9261,
+    "f1_construido": 0.9913,
+    "f1_sequeiro": 0.9458
+   },
+   "2017": {
+    "acc": 0.981,
+    "n": 8553,
+    "f1_zonas_verdes": 0.9481,
+    "f1_construido": 0.992,
+    "f1_sequeiro": 0.9703
+   },
+   "2019": {
+    "acc": 0.989,
+    "n": 6413,
+    "f1_zonas_verdes": 0.6667,
+    "f1_construido": 0.998,
+    "f1_sequeiro": 0.9384
+   },
+   "2020": {
+    "acc": 0.975,
+    "n": 9542,
+    "f1_zonas_verdes": 0.961,
+    "f1_construido": 0.9953,
+    "f1_sequeiro": 0.9573
+   },
+   "2025": {
+    "acc": 0.982,
+    "n": 8242,
+    "f1_zonas_verdes": 0.9432,
+    "f1_construido": 0.995,
+    "f1_sequeiro": 0.9659
+   },
+   "2026": {
+    "acc": 0.976,
+    "n": 8137,
+    "f1_zonas_verdes": 0.9259,
+    "f1_construido": 0.9874,
+    "f1_sequeiro": 0.9609
+   }
+  },
+  "cv_blocos": {
+   "2000": {
+    "acc": 0.918,
+    "n_blocos": 178,
+    "f1_zonas_verdes": 0.3563,
+    "f1_construido": 0.9441,
+    "f1_sequeiro": 0.9151
+   },
+   "2010": {
+    "acc": 0.915,
+    "n_blocos": 181,
+    "f1_zonas_verdes": 0.6788,
+    "f1_construido": 0.952,
+    "f1_sequeiro": 0.8839
+   },
+   "2020": {
+    "acc": 0.908,
+    "n_blocos": 181,
+    "f1_zonas_verdes": 0.675,
+    "f1_construido": 0.992,
+    "f1_sequeiro": 0.9095
+   }
+  },
+  "validacao_independente_2020": {
+   "n_pontos": 280,
+   "n_sem_rotulo": 0,
+   "n_indeterminados": 0,
+   "indeterminados_por_estrato": {},
+   "n_usados": 280,
+   "classes": [
+    1,
+    2,
+    3,
+    45,
+    6,
+    7
+   ],
+   "ambitos": {
+    "municipio": {
+     "area_mapeada_ha": {
+      "1": 8018.82,
+      "2": 2425.3199999999997,
+      "3": 4341.42,
+      "45": 44629.2,
+      "6": 708.48,
+      "7": 594.0
+     },
+     "matriz_confusao": [
+      [
+       47,
+       2,
+       2,
+       3,
+       1,
+       5
+      ],
+      [
+       5,
+       1,
+       6,
+       47,
+       0,
+       1
+      ],
+      [
+       7,
+       0,
+       26,
+       2,
+       0,
+       5
+      ],
+      [
+       14,
+       0,
+       17,
+       25,
+       0,
+       4
+      ],
+      [
+       0,
+       0,
+       0,
+       7,
+       18,
+       5
+      ],
+      [
+       0,
+       0,
+       0,
+       0,
+       0,
+       30
+      ]
+     ],
+     "n_por_estrato": {
+      "1": 60,
+      "2": 60,
+      "3": 40,
+      "45": 60,
+      "6": 30,
+      "7": 30
+     },
+     "exatidao_global": {
+      "valor": 0.47364376246351114,
+      "ic95": 0.09414680865377878
+     },
+     "exatidao_usuario": {
+      "1": {
+       "valor": 0.7833333333333333,
+       "ic95": 0.10512340519670517
+      },
+      "2": {
+       "valor": 0.016666666666666666,
+       "ic95": 0.03266666666666666
+      },
+      "3": {
+       "valor": 0.65,
+       "ic95": 0.14969747270189077
+      },
+      "45": {
+       "valor": 0.4166666666666667,
+       "ic95": 0.12580063742544326
+      },
+      "6": {
+       "valor": 0.6,
+       "ic95": 0.17830465984975807
+      },
+      "7": {
+       "valor": 1.0,
+       "ic95": 0.0
+      }
+     },
+     "exatidao_produtor": {
+      "1": {
+       "valor": 0.3557511937008784,
+       "ic95": 0.10239432053286857
+      },
+      "2": {
+       "valor": 0.13136138517334167,
+       "ic95": 0.27313556460258837
+      },
+      "3": {
+       "valor": 0.17662752276144325,
+       "ic95": 0.06603796690134227
+      },
+      "45": {
+       "valor": 0.8739037960006688,
+       "ic95": 0.041482731167179814
+      },
+      "6": {
+       "valor": 0.7608043168944133,
+       "ic95": 0.3607594814310537
+      },
+      "7": {
+       "valor": 0.12027470012571137,
+       "ic95": 0.07145117668288146
+      }
+     },
+     "area_ajustada_ha": {
+      "1": {
+       "valor": 17656.747499999998,
+       "ic95": 4920.11733050523,
+       "mapeada": 8018.82
+      },
+      "2": {
+       "valor": 307.71599999999995,
+       "ic95": 375.7453630726252,
+       "mapeada": 2425.3199999999997
+      },
+      "3": {
+       "valor": 15976.689000000002,
+       "ic95": 5188.981363107639,
+       "mapeada": 4341.42
+      },
+      "45": {
+       "valor": 21278.658,
+       "ic95": 5646.701762923156,
+       "mapeada": 44629.2
+      },
+      "6": {
+       "valor": 558.7349999999999,
+       "ic95": 290.81763238418404,
+       "mapeada": 708.48
+      },
+      "7": {
+       "valor": 4938.694499999999,
+       "ic95": 2933.9132247550697,
+       "mapeada": 594.0
+      }
+     },
+     "area_total_ha": 60717.24
+    }
+   },
+   "sem_baixa": false,
+   "distribuicao_confianca": {
+    "baixa": 156,
+    "media": 109,
+    "alta": 15
+   }
+  },
+  "nota": "Validação cega de 2020 (amostra estratificada, interpretação visual de imagens): leia a exatidão de cada classe com o intervalo de confiança; classes com exatidão baixa são indicativas.",
+  "validacao_resumo": {
+   "municipio": {
+    "n_pontos": 280,
+    "exatidao_global": 0.474,
+    "exatidao_global_ic95": 0.094,
+    "classes": {
+     "1": {
+      "ua": 0.78,
+      "ua_ic95": 0.11,
+      "pa": 0.36,
+      "pa_ic95": 0.1,
+      "area_ajustada_ha": 17657,
+      "area_ajustada_ic95_ha": 4920,
+      "area_mapeada_ha": 8019
+     },
+     "2": {
+      "ua": 0.02,
+      "ua_ic95": 0.03,
+      "pa": 0.13,
+      "pa_ic95": 0.27,
+      "area_ajustada_ha": 308,
+      "area_ajustada_ic95_ha": 376,
+      "area_mapeada_ha": 2425
+     },
+     "3": {
+      "ua": 0.65,
+      "ua_ic95": 0.15,
+      "pa": 0.18,
+      "pa_ic95": 0.07,
+      "area_ajustada_ha": 15977,
+      "area_ajustada_ic95_ha": 5189,
+      "area_mapeada_ha": 4341
+     },
+     "45": {
+      "ua": 0.42,
+      "ua_ic95": 0.13,
+      "pa": 0.87,
+      "pa_ic95": 0.04,
+      "area_ajustada_ha": 21279,
+      "area_ajustada_ic95_ha": 5647,
+      "area_mapeada_ha": 44629
+     },
+     "6": {
+      "ua": 0.6,
+      "ua_ic95": 0.18,
+      "pa": 0.76,
+      "pa_ic95": 0.36,
+      "area_ajustada_ha": 559,
+      "area_ajustada_ic95_ha": 291,
+      "area_mapeada_ha": 708
+     },
+     "7": {
+      "ua": 1.0,
+      "ua_ic95": 0.0,
+      "pa": 0.12,
+      "pa_ic95": 0.07,
+      "area_ajustada_ha": 4939,
+      "area_ajustada_ic95_ha": 2934,
+      "area_mapeada_ha": 594
+     }
+    }
+   }
+  },
+  "sem_baixa": {
+   "distribuicao_confianca": {
+    "baixa": 156,
+    "media": 109,
+    "alta": 15
+   },
+   "ambitos": {
+    "municipio": {
+     "n_pontos": 124,
+     "exatidao_global": 0.636,
+     "exatidao_global_ic95": 0.182,
+     "classes": {
+      "1": {
+       "ua": 0.95,
+       "ua_ic95": 0.07,
+       "pa": 0.41,
+       "pa_ic95": 0.21,
+       "area_ajustada_ha": 18819,
+       "area_ajustada_ic95_ha": 9610
+      },
+      "2": {
+       "ua": 0.07,
+       "ua_ic95": 0.14,
+       "pa": 1.0,
+       "pa_ic95": 0.0,
+       "area_ajustada_ha": 173,
+       "area_ajustada_ic95_ha": 340
+      },
+      "3": {
+       "ua": 0.0,
+       "ua_ic95": 0.0,
+       "pa": 0.0,
+       "pa_ic95": 0.0,
+       "area_ajustada_ha": 2975,
+       "area_ajustada_ic95_ha": 5832
+      },
+      "45": {
+       "ua": 0.67,
+       "ua_ic95": 0.25,
+       "pa": 0.89,
+       "pa_ic95": 0.07,
+       "area_ajustada_ha": 33531,
+       "area_ajustada_ic95_ha": 11239
+      },
+      "6": {
+       "ua": 0.67,
+       "ua_ic95": 0.19,
+       "pa": 1.0,
+       "pa_ic95": 0.0,
+       "area_ajustada_ha": 472,
+       "area_ajustada_ic95_ha": 136
+      },
+      "7": {
+       "ua": 1.0,
+       "ua_ic95": 0.0,
+       "pa": 0.13,
+       "pa_ic95": 0.16,
+       "area_ajustada_ha": 4747,
+       "area_ajustada_ic95_ha": 6087
+      }
+     }
+    }
+   }
+  },
+  "distribuicao_confianca": {
+   "baixa": 156,
+   "media": 109,
+   "alta": 15
+  },
+  "ghsl_construido": [
+   {
+    "epoca": 1985,
+    "ghsl_ano": 1985,
+    "construido_ha": 2349,
+    "ghsl_ha": 1471,
+    "f1": 0.606
+   },
+   {
+    "epoca": 1990,
+    "ghsl_ano": 1990,
+    "construido_ha": 2642,
+    "ghsl_ha": 1796,
+    "f1": 0.621
+   },
+   {
+    "epoca": 1995,
+    "ghsl_ano": 1995,
+    "construido_ha": 2839,
+    "ghsl_ha": 2227,
+    "f1": 0.635
+   },
+   {
+    "epoca": 1997,
+    "ghsl_ano": 1995,
+    "construido_ha": 3318,
+    "ghsl_ha": 2227,
+    "f1": 0.632
+   },
+   {
+    "epoca": 2000,
+    "ghsl_ano": 2000,
+    "construido_ha": 3583,
+    "ghsl_ha": 2738,
+    "f1": 0.641
+   },
+   {
+    "epoca": 2005,
+    "ghsl_ano": 2005,
+    "construido_ha": 5346,
+    "ghsl_ha": 3246,
+    "f1": 0.689
+   },
+   {
+    "epoca": 2007,
+    "ghsl_ano": 2005,
+    "construido_ha": 5521,
+    "ghsl_ha": 3246,
+    "f1": 0.677
+   },
+   {
+    "epoca": 2010,
+    "ghsl_ano": 2010,
+    "construido_ha": 5856,
+    "ghsl_ha": 4426,
+    "f1": 0.719
+   },
+   {
+    "epoca": 2015,
+    "ghsl_ano": 2015,
+    "construido_ha": 6798,
+    "ghsl_ha": 5294,
+    "f1": 0.744
+   },
+   {
+    "epoca": 2017,
+    "ghsl_ano": 2015,
+    "construido_ha": 7143,
+    "ghsl_ha": 5294,
+    "f1": 0.742
+   },
+   {
+    "epoca": 2019,
+    "ghsl_ano": 2020,
+    "construido_ha": 7705,
+    "ghsl_ha": 5881,
+    "f1": 0.731
+   },
+   {
+    "epoca": 2020,
+    "ghsl_ano": 2020,
+    "construido_ha": 8019,
+    "ghsl_ha": 5881,
+    "f1": 0.735
+   },
+   {
+    "epoca": 2025,
+    "ghsl_ano": 2025,
+    "construido_ha": 8619,
+    "ghsl_ha": 6015,
+    "f1": 0.73
+   },
+   {
+    "epoca": 2026,
+    "ghsl_ano": 2025,
+    "construido_ha": 8702,
+    "ghsl_ha": 6015,
+    "f1": 0.728
+   }
+  ]
+ },
+ "siueia": {
+  "nota": "Siueia et al. (2025) usam o mapa IO LULC de 10 m sobre o município da Beira (658 km2, shapefile DIVA-GIS). A coluna 'IO na nossa máscara' reaplica o IO LULC ao município deste estudo (607 km2 na grade de 30 m). A classe 'culturas' do IO exclui o arrozal inundado (classe 'vegetação inundada'). As nossas classes 2 e 3 têm definição própria e não são equivalentes à classe 'culturas' do IO.",
+  "linhas": [
+   {
+    "ano": 2017,
+    "siueia_culturas_km2": 8.25,
+    "io_culturas_nossa_mascara_km2": 7.789499999999999,
+    "io_inundada_km2": 23.118299999999998,
+    "siueia_construido_km2": 103.81,
+    "io_construido_nossa_mascara_km2": 101.3994,
+    "nosso_construido_km2": 71.4348,
+    "nosso_classe2_km2": 11.2995,
+    "nosso_classe3_km2": 41.837399999999995
+   },
+   {
+    "ano": 2018,
+    "siueia_culturas_km2": 5.72,
+    "io_culturas_nossa_mascara_km2": 5.186699999999999,
+    "io_inundada_km2": 23.2758,
+    "siueia_construido_km2": 109.03,
+    "io_construido_nossa_mascara_km2": 106.37549999999999,
+    "nosso_construido_km2": null,
+    "nosso_classe2_km2": null,
+    "nosso_classe3_km2": null
+   },
+   {
+    "ano": 2019,
+    "siueia_culturas_km2": 2.7,
+    "io_culturas_nossa_mascara_km2": 2.4903,
+    "io_inundada_km2": 22.926599999999997,
+    "siueia_construido_km2": 106.45,
+    "io_construido_nossa_mascara_km2": 103.4226,
+    "nosso_construido_km2": 77.04809999999999,
+    "nosso_classe2_km2": 15.425999999999998,
+    "nosso_classe3_km2": 22.1904
+   },
+   {
+    "ano": 2020,
+    "siueia_culturas_km2": 5.23,
+    "io_culturas_nossa_mascara_km2": 5.0868,
+    "io_inundada_km2": 21.570299999999996,
+    "siueia_construido_km2": 118.46,
+    "io_construido_nossa_mascara_km2": 115.1424,
+    "nosso_construido_km2": 80.1882,
+    "nosso_classe2_km2": 24.253199999999996,
+    "nosso_classe3_km2": 43.4142
+   },
+   {
+    "ano": 2021,
+    "siueia_culturas_km2": 6.8,
+    "io_culturas_nossa_mascara_km2": 6.204599999999999,
+    "io_inundada_km2": 29.7594,
+    "siueia_construido_km2": 122.72,
+    "io_construido_nossa_mascara_km2": 119.12129999999999,
+    "nosso_construido_km2": null,
+    "nosso_classe2_km2": null,
+    "nosso_classe3_km2": null
+   },
+   {
+    "ano": 2022,
+    "siueia_culturas_km2": 9.54,
+    "io_culturas_nossa_mascara_km2": 8.6103,
+    "io_inundada_km2": 23.0355,
+    "siueia_construido_km2": 130.08,
+    "io_construido_nossa_mascara_km2": 125.8866,
+    "nosso_construido_km2": null,
+    "nosso_classe2_km2": null,
+    "nosso_classe3_km2": null
+   },
+   {
+    "ano": 2023,
+    "siueia_culturas_km2": 7.06,
+    "io_culturas_nossa_mascara_km2": 6.6915,
+    "io_inundada_km2": 16.258499999999998,
+    "siueia_construido_km2": 124.96,
+    "io_construido_nossa_mascara_km2": 121.43609999999998,
+    "nosso_construido_km2": null,
+    "nosso_classe2_km2": null,
+    "nosso_classe3_km2": null
+   }
+  ]
+ },
+ "producao": {
+  "nota": "Cada linha tem a sua própria definição espacial e conceitual; não se somam nem se comparam sem nota. Valores PARCIAL foram lidos em fontes secundárias ou resumos. Só entram linhas verificadas ou parcialmente verificadas.",
+  "fontes": [
+   "atlas_urbexp_beira",
+   "fao_2019",
+   "siueia_2025"
+  ],
+  "linhas": [
+   {
+    "variavel": "área de culturas (classe crops)",
+    "valor": 8.25,
+    "unidade": "km2",
+    "ano": "2017",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Sem validação local; classe de culturas ~1% do município, não equivale à agricultura total"
+   },
+   {
+    "variavel": "área de culturas (fração do município)",
+    "valor": 1.25,
+    "unidade": "%",
+    "ano": "2017",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": null
+   },
+   {
+    "variavel": "área de culturas (classe crops)",
+    "valor": 5.72,
+    "unidade": "km2",
+    "ano": "2018",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Sem validação local; classe de culturas ~1% do município, não equivale à agricultura total"
+   },
+   {
+    "variavel": "área de culturas (fração do município)",
+    "valor": 0.87,
+    "unidade": "%",
+    "ano": "2018",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": null
+   },
+   {
+    "variavel": "área de culturas (classe crops)",
+    "valor": 2.7,
+    "unidade": "km2",
+    "ano": "2019",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Sem validação local; classe de culturas ~1% do município, não equivale à agricultura total"
+   },
+   {
+    "variavel": "área de culturas (fração do município)",
+    "valor": 0.41,
+    "unidade": "%",
+    "ano": "2019",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": null
+   },
+   {
+    "variavel": "área de culturas (classe crops)",
+    "valor": 5.23,
+    "unidade": "km2",
+    "ano": "2020",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Sem validação local; classe de culturas ~1% do município, não equivale à agricultura total"
+   },
+   {
+    "variavel": "área de culturas (fração do município)",
+    "valor": 0.79,
+    "unidade": "%",
+    "ano": "2020",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": null
+   },
+   {
+    "variavel": "área de culturas (classe crops)",
+    "valor": 6.8,
+    "unidade": "km2",
+    "ano": "2021",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Sem validação local; classe de culturas ~1% do município, não equivale à agricultura total"
+   },
+   {
+    "variavel": "área de culturas (fração do município)",
+    "valor": 1.03,
+    "unidade": "%",
+    "ano": "2021",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": null
+   },
+   {
+    "variavel": "área de culturas (classe crops)",
+    "valor": 9.54,
+    "unidade": "km2",
+    "ano": "2022",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Sem validação local; classe de culturas ~1% do município, não equivale à agricultura total"
+   },
+   {
+    "variavel": "área de culturas (fração do município)",
+    "valor": 1.45,
+    "unidade": "%",
+    "ano": "2022",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": null
+   },
+   {
+    "variavel": "área de culturas (classe crops)",
+    "valor": 7.06,
+    "unidade": "km2",
+    "ano": "2023",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Sem validação local; classe de culturas ~1% do município, não equivale à agricultura total"
+   },
+   {
+    "variavel": "área de culturas (fração do município)",
+    "valor": 1.07,
+    "unidade": "%",
+    "ano": "2023",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": null
+   },
+   {
+    "variavel": "área construída (IO LULC)",
+    "valor": 103.81,
+    "unidade": "km2",
+    "ano": "2017",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Não comparar diretamente com GHSL ou nossa classificação própria"
+   },
+   {
+    "variavel": "área construída (IO LULC)",
+    "valor": 109.03,
+    "unidade": "km2",
+    "ano": "2018",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Não comparar diretamente com GHSL ou nossa classificação própria"
+   },
+   {
+    "variavel": "área construída (IO LULC)",
+    "valor": 106.45,
+    "unidade": "km2",
+    "ano": "2019",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Não comparar diretamente com GHSL ou nossa classificação própria"
+   },
+   {
+    "variavel": "área construída (IO LULC)",
+    "valor": 118.46,
+    "unidade": "km2",
+    "ano": "2020",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Não comparar diretamente com GHSL ou nossa classificação própria"
+   },
+   {
+    "variavel": "área construída (IO LULC)",
+    "valor": 122.72,
+    "unidade": "km2",
+    "ano": "2021",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Não comparar diretamente com GHSL ou nossa classificação própria"
+   },
+   {
+    "variavel": "área construída (IO LULC)",
+    "valor": 130.08,
+    "unidade": "km2",
+    "ano": "2022",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Não comparar diretamente com GHSL ou nossa classificação própria"
+   },
+   {
+    "variavel": "área construída (IO LULC)",
+    "valor": 124.96,
+    "unidade": "km2",
+    "ano": "2023",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Não comparar diretamente com GHSL ou nossa classificação própria"
+   },
+   {
+    "variavel": "vegetação inundada (inclui arrozal e mangal inundado)",
+    "valor": 23.21,
+    "unidade": "km2",
+    "ano": "2017",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Tabela 1, p. 89, inclui 'rice paddies' nesta classe"
+   },
+   {
+    "variavel": "vegetação inundada (inclui arrozal e mangal inundado)",
+    "valor": 23.33,
+    "unidade": "km2",
+    "ano": "2018",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Tabela 1, p. 89, inclui 'rice paddies' nesta classe"
+   },
+   {
+    "variavel": "vegetação inundada (inclui arrozal e mangal inundado)",
+    "valor": 24.02,
+    "unidade": "km2",
+    "ano": "2019",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Tabela 1, p. 89, inclui 'rice paddies' nesta classe"
+   },
+   {
+    "variavel": "vegetação inundada (inclui arrozal e mangal inundado)",
+    "valor": 22.37,
+    "unidade": "km2",
+    "ano": "2020",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Tabela 1, p. 89, inclui 'rice paddies' nesta classe"
+   },
+   {
+    "variavel": "vegetação inundada (inclui arrozal e mangal inundado)",
+    "valor": 31.41,
+    "unidade": "km2",
+    "ano": "2021",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Tabela 1, p. 89, inclui 'rice paddies' nesta classe"
+   },
+   {
+    "variavel": "vegetação inundada (inclui arrozal e mangal inundado)",
+    "valor": 24.39,
+    "unidade": "km2",
+    "ano": "2022",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Tabela 1, p. 89, inclui 'rice paddies' nesta classe"
+   },
+   {
+    "variavel": "vegetação inundada (inclui arrozal e mangal inundado)",
+    "valor": 17.09,
+    "unidade": "km2",
+    "ano": "2023",
+    "recorte": "Município da Beira (658,12 km2)",
+    "definicao": "IO LULC 10 m (Sentinel-2, Impact Observatory); recorte = município da Beira 658,12 km2 (shapefile DIVA-GIS); classe 'crops' exclui arrozal inundado (classe 'flooded vegetation')",
+    "fonte": "siueia_2025",
+    "pagina": "Tabela 2, p. 90",
+    "status": "VERIFICADO",
+    "nota": "Tabela 1, p. 89, inclui 'rice paddies' nesta classe"
+   },
+   {
+    "variavel": "área do município",
+    "valor": 658.0,
+    "unidade": "km2",
+    "ano": "2025",
+    "recorte": "Município da Beira",
+    "definicao": "Citado pelos autores",
+    "fonte": "siueia_2025",
+    "pagina": "p. 88",
+    "status": "VERIFICADO",
+    "nota": null
+   },
+   {
+    "variavel": "extensão urbana (Atlas)",
+    "valor": 2207.0,
+    "unidade": "ha",
+    "ano": "1991",
+    "recorte": "Beira (urban extent do Atlas)",
+    "definicao": "Extensão urbana (Atlas of Urban Expansion); limite administrativo não confirmado",
+    "fonte": "atlas_urbexp_beira",
+    "pagina": "Tabela Areas and Densities (online, sem página)",
+    "status": "PARCIAL",
+    "nota": "Salto 2001-2013 a confirmar na metodologia do Atlas"
+   },
+   {
+    "variavel": "população (Atlas)",
+    "valor": 131884.0,
+    "unidade": "hab",
+    "ano": "1991",
+    "recorte": "Beira (urban extent do Atlas)",
+    "definicao": "Extensão urbana (Atlas of Urban Expansion); limite administrativo não confirmado",
+    "fonte": "atlas_urbexp_beira",
+    "pagina": "Tabela Areas and Densities (online, sem página)",
+    "status": "PARCIAL",
+    "nota": "Não comparar com censos INE sem conferir limites"
+   },
+   {
+    "variavel": "extensão urbana (Atlas)",
+    "valor": 2631.0,
+    "unidade": "ha",
+    "ano": "2001",
+    "recorte": "Beira (urban extent do Atlas)",
+    "definicao": "Extensão urbana (Atlas of Urban Expansion); limite administrativo não confirmado",
+    "fonte": "atlas_urbexp_beira",
+    "pagina": "Tabela Areas and Densities (online, sem página)",
+    "status": "PARCIAL",
+    "nota": "Salto 2001-2013 a confirmar na metodologia do Atlas"
+   },
+   {
+    "variavel": "população (Atlas)",
+    "valor": 143908.0,
+    "unidade": "hab",
+    "ano": "2001",
+    "recorte": "Beira (urban extent do Atlas)",
+    "definicao": "Extensão urbana (Atlas of Urban Expansion); limite administrativo não confirmado",
+    "fonte": "atlas_urbexp_beira",
+    "pagina": "Tabela Areas and Densities (online, sem página)",
+    "status": "PARCIAL",
+    "nota": "Não comparar com censos INE sem conferir limites"
+   },
+   {
+    "variavel": "extensão urbana (Atlas)",
+    "valor": 12153.0,
+    "unidade": "ha",
+    "ano": "2013",
+    "recorte": "Beira (urban extent do Atlas)",
+    "definicao": "Extensão urbana (Atlas of Urban Expansion); limite administrativo não confirmado",
+    "fonte": "atlas_urbexp_beira",
+    "pagina": "Tabela Areas and Densities (online, sem página)",
+    "status": "PARCIAL",
+    "nota": "Salto 2001-2013 a confirmar na metodologia do Atlas"
+   },
+   {
+    "variavel": "população (Atlas)",
+    "valor": 382575.0,
+    "unidade": "hab",
+    "ano": "2013",
+    "recorte": "Beira (urban extent do Atlas)",
+    "definicao": "Extensão urbana (Atlas of Urban Expansion); limite administrativo não confirmado",
+    "fonte": "atlas_urbexp_beira",
+    "pagina": "Tabela Areas and Densities (online, sem página)",
+    "status": "PARCIAL",
+    "nota": "Não comparar com censos INE sem conferir limites"
+   },
+   {
+    "variavel": "culturas destruídas por Idai e cheias (mínimo)",
+    "valor": 715000.0,
+    "unidade": "ha",
+    "ano": "2019",
+    "recorte": "Região central de Moçambique (províncias afetadas: Inhambane, Manica, Sofala, Tete, Zambézia); NÃO é a Beira",
+    "definicao": "Reportado pela FAO, mar-mai 2019; definição de 'destruídas' não dada",
+    "fonte": "fao_2019",
+    "pagina": "p. 1",
+    "status": "VERIFICADO",
+    "nota": "Não usar como perda da Beira"
+   }
+  ],
+  "lacuna": "Entre as linhas verificadas ou parcialmente verificadas não há série de produtores, de área cultivada ou de produção de fonte oficial (INE, direção provincial, município) para a Beira: os dados disponíveis são mapas globais de cobertura (IO LULC), o Atlas da Expansão Urbana e estimativas de danos das cheias. A classificação de satélite deste estudo é, por isso, a principal série espacial."
+ },
+ "creditos": {
+  "intro": "O código está sob licença MIT (ver LICENSE). O material de terceiros listado abaixo não é coberto por essa licença e mantém os direitos dos respetivos titulares; é reproduzido para fins de citação científica, com indicação da fonte.",
+  "planos": [
+   {
+    "Arquivo do site": "fig4_loteamento_1898.webp",
+    "Descrição": "Projecto de Loteamento da Beira (1898), detalhe, 957x638 px (fig. 4, p. 157)",
+    "Autor": "n.i.",
+    "Data": "1898",
+    "Detentor": "Arquivo Histórico de Moçambique (foto AHM 2011, segundo Fernandes et al.)",
+    "Fonte de onde foi obtida (URL)": "Fernandes, Mealha & Mendes (2016), urbe 8(1), via Redalyc (https://www.redalyc.org/pdf/1931/193143596011.pdf)",
+    "Situação de direitos": "reproducao_com_citacao (artigo sob licença Creative Commons, versão não indicada; direitos do original não verificados)"
+   },
+   {
+    "Arquivo do site": "fig5_plano_urbanizacao_1899_cia_mocambique.webp",
+    "Descrição": "Companhia de Moçambique, Planta da Beira em 1899, 957x635 px (fig. 5, p. 158)",
+    "Autor": "Companhia de Moçambique",
+    "Data": "1899",
+    "Detentor": "indicada na legenda como 'Silveira (n.d.)'; detentor original não verificado",
+    "Fonte de onde foi obtida (URL)": "Fernandes, Mealha & Mendes (2016), via Redalyc (https://www.redalyc.org/pdf/1931/193143596011.pdf)",
+    "Situação de direitos": "reproducao_com_citacao (planta de 1899, provável domínio público por idade, não verificado)"
+   },
+   {
+    "Arquivo do site": "fig7_anteprojecto_1943_alegre_porto.webp",
+    "Descrição": "Anteprojecto de Urbanização da Cidade da Beira, Ribeiro Alegre e José Porto, 957x685 px (fig. 7, p. 159), com perspetiva",
+    "Autor": "Joaquim de Oliveira Ribeiro Alegre; José Porto",
+    "Data": "1943",
+    "Detentor": "fonte indicada na legenda: Portugal (1946); detentor original não verificado",
+    "Fonte de onde foi obtida (URL)": "Fernandes, Mealha & Mendes (2016), via Redalyc (https://www.redalyc.org/pdf/1931/193143596011.pdf)",
+    "Situação de direitos": "reproducao_com_citacao (autores portugueses, direitos não verificados)"
+   },
+   {
+    "Arquivo do site": "beira_1943_plano_2048.webp",
+    "Descrição": "Cidade da Beira, Projecto de Urbanização, Vista Geral (perspetiva aérea), 2048x1481 px",
+    "Autor": "Sociedade Portuguesa de Fomento; assinatura José Porto",
+    "Data": "1943",
+    "Detentor": "n.i. (imagem enviada por Luiz A. Portugal Deveza ao blogue)",
+    "Fonte de onde foi obtida (URL)": "Blogue The Delagoa Bay World, 16/05/2018 (https://delagoabayworld.wordpress.com/wp-content/uploads/2018/05/beira-cidade-futuro-1943-cc3b3pia-1.jpg)",
+    "Situação de direitos": "reproducao_com_citacao (direitos do blogue e do original não declarados; citar blogue e autor)"
+   }
+  ],
+  "dados": [
+   {
+    "Fonte": "Digital Earth Africa GeoMAD",
+    "Licença": "CC BY 4.0 (https://www.digitalearthafrica.org)"
+   },
+   {
+    "Fonte": "Landsat Collection 2 (USGS) via Microsoft Planetary Computer",
+    "Licença": "Domínio público (USGS)"
+   },
+   {
+    "Fonte": "Copernicus DEM GLO-30",
+    "Licença": "© DLR/Airbus, licença Copernicus"
+   },
+   {
+    "Fonte": "ESA WorldCover 2020 (v100) e 2021 (v200)",
+    "Licença": "CC BY 4.0"
+   },
+   {
+    "Fonte": "Global Mangrove Watch v3.0 (Bunting et al., Zenodo, DOI 10.5281/zenodo.6894273)",
+    "Licença": "CC BY 4.0"
+   },
+   {
+    "Fonte": "Impact Observatory/Esri LULC",
+    "Licença": "CC BY 4.0"
+   },
+   {
+    "Fonte": "GLAD GLCLUC (Univ. of Maryland)",
+    "Licença": "CC BY 4.0 (licença a confirmar)"
+   },
+   {
+    "Fonte": "GHSL (European Commission JRC)",
+    "Licença": "CC BY 4.0"
+   },
+   {
+    "Fonte": "ESA CCI Land Cover",
+    "Licença": "Licença ESA CCI (a confirmar)"
+   },
+   {
+    "Fonte": "WSF Evolution (DLR)",
+    "Licença": "(a confirmar)"
+   },
+   {
+    "Fonte": "HDX COD-AB Moçambique (OCHA)",
+    "Licença": "CC BY-IGO (a confirmar)"
+   },
+   {
+    "Fonte": "OpenStreetMap",
+    "Licença": "© contribuidores do OpenStreetMap, ODbL"
+   }
+  ]
+ },
+ "imagens": [
+  {
+   "arquivo": "fig4_loteamento_1898.webp",
+   "plano_id": "loteamento_1898",
+   "titulo": "Projecto de Loteamento da Beira",
+   "legenda": "Projecto de Loteamento da Beira (1898), detalhe, 957x638 px (fig. 4, p. 157)",
+   "data": "1898",
+   "autor": "n.i.",
+   "detentor": "Arquivo Histórico de Moçambique (foto AHM 2011, segundo Fernandes et al.)",
+   "licenca": "reproducao_com_citacao (artigo sob licença Creative Commons, versão não indicada; direitos do original não verificados)",
+   "fonte": "Fernandes, Mealha & Mendes (2016), urbe 8(1), via Redalyc (https://www.redalyc.org/pdf/1931/193143596011.pdf)",
+   "plano": "Projecto de Loteamento da Beira (1898), detalhe",
+   "mini": true
+  },
+  {
+   "arquivo": "fig5_plano_urbanizacao_1899_cia_mocambique.webp",
+   "plano_id": "companhia_1899",
+   "titulo": "Companhia de Moçambique",
+   "legenda": "Companhia de Moçambique, Planta da Beira em 1899, 957x635 px (fig. 5, p. 158)",
+   "data": "1899",
+   "autor": "Companhia de Moçambique",
+   "detentor": "indicada na legenda como 'Silveira (n.d.)'; detentor original não verificado",
+   "licenca": "reproducao_com_citacao (planta de 1899, provável domínio público por idade, não verificado)",
+   "fonte": "Fernandes, Mealha & Mendes (2016), via Redalyc (https://www.redalyc.org/pdf/1931/193143596011.pdf)",
+   "plano": "Planta da Beira em 1899 (planta de urbanização da Companhia de Moçambique)",
+   "mini": true
+  },
+  {
+   "arquivo": "fig7_anteprojecto_1943_alegre_porto.webp",
+   "plano_id": "alegre_porto_1943",
+   "titulo": "Anteprojecto de Urbanização da Cidade da Beira",
+   "legenda": "Anteprojecto de Urbanização da Cidade da Beira, Ribeiro Alegre e José Porto, 957x685 px (fig. 7, p. 159), com perspetiva",
+   "data": "1943",
+   "autor": "Joaquim de Oliveira Ribeiro Alegre; José Porto",
+   "detentor": "fonte indicada na legenda: Portugal (1946); detentor original não verificado",
+   "licenca": "reproducao_com_citacao (autores portugueses, direitos não verificados)",
+   "fonte": "Fernandes, Mealha & Mendes (2016), via Redalyc (https://www.redalyc.org/pdf/1931/193143596011.pdf)",
+   "plano": "Ante-Projecto de Urbanização da Cidade da Beira",
+   "mini": true
+  },
+  {
+   "arquivo": "beira_1943_plano_2048.webp",
+   "plano_id": "alegre_porto_1943",
+   "titulo": "Cidade da Beira",
+   "legenda": "Cidade da Beira, Projecto de Urbanização, Vista Geral (perspetiva aérea), 2048x1481 px",
+   "data": "1943",
+   "autor": "Sociedade Portuguesa de Fomento; assinatura José Porto",
+   "detentor": "n.i. (imagem enviada por Luiz A. Portugal Deveza ao blogue)",
+   "licenca": "reproducao_com_citacao (direitos do blogue e do original não declarados; citar blogue e autor)",
+   "fonte": "Blogue The Delagoa Bay World, 16/05/2018 (https://delagoabayworld.wordpress.com/wp-content/uploads/2018/05/beira-cidade-futuro-1943-cc3b3pia-1.jpg)",
+   "plano": "Ante-Projecto de Urbanização da Cidade da Beira",
+   "mini": true
+  }
+ ],
+ "marcos": [
+  {
+   "ano": 1887,
+   "data": "1887-08-19",
+   "tipo": "outro",
+   "titulo": "Soberania portuguesa afirmada na ponta Chiveve",
+   "descricao": "Fundação militar do núcleo (pequeno aquartelamento) na ponta Chiveve, entre os rios Púnguè e Búzi.",
+   "fonte_chave": "fernandes_2016",
+   "pagina": "156-157",
+   "tipo_pt": "Outro",
+   "imagens": []
+  },
+  {
+   "ano": 1890,
+   "data": null,
+   "tipo": "politica",
+   "titulo": "Companhia de Moçambique obtém a concessão da região",
+   "descricao": "Concessão com soberania contratual; deveres de porto e caminho de ferro.",
+   "fonte_chave": "fernandes_2016",
+   "pagina": "156-157",
+   "tipo_pt": "Política",
+   "imagens": []
+  },
+  {
+   "ano": 1907,
+   "data": null,
+   "tipo": "politica",
+   "titulo": "Beira elevada a cidade",
+   "descricao": "Já sob a Companhia de Moçambique.",
+   "fonte_chave": "fernandes_2016",
+   "pagina": "156-157",
+   "tipo_pt": "Política",
+   "imagens": []
+  },
+  {
+   "ano": 1942,
+   "data": null,
+   "tipo": "politica",
+   "titulo": "Extinção da Companhia de Moçambique",
+   "descricao": "Nacionalização de caminhos de ferro e porto; impulso de expansão habitacional.",
+   "fonte_chave": "fernandes_2016",
+   "pagina": "158",
+   "tipo_pt": "Política",
+   "imagens": []
+  },
+  {
+   "ano": 1943,
+   "data": null,
+   "tipo": "plano",
+   "titulo": "Concurso e anteprojeto de urbanização (Ribeiro Alegre e José Porto)",
+   "descricao": "Plano de expansão zonado por grupos populacionais, com aterros e drenagem previstos; aerogare na Manga.",
+   "fonte_chave": "fernandes_2016",
+   "pagina": "158",
+   "tipo_pt": "Plano",
+   "imagens": [
+    "fig7_anteprojecto_1943_alegre_porto.webp",
+    "beira_1943_plano_2048.webp"
+   ]
+  },
+  {
+   "ano": 1976,
+   "data": null,
+   "tipo": "outro",
+   "titulo": "Início da guerra civil (1976-1992): deslocados nas cidades",
+   "descricao": "Deslocados ocuparam vazios urbanos e espaços periféricos reservados à agricultura (Custódio e Maloa 2018, citado).",
+   "fonte_chave": "maidjelele_2023",
+   "pagina": "61",
+   "tipo_pt": "Outro",
+   "imagens": []
+  },
+  {
+   "ano": 1976,
+   "data": "1976-03",
+   "tipo": "politica",
+   "titulo": "Fecho da fronteira com a Rodésia",
+   "descricao": "Afeta a economia do porto (fonte secundária de divulgação).",
+   "fonte_chave": "darch_2025",
+   "pagina": "sem paginação",
+   "tipo_pt": "Política",
+   "imagens": []
+  },
+  {
+   "ano": 1980,
+   "data": null,
+   "tipo": "obra",
+   "titulo": "Década de 1980: rio Chiveve fechado",
+   "descricao": "Rio de maré de 3,5 km \"closed off in the 1980s\"; fonte de cheias e poluição.",
+   "fonte_chave": "shannon_2018",
+   "pagina": "10",
+   "tipo_pt": "Obra",
+   "imagens": []
+  },
+  {
+   "ano": 1998,
+   "data": null,
+   "tipo": "politica",
+   "titulo": "Beira torna-se município com prefeitos eleitos",
+   "descricao": "Fonte secundária de divulgação.",
+   "fonte_chave": "darch_2025",
+   "pagina": "sem paginação",
+   "tipo_pt": "Política",
+   "imagens": []
+  },
+  {
+   "ano": 2009,
+   "data": null,
+   "tipo": "politica",
+   "titulo": "Criação do GAZEDA (zonas económicas especiais)",
+   "descricao": "Base institucional da SEZ Manga-Mungassa.",
+   "fonte_chave": "shannon_2018",
+   "pagina": "8",
+   "tipo_pt": "Política",
+   "imagens": []
+  },
+  {
+   "ano": 2010,
+   "data": null,
+   "tipo": "politica",
+   "titulo": "Beira escolhida para o PPCR (Banco Mundial)",
+   "descricao": "Financiamento da drenagem; resistência inicial do governo central.",
+   "fonte_chave": "shannon_2018",
+   "pagina": "12-13",
+   "tipo_pt": "Política",
+   "imagens": []
+  },
+  {
+   "ano": 2012,
+   "data": null,
+   "tipo": "politica",
+   "titulo": "SEZ Manga-Mungassa aprovada pelo GAZEDA",
+   "descricao": "217 ha alocados; 1.000 ha para expansão.",
+   "fonte_chave": "shannon_2018",
+   "pagina": "8",
+   "tipo_pt": "Política",
+   "imagens": []
+  },
+  {
+   "ano": 2013,
+   "data": null,
+   "tipo": "outro",
+   "titulo": "Primeiro reassentamento da SEZ para Ndunda",
+   "descricao": "Cerca de 50 famílias recenseadas; mudança de local na semana anterior.",
+   "fonte_chave": "shannon_2018",
+   "pagina": "8-9",
+   "tipo_pt": "Outro",
+   "imagens": []
+  },
+  {
+   "ano": 2013,
+   "data": "2013-11-19",
+   "tipo": "plano",
+   "titulo": "Masterplan Beira 2035 (versão final)",
+   "descricao": "Consórcio Deltares/Witteveen+Bos com o CMB; ação imediata: travar concessões de uso do solo descontroladas.",
+   "fonte_chave": "masterplan_2013",
+   "pagina": "sumário (PDF p. 9)",
+   "tipo_pt": "Plano",
+   "imagens": []
+  },
+  {
+   "ano": 2014,
+   "data": null,
+   "tipo": "obra",
+   "titulo": "Despejo da comunidade do Mangal (Chiveve)",
+   "descricao": "Fim de 2014; 34 famílias.",
+   "fonte_chave": "shannon_2018",
+   "pagina": "11",
+   "tipo_pt": "Obra",
+   "imagens": []
+  },
+  {
+   "ano": 2016,
+   "data": "2016-11-22",
+   "tipo": "outro",
+   "titulo": "Protesto de camponesas na Munhava Matope",
+   "descricao": "Machambas confiscadas para parque de automóveis.",
+   "fonte_chave": "noticias_2016",
+   "pagina": "1",
+   "tipo_pt": "Outro",
+   "imagens": []
+  },
+  {
+   "ano": 2017,
+   "data": null,
+   "tipo": "obra",
+   "titulo": "Inauguração da fase 1 do Chiveve (lagoa e comporta de maré)",
+   "descricao": "Início de 2017; fase 2 (parque) prevista.",
+   "fonte_chave": "shannon_2018",
+   "pagina": "12",
+   "tipo_pt": "Obra",
+   "imagens": []
+  },
+  {
+   "ano": 2019,
+   "data": "2019-03-14",
+   "tipo": "ciclone",
+   "titulo": "Ciclone Idai toca terra perto da Beira",
+   "descricao": "Categoria 4; ventos de 180-220 km/h; mais de 200 mm em 24 h.",
+   "fonte_chave": "reach_2019",
+   "pagina": "5",
+   "tipo_pt": "Ciclone",
+   "imagens": []
+  },
+  {
+   "ano": 2019,
+   "data": "2019-06",
+   "tipo": "politica",
+   "titulo": "Promessa de US$ 1,2 bilhão de doadores para recuperação",
+   "descricao": "Conferência em Maputo (reportagem).",
+   "fonte_chave": "csmonitor_2021",
+   "pagina": "sem paginação",
+   "tipo_pt": "Política",
+   "imagens": []
+  },
+  {
+   "ano": 2020,
+   "data": "2020-12",
+   "tipo": "ciclone",
+   "titulo": "Tempestade tropical Chalane",
+   "descricao": "Citada como evento recente de risco.",
+   "fonte_chave": "acaps_2021",
+   "pagina": "2",
+   "tipo_pt": "Ciclone",
+   "imagens": []
+  },
+  {
+   "ano": 2021,
+   "data": null,
+   "tipo": "obra",
+   "titulo": "Parque do Chiveve concluído",
+   "descricao": "Segundo reportagem de out. 2021; áreas divergentes entre fontes (17, 20 ha, 108 acres).",
+   "fonte_chave": "csmonitor_2021",
+   "pagina": "sem paginação",
+   "tipo_pt": "Obra",
+   "imagens": []
+  },
+  {
+   "ano": 2021,
+   "data": "2021-01-23",
+   "tipo": "ciclone",
+   "titulo": "Ciclone Eloise toca terra perto da Beira",
+   "descricao": "Epicentro no distrito de Buzi; 314.000 afetados.",
+   "fonte_chave": "acaps_2021",
+   "pagina": "1",
+   "tipo_pt": "Ciclone",
+   "imagens": []
+  }
+ ],
+ "maputo_ref": {
+  "origem": "zonas.verdes.maputo/dados/proc/resultados.json",
+  "doi": "10.5281/zenodo.24141821",
+  "ano_final": 2025,
+  "crescimento_pct": {
+   "ghsl": 36.7,
+   "bruto": 59.3,
+   "final": 100.3
+  },
+  "crescimento_min": 36.7,
+  "crescimento_max": 100.3,
+  "baixadas": {
+   "1985": [
+    3.6,
+    4.51
+   ],
+   "2025": [
+    7.76,
+    13.68
+   ]
+  },
+  "rotulo_baixada": "Baixadas (altitude < 15 m, TPI < 0)",
+  "area_cidade_ha": 29861,
+  "construido_ha_1985": {
+   "ghsl": 4056,
+   "bruto": 6899,
+   "final": 6405
+  },
+  "construido_ha_2025": {
+   "ghsl": 5545,
+   "bruto": 10987,
+   "final": 12827
+  }
+ },
+ "citacao": "PESSINI SOBREIRA, Daniel. Zonas verdes da Beira, 1985–2026: agricultura urbana e periurbana, baixadas e mangal. Zenodo, 2026. DOI: a atribuir.",
+ "doi": {
+  "conceito": null,
+  "v1.0.0": null,
+  "maputo": "10.5281/zenodo.24141821"
+ },
+ "meta": {
+  "gerado_em": "2026-11-11",
+  "script": "scripts/12_resultados.py",
+  "crs_trabalho": "EPSG:32736",
+  "resolucao_m": 30.0,
+  "bbox_lonlat": [
+   34.72,
+   -19.95,
+   35.1,
+   -19.6
+  ],
+  "area_municipio_ha": 60716,
+  "entradas": [
+   "dados/proc/areas/*.csv",
+   "dados/proc/areas/envelopes_resumo.json",
+   "dados/proc/class_final/*.tif",
+   "dados/proc/class/oob.json",
+   "dados/proc/validacao/exatidao_2020.json (opcional)",
+   "dados/proc/validacao/exatidao_2020_sem_baixa.json (opcional)",
+   "dados/proc/limites.gpkg",
+   "dados/proc/dem.tif",
+   "dados/proc/tpi.tif",
+   "fontes/series_producao.csv",
+   "fontes/marcos.csv",
+   "fontes/planos.csv",
+   "fontes/conflitos.csv",
+   "fontes/casos_costeiros.csv",
+   "fontes/casos_comparados_maputo.csv",
+   "fontes/figuras_planos.csv",
+   "CREDITOS.md",
+   "../zonas.verdes.maputo/dados/proc/resultados.json (opcional)"
+  ],
+  "validacao_independente_disponivel": true,
+  "ressalvas": [
+   "1979 (Landsat MSS, 60 m) é indicativa e fica fora das séries quantitativas: legenda reduzida.",
+   "Épocas de cena única ou de mediana de cenas (1985, 2005, 2007, 2026) não são composições anuais; ver a legenda de cada época.",
+   "As classes 2 (agricultura de baixada; exatidão do usuário 0,02 na validação) e 3 (cultivo e mosaico de terra firme) são indicativas: a 3 é a de maior confusão com herbácea e construído disperso.",
+   "Hortas pequenas são subpíxel a 30 m; as áreas são estimativas do mapa, não áreas ajustadas por amostra probabilística."
+  ]
+ }
+}

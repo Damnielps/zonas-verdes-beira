@@ -1,0 +1,719 @@
+{
+ "imagem": {
+  "1979": {
+   "arquivo": "img/painel/img_1979.webp?v=cdb1f224",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ],
+   "composicao": "falsa-cor NIR-vermelho-verde",
+   "estiramento": "percentis 2-98% por canal"
+  },
+  "1985": {
+   "arquivo": "img/painel/img_1985.webp?v=a7c98e4a",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ],
+   "composicao": "cor verdadeira (vermelho, verde, azul)",
+   "estiramento": "percentis 2-98% por canal"
+  },
+  "1990": {
+   "arquivo": "img/painel/img_1990.webp?v=1ca60e5f",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ],
+   "composicao": "cor verdadeira (vermelho, verde, azul)",
+   "estiramento": "percentis 2-98% por canal"
+  },
+  "1995": {
+   "arquivo": "img/painel/img_1995.webp?v=01580751",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ],
+   "composicao": "cor verdadeira (vermelho, verde, azul)",
+   "estiramento": "percentis 2-98% por canal"
+  },
+  "1997": {
+   "arquivo": "img/painel/img_1997.webp?v=d3ffeece",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ],
+   "composicao": "cor verdadeira (vermelho, verde, azul)",
+   "estiramento": "percentis 2-98% por canal"
+  },
+  "2000": {
+   "arquivo": "img/painel/img_2000.webp?v=3f6bed2d",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ],
+   "composicao": "cor verdadeira (vermelho, verde, azul)",
+   "estiramento": "percentis 2-98% por canal"
+  },
+  "2005": {
+   "arquivo": "img/painel/img_2005.webp?v=e92d60c0",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ],
+   "composicao": "cor verdadeira (vermelho, verde, azul)",
+   "estiramento": "percentis 2-98% por canal"
+  },
+  "2007": {
+   "arquivo": "img/painel/img_2007.webp?v=883b343d",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ],
+   "composicao": "cor verdadeira (vermelho, verde, azul)",
+   "estiramento": "percentis 2-98% por canal"
+  },
+  "2010": {
+   "arquivo": "img/painel/img_2010.webp?v=c3a7be47",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ],
+   "composicao": "cor verdadeira (vermelho, verde, azul)",
+   "estiramento": "percentis 2-98% por canal"
+  },
+  "2015": {
+   "arquivo": "img/painel/img_2015.webp?v=c61b2e4c",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ],
+   "composicao": "cor verdadeira (vermelho, verde, azul)",
+   "estiramento": "percentis 2-98% por canal"
+  },
+  "2017": {
+   "arquivo": "img/painel/img_2017.webp?v=da7492b6",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ],
+   "composicao": "cor verdadeira (vermelho, verde, azul)",
+   "estiramento": "percentis 2-98% por canal"
+  },
+  "2019": {
+   "arquivo": "img/painel/img_2019.webp?v=c12a8b57",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ],
+   "composicao": "cor verdadeira (vermelho, verde, azul)",
+   "estiramento": "percentis 2-98% por canal"
+  },
+  "2020": {
+   "arquivo": "img/painel/img_2020.webp?v=9d1320a7",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ],
+   "composicao": "cor verdadeira (vermelho, verde, azul)",
+   "estiramento": "percentis 2-98% por canal"
+  },
+  "2025": {
+   "arquivo": "img/painel/img_2025.webp?v=893b1de6",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ],
+   "composicao": "cor verdadeira (vermelho, verde, azul)",
+   "estiramento": "percentis 2-98% por canal"
+  },
+  "2026": {
+   "arquivo": "img/painel/img_2026.webp?v=88994725",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ],
+   "composicao": "cor verdadeira (vermelho, verde, azul)",
+   "estiramento": "percentis 2-98% por canal"
+  }
+ },
+ "classes": {
+  "1979": {
+   "arquivo": "img/painel/cls_1979.webp?v=85fa73da",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ]
+  },
+  "1985": {
+   "arquivo": "img/painel/cls_1985.webp?v=b64c4c75",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ]
+  },
+  "1990": {
+   "arquivo": "img/painel/cls_1990.webp?v=66676e63",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ]
+  },
+  "1995": {
+   "arquivo": "img/painel/cls_1995.webp?v=f80ffcf9",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ]
+  },
+  "1997": {
+   "arquivo": "img/painel/cls_1997.webp?v=9adf082d",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ]
+  },
+  "2000": {
+   "arquivo": "img/painel/cls_2000.webp?v=84f03672",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ]
+  },
+  "2005": {
+   "arquivo": "img/painel/cls_2005.webp?v=939b38c4",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ]
+  },
+  "2007": {
+   "arquivo": "img/painel/cls_2007.webp?v=fc9c45d4",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ]
+  },
+  "2010": {
+   "arquivo": "img/painel/cls_2010.webp?v=545f964f",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ]
+  },
+  "2015": {
+   "arquivo": "img/painel/cls_2015.webp?v=f2e7f812",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ]
+  },
+  "2017": {
+   "arquivo": "img/painel/cls_2017.webp?v=db083098",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ]
+  },
+  "2019": {
+   "arquivo": "img/painel/cls_2019.webp?v=34c434e4",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ]
+  },
+  "2020": {
+   "arquivo": "img/painel/cls_2020.webp?v=c72d2605",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ]
+  },
+  "2025": {
+   "arquivo": "img/painel/cls_2025.webp?v=014f43d3",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ]
+  },
+  "2026": {
+   "arquivo": "img/painel/cls_2026.webp?v=e2252401",
+   "coordenadas": [
+    [
+     34.716069,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.59582
+    ],
+    [
+     35.104748,
+     -19.954283
+    ],
+    [
+     34.716069,
+     -19.954283
+    ]
+   ]
+  }
+ },
+ "conversao": {
+  "arquivo": "img/painel/conversao.webp?v=c4946588",
+  "coordenadas": [
+   [
+    34.716069,
+    -19.59582
+   ],
+   [
+    35.104748,
+    -19.59582
+   ],
+   [
+    35.104748,
+    -19.954283
+   ],
+   [
+    34.716069,
+    -19.954283
+   ]
+  ],
+  "anos": [
+   1990,
+   1995,
+   1997,
+   2000,
+   2005,
+   2007,
+   2010,
+   2015,
+   2017,
+   2019,
+   2020,
+   2025,
+   2026
+  ],
+  "cores_hex": {
+   "1990": "#A9BEC9",
+   "1995": "#9EB5C1",
+   "1997": "#94ADBA",
+   "2000": "#89A4B2",
+   "2005": "#7E9BAA",
+   "2007": "#6D8C9D",
+   "2010": "#5C7D90",
+   "2015": "#4B6F83",
+   "2017": "#3A6076",
+   "2019": "#34586C",
+   "2020": "#2F5062",
+   "2025": "#294859",
+   "2026": "#24404F"
+  }
+ },
+ "tamanhos_bytes": {},
+ "tamanho_total_bytes": 5238826
+}

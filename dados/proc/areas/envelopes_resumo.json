@@ -1,0 +1,162 @@
+{
+ "ano_inicial": 1985,
+ "ano_final": 2025,
+ "perimetros": {
+  "baixada_dem<=10m_tpi<0": {
+   "pct_ghsl": {
+    "1985": 1.1,
+    "2025": 4.18,
+    "variacao_pp": 3.08
+   },
+   "pct_bruto": {
+    "1985": 4.15,
+    "2025": 11.77,
+    "variacao_pp": 7.62
+   },
+   "pct_final": {
+    "1985": 3.32,
+    "2025": 13.84,
+    "variacao_pp": 10.52
+   },
+   "intervalo_variacao_pp": [
+    3.08,
+    10.52
+   ],
+   "intervalo_pct_final_ano": [
+    4.18,
+    13.84
+   ],
+   "area_ha_2025": 21468.0
+  },
+  "baixada_dem<=6m_tpi<0": {
+   "pct_ghsl": {
+    "1985": 1.35,
+    "2025": 4.62,
+    "variacao_pp": 3.27
+   },
+   "pct_bruto": {
+    "1985": 4.65,
+    "2025": 13.84,
+    "variacao_pp": 9.19
+   },
+   "pct_final": {
+    "1985": 3.82,
+    "2025": 16.2,
+    "variacao_pp": 12.38
+   },
+   "intervalo_variacao_pp": [
+    3.27,
+    12.38
+   ],
+   "intervalo_pct_final_ano": [
+    4.62,
+    16.2
+   ],
+   "area_ha_2025": 15544.6
+  },
+  "baixada_dem<=8m_tpi<0": {
+   "pct_ghsl": {
+    "1985": 1.21,
+    "2025": 4.33,
+    "variacao_pp": 3.12
+   },
+   "pct_bruto": {
+    "1985": 4.17,
+    "2025": 12.3,
+    "variacao_pp": 8.13
+   },
+   "pct_final": {
+    "1985": 3.4,
+    "2025": 14.39,
+    "variacao_pp": 10.99
+   },
+   "intervalo_variacao_pp": [
+    3.12,
+    10.99
+   ],
+   "intervalo_pct_final_ano": [
+    4.33,
+    14.39
+   ],
+   "area_ha_2025": 18797.2
+  },
+  "mangal_ref_wc2020_gmw1996": {
+   "pct_ghsl": {
+    "1985": 0.02,
+    "2025": 0.07,
+    "variacao_pp": 0.05
+   },
+   "pct_bruto": {
+    "1985": 1.44,
+    "2025": 0.99,
+    "variacao_pp": -0.45
+   },
+   "pct_final": {
+    "1985": 0.85,
+    "2025": 4.31,
+    "variacao_pp": 3.46
+   },
+   "intervalo_variacao_pp": [
+    -0.45,
+    3.46
+   ],
+   "intervalo_pct_final_ano": [
+    0.07,
+    4.31
+   ],
+   "area_ha_2025": 4677.7
+  },
+  "municipio_total": {
+   "pct_ghsl": {
+    "1985": 1.22,
+    "2025": 4.35,
+    "variacao_pp": 3.13
+   },
+   "pct_bruto": {
+    "1985": 5.18,
+    "2025": 11.78,
+    "variacao_pp": 6.6
+   },
+   "pct_final": {
+    "1985": 3.97,
+    "2025": 14.31,
+    "variacao_pp": 10.34
+   },
+   "intervalo_variacao_pp": [
+    3.13,
+    10.34
+   ],
+   "intervalo_pct_final_ano": [
+    4.35,
+    14.31
+   ],
+   "area_ha_2025": 60232.1
+  },
+  "osm_agricola": {
+   "pct_ghsl": {
+    "1985": 0.04,
+    "2025": 0.89,
+    "variacao_pp": 0.85
+   },
+   "pct_bruto": {
+    "1985": 0.05,
+    "2025": 0.48,
+    "variacao_pp": 0.43
+   },
+   "pct_final": {
+    "1985": 0.05,
+    "2025": 0.25,
+    "variacao_pp": 0.2
+   },
+   "intervalo_variacao_pp": [
+    0.2,
+    0.85
+   ],
+   "intervalo_pct_final_ano": [
+    0.25,
+    0.89
+   ],
+   "area_ha_2025": 895.7
+  }
+ }
+}

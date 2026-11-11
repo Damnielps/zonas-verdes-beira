@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Zonas verdes da Beira, 1985–2026</title>
+<meta name="description" content="Agricultura urbana e periurbana, baixadas e mangal da Cidade da Beira, 1985–2026: ocupação construída em três estimativas, classificação de uso do solo, conflitos e produtores.">
+<link rel="stylesheet" href="assets/ardosia.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@5.24.0/dist/maplibre-gl.css" integrity="sha384-uTttxo/aOKbdE5RlD/SPzSDoDmNvGlUYPjONi2MN/b7c9HPSvW07OIuyP7uL6jxK" crossorigin="anonymous">
+<link rel="stylesheet" href="assets/site.css?v=20261111b">
+<link rel="stylesheet" href="assets/correcoes.css?v=20261111b">
+</head>
+<body>
+<a class="skip" href="#abertura">Ir para o conteúdo</a>
+<header class="topo">
+  <div class="wrap">
+    <a class="topo__marca" href="#abertura">Zonas verdes da Beira</a>
+    <nav aria-label="Seções">
+      <a href="#linha-do-tempo">Linha do tempo</a>
+      <a href="#painel">Painel</a>
+      <a href="#areas">Áreas</a>
+      <a href="#baixadas">Baixadas e mangal</a>
+      <a href="#conversao">Conversão</a>
+      <a href="#producao">Produção</a>
+      <a href="#planos">Planos</a>
+      <a href="#comparacao">Cidades</a>
+      <a href="#metodologia">Metodologia</a>
+      <a href="artigo.html">Artigo</a>
+    </nav>
+    <button type="button" class="btn-tema" id="btnTema" aria-label="Alternar tema claro e escuro">Tema</button>
+  </div>
+</header>
+
+<main>
+<section class="abertura" id="abertura" aria-labelledby="h-abertura">
+  <div class="wrap">
+    <p class="ard-kicker">Beira, 1985–2026</p>
+    <h1 id="h-abertura">Zonas verdes da Beira, 1985–2026</h1>
+    <p class="sub">Agricultura urbana e periurbana, machambas de baixada e mangal na Cidade da Beira vistos por quatro décadas de imagens de satélite.</p>
+    <div class="kpis" id="kpis" aria-label="Números-chave"></div>
+    <p class="nota" id="kpiNota" style="margin-top:14px"></p>
+    <div class="leia-artigo" role="region" aria-labelledby="h-leia">
+      <div>
+        <h2 id="h-leia">Leia o artigo</h2>
+        <p>O texto completo, com métodos, figuras, quadros e referências em ABNT, está disponível online e para baixar.</p>
+      </div>
+      <div class="baixar">
+        <a class="btn-baixar" href="artigo.html">Ler online</a>
+        <a class="btn-baixar btn-baixar--sec" href="artigo/artigo.pdf" download>Baixar PDF</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="sec" id="linha-do-tempo" aria-labelledby="h-tl">
+  <div class="wrap">
+    <p class="ard-kicker" id="tlKicker">Linha do tempo</p>
+    <h2 id="h-tl">Linha do tempo</h2>
+    <p class="lead">Marcos políticos, planos, obras e ciclones que moldaram a relação entre a cidade, as baixadas e o mangal. Clique numa miniatura para ver a imagem com o crédito completo.</p>
+    <div class="grupo" id="tlFiltros" role="group" aria-label="Filtrar por tipo"></div>
+    <ol class="tl" id="tlLista"></ol>
+  </div>
+</section>
+
+<section class="sec" id="painel" aria-labelledby="h-painel">
+  <div class="wrap">
+    <p class="ard-kicker">Painel evolutivo</p>
+    <h2 id="h-painel">Épocas sobre o mapa</h2>
+    <p class="lead">Composições de satélite e classificação de uso do solo em grade de 30 m. Escolha a época, alterne entre imagem, classificação e ano de conversão, ou compare dois anos lado a lado.</p>
+    <div class="painel">
+      <div class="painel__ctl">
+        <div class="painel__linha">
+          <button type="button" id="btnPlay" aria-pressed="false" aria-label="Reproduzir sequência de épocas">Reproduzir</button>
+          <span class="ano-grande" id="anoGrande" aria-live="polite">2026</span>
+          <div class="slider-wrap">
+            <input type="range" id="sliderAno" min="0" max="14" step="1" value="14" aria-label="Época do mapa">
+            <div class="ticks" id="ticksAno" aria-hidden="true"></div>
+          </div>
+        </div>
+        <div class="painel__linha">
+          <div class="grupo" id="modoGrupo" role="group" aria-label="Camada do mapa" style="margin:0">
+            <button type="button" data-modo="img" aria-pressed="false">Imagem</button>
+            <button type="button" data-modo="cls" aria-pressed="true">Classificação</button>
+            <button type="button" data-modo="conv" aria-pressed="false">Ano de conversão</button>
+          </div>
+          <label class="ctl"><input type="checkbox" id="chkComp"> Comparar dois anos</label>
+          <span id="selComp" hidden>
+            <label class="ctl">Esquerda <select id="selA" aria-label="Época à esquerda"></select></label>
+            <label class="ctl">Direita <select id="selB" aria-label="Época à direita"></select></label>
+          </span>
+        </div>
+        <div class="painel__linha" role="group" aria-label="Camadas adicionais">
+          <label class="ctl"><input type="checkbox" id="chkMun" checked> Limite do município</label>
+          <label class="ctl"><input type="checkbox" id="chkPosto"> Postos administrativos</label>
+          <label class="ctl"><input type="checkbox" id="chkBairro"> Bairros</label>
+          <label class="ctl"><input type="checkbox" id="chkBaix"> Baixadas ≤ 8 m</label>
+          <label class="ctl"><input type="checkbox" id="chkConf"> Conflitos</label>
+        </div>
+      </div>
+      <div class="mapa-wrap" id="mapaWrap" data-comp="0">
+        <div id="mapaA" class="mapa" role="application" aria-label="Mapa da Beira com camadas de satélite e classificação"></div>
+        <div id="mapaB" class="mapa mapa--b" aria-hidden="true"></div>
+        <div class="comp-linha" id="compLinha"></div>
+        <input type="range" class="comp-range" id="compRange" min="0" max="100" value="50" aria-label="Posição da divisória de comparação">
+        <span class="rot rot-a" id="rotA"></span><span class="rot rot-b" id="rotB"></span>
+      </div>
+      <p class="caveat" id="caveat"></p>
+      <ul class="legenda" id="legenda" aria-label="Legenda"></ul>
+      <p class="nota" id="notaMapa"></p>
+    </div>
+  </div>
+</section>
+
+<section class="sec" id="areas" aria-labelledby="h-areas">
+  <div class="wrap">
+    <p class="ard-kicker">Áreas ao longo do tempo</p>
+    <h2 id="h-areas">Ocupação construída e uso do solo, 1985–2026</h2>
+    <p class="lead">A medida mais robusta é a parcela construída, mostrada como faixa entre três estimativas que não são independentes (ver nota abaixo do gráfico). A série da agricultura de baixada (classe 2) é mostrada, mas é indicativa (exatidão do usuário 0,02 na validação): veja a seção de metodologia.</p>
+    <div class="fig" id="figMun"></div>
+    <h3>Classes de uso do solo</h3>
+    <div class="grupo" id="areasVista" role="group" aria-label="Tipo de gráfico">
+      <button type="button" data-v="emp" aria-pressed="true">Empilhado (ha)</button>
+      <button type="button" data-v="lin" aria-pressed="false">Linhas por classe (%)</button>
+      <button type="button" data-v="tab" aria-pressed="false">Tabela</button>
+    </div>
+    <label class="ctl" style="margin-left:8px">Recorte <select id="selDistrito" aria-label="Recorte espacial"></select></label>
+    <div class="fig" id="figAreas"></div>
+    <p class="nota" id="notaAreas"></p>
+  </div>
+</section>
+
+<section class="sec" id="baixadas" aria-labelledby="h-baix">
+  <div class="wrap">
+    <p class="ard-kicker">Baixadas, mangal e áreas agrícolas</p>
+    <h2 id="h-baix">Quanto das baixadas, do mangal e das feições agrícolas foi construído</h2>
+    <p class="lead">Três perímetros definidos sem usar a classificação agrícola: baixadas (altitude ≤ 8 m e TPI &lt; 0), mangal de referência e feições agrícolas do OpenStreetMap. Em cada um, a parcela construída é lida em três estimativas.</p>
+    <div class="fig" id="figEnv"></div>
+  </div>
+</section>
+
+<section class="sec" id="conversao" aria-labelledby="h-conv">
+  <div class="wrap">
+    <p class="ard-kicker">Conversão e conflitos</p>
+    <h2 id="h-conv">Da machamba ao loteamento</h2>
+    <p class="lead">Taxa anual de conversão de terra agrícola em construído, bairros com maior conversão de área agrícola mapeada em construído (indicativa) e os conflitos documentados na literatura e na imprensa.</p>
+    <div class="fig" id="figConv"></div>
+    <div class="fig" id="figBairros"></div>
+    <h3>Conflitos documentados</h3>
+    <p class="nota" id="notaConf"></p>
+    <ul class="conf" id="listaConf"></ul>
+  </div>
+</section>
+
+<section class="sec" id="producao" aria-labelledby="h-prod">
+  <div class="wrap">
+    <p class="ard-kicker">Produção e produtores</p>
+    <h2 id="h-prod">Quem cultiva, quanto e segundo que definição</h2>
+    <p class="lead">Os dados disponíveis vêm de fontes com definições espaciais e conceituais diferentes. Por isso nunca são ligados por linha entre definições distintas nem somados.</p>
+    <div id="producaoCorpo"></div>
+  </div>
+</section>
+
+<section class="sec" id="planos" aria-labelledby="h-planos">
+  <div class="wrap">
+    <p class="ard-kicker">Planos urbanísticos</p>
+    <h2 id="h-planos">Planos e cartografia histórica</h2>
+    <p class="lead">Planos e projetos identificados, com o tratamento dado à agricultura e ao mangal, e as imagens disponíveis com os créditos completos.</p>
+    <h3>Imagens</h3>
+    <div class="galeria" id="galeriaPlanos"></div>
+    <h3>Planos identificados</h3>
+    <div class="planos" id="planosLista"></div>
+  </div>
+</section>
+
+<section class="sec" id="comparacao" aria-labelledby="h-comp">
+  <div class="wrap">
+    <p class="ard-kicker">Comparação entre cidades</p>
+    <h2 id="h-comp">A Beira em perspectiva</h2>
+    <p class="lead">Mesmo método aplicado a Maputo (resultado publicado) e quadro de casos costeiros e africanos. Células em branco indicam dado não encontrado nas fontes lidas.</p>
+    <div id="compMaputo"></div>
+    <h3>Cidades costeiras</h3>
+    <div class="tab-rolavel"><table class="casos" id="tabCostas"></table></div>
+    <h3>Outros casos</h3>
+    <div class="tab-rolavel"><table class="casos" id="tabCasos"></table></div>
+  </div>
+</section>
+
+<section class="sec" id="metodologia" aria-labelledby="h-met">
+  <div class="wrap">
+    <p class="ard-kicker">Metodologia e dados</p>
+    <h2 id="h-met">Como os números foram produzidos</h2>
+    <div id="metCorpo"></div>
+  </div>
+</section>
+</main>
+
+<footer class="rodape"><div class="wrap">
+  <p id="rodape"></p>
+</div></footer>
+
+<dialog class="lb" id="lightbox" aria-label="Imagem ampliada">
+  <button type="button" class="fechar" id="lbFechar">Fechar</button>
+  <img id="lbImg" alt="">
+  <p class="cred" id="lbCred"></p>
+</dialog>
+
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@5.24.0/dist/maplibre-gl.js" integrity="sha384-5+cfbwT0iiub6VsQAdn6yz16nr6sDiQoHx6tm4O8OVYXHYOxcffFmCJBL0dgdvGp" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js" integrity="sha384-CjloA8y00+1SDAUkjs099PVfnY2KmDC2BZnws9kh8D/lX1s46w6EPhpXdqMfjK6i" crossorigin="anonymous"></script>
+<script src="dados/dados.js?v=20261111b"></script>
+<script src="assets/app.js?v=20261111b"></script>
+</body>
+</html>
