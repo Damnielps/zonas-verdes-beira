@@ -917,14 +917,58 @@ def exportar_web(blocos, meta):
     baixar = (f'<div class="baixar" role="group" aria-label="Baixar o artigo">'
               f'<a class="btn-baixar" href="artigo/artigo.pdf" download>Baixar PDF <span>{tam("pdf")}</span></a>'
               '</div>')
+    # metadados de indexacao (SEO, Google Scholar, JSON-LD), lidos do proprio texto
+    import json as _json
+    _res = [("".join(r["t"] for r in x["runs"])).strip() for x in blocos if x["type"] == "resumo"]
+    _resumo_pt = next((x for x in _res if not x.lower().startswith(("palavras-chave", "keywords"))), "")
+    _kw = next((x.split(":", 1)[1].strip().rstrip(".") for x in _res if x.lower().startswith("palavras-chave")), "")
+    _kws = [k.strip() for k in _kw.split(";") if k.strip()]
+    _desc = _resumo_pt if len(_resumo_pt) <= 155 else _resumo_pt[:155].rsplit(" ", 1)[0].rstrip(",;:.") + "…"
+    _base = "https://damnielps.github.io/zonas-verdes-beira/"
+    _url = _base + "artigo.html"
+    _pdf = _base + "artigo/artigo.pdf"
+    _doi = "10.5281/zenodo.24147238"
+    _autor_ci = "Pessini Sobreira, Daniel"
+    _img = _base + "artigo/img/fig4.webp"
+    _ld = {"@context": "https://schema.org", "@type": "ScholarlyArticle", "headline": meta["titulo"],
+           "author": {"@type": "Person", "name": "Daniel Pessini Sobreira", "sameAs": "https://orcid.org/" + meta["orcid"]},
+           "datePublished": "2026-11-11", "inLanguage": "pt", "identifier": "https://doi.org/" + _doi,
+           "url": _url, "isPartOf": {"@type": "WebSite", "name": "Zonas verdes da Beira, 1985–2026", "url": _base},
+           "license": "https://opensource.org/licenses/MIT", "abstract": _resumo_pt, "keywords": _kws}
+    _ld_json = _json.dumps(_ld, ensure_ascii=False, indent=2).replace("</", "<\\/")
+    _e = lambda v: html.escape(v, quote=True)
+    seo = f"""<meta name="description" content="{_e(_desc)}">
+<link rel="canonical" href="{_url}">
+<meta name="robots" content="index, follow">
+<meta name="author" content="Daniel Pessini Sobreira">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{_e(meta["titulo"])}">
+<meta property="og:description" content="{_e(_desc)}">
+<meta property="og:url" content="{_url}">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:site_name" content="Zonas verdes da Beira, 1985–2026">
+<meta property="og:image" content="{_img}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="citation_title" content="{_e(meta["titulo"])}">
+<meta name="citation_author" content="{_autor_ci}">
+<meta name="citation_publication_date" content="2026/11/11">
+<meta name="citation_language" content="pt">
+<meta name="citation_doi" content="{_doi}">
+<meta name="citation_pdf_url" content="{_pdf}">
+<meta name="citation_abstract_html_url" content="{_url}">
+<meta name="citation_keywords" content="{_e('; '.join(_kws))}">
+<meta name="citation_publisher" content="Zenodo">
+<script type="application/ld+json">
+{_ld_json}
+</script>
+"""
     doc = f"""<!doctype html>
-<html lang="pt-BR">
+<html lang="pt">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{html.escape(meta["titulo"])} (artigo)</title>
-<meta name="description" content="Artigo completo: evolução das zonas verdes (cintura agrícola periurbana) da Beira, 1985–2026. Leia online ou baixe em PDF.">
-<link rel="stylesheet" href="assets/ardosia.css">
+{seo}<link rel="stylesheet" href="assets/ardosia.css">
 <link rel="stylesheet" href="assets/site.css">
 <link rel="stylesheet" href="assets/correcoes.css">
 <link rel="stylesheet" href="assets/artigo.css">
