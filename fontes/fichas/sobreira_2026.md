@@ -12,7 +12,7 @@ Mesmo método deste projeto (GeoMAD/Landsat, Random Forest, pós-processamento t
 - Zonas verdes permanentes do Plano de Estrutura de 1985 construídas em 2025: 17,5–38,1 % (r_perm_2025_min/max).
 - Classe agropecuária do PEUMM 2008 construída em 2025: 8,0–15,7 % (r_peumm_2025_min/max).
 - Do artigo publicado (artigo_final.md, seção 3): Plano Geral de Urbanização de Aguiar (1955) com "zona rural de protecção" de pelo menos 5 km em torno da cidade, de função urbana e não agrícola (apud Pimentel, 2013); Gabinete das Zonas Verdes criado em maio de 1980 (apud Christie, 1996); Plano de Estrutura de 1985 com zonas verdes permanentes e provisórias; PEUMM 2008 com classe agropecuária.
-- Ocupação das baixadas mais rápida depois de 2010 nas três estimativas (artigo publicado, seções 6.2 e 8).
+- Ocupação das baixadas mais rápida depois de 2010 nas três estimativas (v1.0.1, seções 6.2 e 8): **afirmação retirada na v1.0.2** (DOI 10.5281/zenodo.24147339), que passa a comparar médias de 1985–1997 e 2017–2025 (baixadas: fator de 1,7 a 2,5) e declara as três estimativas não independentes. Não usar.
 ## Citações úteis
 Nenhuma.
 ## Relevância para o artigo
