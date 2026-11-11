@@ -6,6 +6,14 @@ authors:
   - family-names: "Pessini Sobreira"
     given-names: "Daniel"
     orcid: "https://orcid.org/0000-0002-6632-3991"
+doi: "10.5281/zenodo.24147238"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24147238"
+    description: "DOI conceitual: resolve sempre para a versão mais recente."
+  - type: doi
+    value: "10.5281/zenodo.24147239"
+    description: "DOI da versão v1.0.0 (2026-11-11)."
 license: MIT
 version: "1.0.0"
 date-released: "2026-11-11"

@@ -27,9 +27,9 @@ sys.path.insert(0, str(RAIZ / "scripts"))
 from ardosia_palette import (apply_ardosia, ARDOSIA, ARDOSIA_CL, ARDOSIA_NEV, TERRACOTA, PETROLEO,  # noqa: E402
                              PEDRA, GRAFITE, FILETE, TINTA, PAPEL_FIG)
 
-# Citação exibida no site (rodapé e "Como citar"). DOI ainda indefinido: trocar aqui quando existir.
+# Citação exibida no site (rodapé e "Como citar"). DOI conceitual (Zenodo).
 CITACAO_SITE = ("PESSINI SOBREIRA, Daniel. Zonas verdes da Beira (1985–2026): agricultura urbana, baixadas e "
-                "expansão construída. 2026. DOI: a atribuir.")
+                "expansão construída. Zenodo, 2026. DOI: 10.5281/zenodo.24147238.")
 
 TOLERAR = "--tolerar" in sys.argv
 SEM_PDF = "--sem-pdf" in sys.argv

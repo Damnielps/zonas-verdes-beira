@@ -1,5 +1,7 @@
 # Zonas verdes da Beira (1985–2026): agricultura urbana, baixadas e expansão construída
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24147238.svg)](https://doi.org/10.5281/zenodo.24147238)
+
 Site: https://damnielps.github.io/zonas-verdes-beira/ · Repositório: https://github.com/Damnielps/zonas-verdes-beira
 
 Artigo científico e site interativo sobre a evolução das baixadas, mangais e áreas de agricultura urbana e periurbana da Cidade da Beira, Moçambique. O projeto combina a história dos planos urbanísticos (do anteprojeto de 1943 ao Masterplan 2035) e dos conflitos de uso do solo com um painel de 15 épocas de imagens Landsat (1979–2026), classificado por Random Forest, avaliado por amostra cega e cruzado com perímetros independentes da classificação agrícola. É o projeto irmão de [Zonas verdes de Maputo](https://doi.org/10.5281/zenodo.24141821), com o mesmo método.
@@ -37,7 +39,7 @@ Ver `docs/PENDENCIAS.md`. Em resumo: a área de estudo cobre 94% do polígono mu
 
 ## Como citar
 
-PESSINI SOBREIRA, Daniel. *Zonas verdes da Beira (1985–2026): agricultura urbana, baixadas e expansão construída*. Zenodo, 2026. DOI a atribuir. Ver `CITATION.cff`.
+PESSINI SOBREIRA, Daniel. *Zonas verdes da Beira (1985–2026): agricultura urbana, baixadas e expansão construída*. Zenodo, 2026. DOI: 10.5281/zenodo.24147238. Disponível em: https://doi.org/10.5281/zenodo.24147238. Ver `CITATION.cff`.
 
 ## Licença e créditos
 

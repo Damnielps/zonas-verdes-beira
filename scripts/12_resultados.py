@@ -650,9 +650,9 @@ def main():
     R["imagens"] = imagens(cred)
     R["marcos"] = marcos(R["imagens"])
     R["maputo_ref"] = maputo_ref()
-    R["citacao"] = ("PESSINI SOBREIRA, Daniel. Zonas verdes da Beira, 1985–2026: agricultura urbana e periurbana, baixadas e mangal. "
-                                              "Zenodo, 2026. DOI: a atribuir.")
-    R["doi"] = antigo.get("doi") or {"conceito": None, "v1.0.0": None, "maputo": "10.5281/zenodo.24141821"}
+    R["citacao"] = ("PESSINI SOBREIRA, Daniel. Zonas verdes da Beira (1985–2026): agricultura urbana, baixadas e expansão construída. "
+                                              "Zenodo, 2026. DOI: 10.5281/zenodo.24147238.")
+    R["doi"] = {"conceito": "10.5281/zenodo.24147238", "v1.0.0": "10.5281/zenodo.24147239", "maputo": "10.5281/zenodo.24141821"}
     R["meta"] = dict(
         gerado_em=datetime.date.today().isoformat(), script="scripts/12_resultados.py", crs_trabalho=CRS, resolucao_m=RES,
         bbox_lonlat=[LON_MIN, LAT_MIN, LON_MAX, LAT_MAX], area_municipio_ha=R["area_municipio_ha"],
